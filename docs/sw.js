@@ -1,12 +1,21 @@
-const CACHE_NAME = "linguaday-v2";
+const CACHE_NAME = "linguaday-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./app.css",
-  "./app.js",
+  "./app-part-1.js",
+  "./app-part-2.js",
+  "./app-part-3.js",
+  "./app-part-4.js",
+  "./app-part-5.js",
+  "./app-part-6.js",
+  "./app-part-7.js",
+  "./app-part-8.js",
+  "./app-loader.js",
   "./manifest.webmanifest",
   "./icon-192.png",
-  "./icon-512.png"
+  "./icon-512.png",
+  "./bbc-news.json"
 ];
 
 self.addEventListener("install", (event) => {
@@ -25,15 +34,18 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
+  const url = new URL(event.request.url);
+  if (url.origin !== self.location.origin) return;
+
   event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request).then((response) => {
-        if (!response || response.status !== 200 || response.type === "opaque") return response;
-        const copy = response.clone();
-        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+    fetch(event.request)
+      .then((response) => {
+        if (response && response.status === 200) {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+        }
         return response;
-      });
-    })
+      })
+      .catch(() => caches.match(event.request).then((cached) => cached || caches.match("./index.html")))
   );
 });
