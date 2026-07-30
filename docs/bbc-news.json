@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-07-30T12:14:45.346473Z",
+  "updatedAt": "2026-07-30T17:11:17.191431Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo#0",
@@ -23,14 +23,21 @@
       "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T11:48:50Z"
+      "publishedAt": "2026-07-30T15:35:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
-      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
       "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
       "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T09:10:11Z"
+      "publishedAt": "2026-07-30T16:04:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo#0",
+      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T15:20:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo#0",
@@ -40,18 +47,11 @@
       "publishedAt": "2026-07-30T10:34:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po#0",
-      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
-      "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T09:34:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko#0",
-      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T20:21:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo#0",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T12:14:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o#1",
@@ -61,11 +61,11 @@
       "publishedAt": "2026-07-30T07:23:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crrvqjw8epko#1",
-      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-      "description": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
-      "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T02:54:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po#1",
+      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+      "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
+      "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T09:34:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo#1",
@@ -73,6 +73,20 @@
       "description": "Telegram told the BBC it rejects the allegations and will contest them in court.",
       "link": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-30T03:03:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crrvqjw8epko#1",
+      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "description": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+      "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T02:54:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo#1",
+      "title": "Worth $5m? Visitors react to renovated Washington horse statues",
+      "description": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
+      "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T22:23:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o#1",
@@ -110,13 +124,6 @@
       "publishedAt": "2026-07-30T00:14:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno#1",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T10:23:29Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c62q5we799ro#2",
       "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
       "description": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
@@ -124,25 +131,18 @@
       "publishedAt": "2026-07-29T16:49:41Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko#2",
+      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T20:21:46Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo#2",
       "title": "The Chinese robot army transforming the UK's retail industry",
       "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
       "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T22:08:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o#2",
-      "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
-      "description": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
-      "link": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T22:50:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo#2",
-      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-      "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
-      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T23:25:53Z"
     }
   ]
 }
