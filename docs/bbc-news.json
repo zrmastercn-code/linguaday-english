@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-07-30T17:11:17.191431Z",
+  "updatedAt": "2026-07-30T22:17:42.052870Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo#0",
+      "title": "Uefa to boycott World Cups if Fifa plans approved",
+      "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T16:47:40Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo#0",
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
@@ -12,11 +19,18 @@
       "publishedAt": "2026-07-30T10:49:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#0",
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T18:41:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo#0",
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T17:26:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo#0",
+      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "description": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T21:24:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
@@ -26,13 +40,6 @@
       "publishedAt": "2026-07-30T15:35:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-      "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T16:04:53Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo#0",
       "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
       "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
@@ -40,18 +47,39 @@
       "publishedAt": "2026-07-30T15:20:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#0",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T17:55:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo#1",
+      "title": "Father of teen school shooter sentenced to 15 years in prison",
+      "description": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T17:33:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo#1",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T12:14:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo#1",
       "title": "Nicaraguan leader proposes extending presidential term by another year",
       "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
       "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-30T10:34:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo#0",
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-      "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T12:14:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9w01781981o#1",
+      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+      "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T16:04:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o#1",
@@ -115,34 +143,6 @@
       "description": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T11:47:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko#1",
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T00:14:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62q5we799ro#2",
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "description": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
-      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T16:49:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko#2",
-      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T20:21:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo#2",
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T22:08:29Z"
     }
   ]
 }
