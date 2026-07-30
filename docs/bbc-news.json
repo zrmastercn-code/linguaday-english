@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-07-30T05:04:44.586825Z",
+  "updatedAt": "2026-07-30T12:14:45.346473Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo#0",
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "description": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+      "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
       "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T03:33:01Z"
+      "publishedAt": "2026-07-30T10:49:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#0",
@@ -19,18 +19,32 @@
       "publishedAt": "2026-07-29T18:41:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo#0",
-      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-      "description": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T01:53:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T11:48:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62q5we799ro#0",
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "description": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
-      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T16:49:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
+      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+      "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T09:10:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo#0",
+      "title": "Nicaraguan leader proposes extending presidential term by another year",
+      "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+      "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T10:34:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po#0",
+      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+      "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
+      "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T09:34:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko#0",
@@ -40,18 +54,11 @@
       "publishedAt": "2026-07-29T20:21:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o#0",
-      "title": "Salman Rushdie attacker convicted of terror offences",
-      "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T22:15:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o#1",
       "title": "Trump considering AI controls after OpenAI hacking incidents",
       "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
       "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T00:41:28Z"
+      "publishedAt": "2026-07-30T07:23:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crrvqjw8epko#1",
@@ -73,6 +80,13 @@
       "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
       "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T21:36:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o#1",
+      "title": "Salman Rushdie attacker convicted of terror offences",
+      "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T22:15:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo#1",
@@ -103,32 +117,11 @@
       "publishedAt": "2026-07-29T10:23:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o#1",
-      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-      "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T09:02:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyjgyd0225o#1",
-      "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
-      "description": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T08:16:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c204n74xyv3o#1",
-      "title": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
-      "description": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
-      "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T10:35:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c70g6y24d76o#1",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T13:48:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/c62q5we799ro#2",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+      "description": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
+      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T16:49:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo#2",
@@ -143,6 +136,13 @@
       "description": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
       "link": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T22:50:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo#2",
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T23:25:53Z"
     }
   ]
 }
