@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-07-31T21:53:19.436782Z",
+  "updatedAt": "2026-08-01T08:42:18.096846Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po#0",
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "description": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T05:42:31Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o#0",
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
@@ -12,25 +19,32 @@
       "publishedAt": "2026-07-31T17:03:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo#0",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T15:18:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o#0",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T05:01:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce973yvk7pko#0",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T08:24:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o#0",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
-      "description": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+      "description": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
       "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T20:22:46Z"
+      "publishedAt": "2026-08-01T07:22:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro#0",
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T10:32:17Z"
+      "publishedAt": "2026-08-01T02:21:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o#0",
@@ -40,11 +54,18 @@
       "publishedAt": "2026-07-31T14:26:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o#0",
-      "title": "Fifa says 'nobody selling football' as plan continues",
-      "description": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T08:21:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo#1",
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T23:58:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo#1",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "description": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T00:20:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crrv7vk0knro#1",
@@ -52,34 +73,6 @@
       "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
       "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-31T05:21:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo#1",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "description": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T08:09:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo#1",
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T15:20:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo#1",
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T17:26:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo#1",
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T16:47:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#1",
@@ -131,18 +124,25 @@
       "publishedAt": "2026-07-30T16:04:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o#1",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T07:23:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no#2",
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
+      "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T23:41:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po#1",
-      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
-      "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T09:34:00Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo#2",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T00:04:26Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo#2",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T15:18:31Z"
     }
   ]
 }
