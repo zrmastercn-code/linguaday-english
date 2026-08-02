@@ -2,28 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-02T07:16:34.900280Z",
+  "updatedAt": "2026-08-02T12:42:42.353932Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o#0",
-      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T06:24:01Z"
+      "publishedAt": "2026-08-02T11:12:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62vl925dqdo#0",
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
       "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
       "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T00:55:16Z"
+      "publishedAt": "2026-08-02T10:32:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cz7d17r455go#0",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T20:09:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo#0",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "description": "The vessel with at least 250 people on board caught fire off Madura island.",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T11:49:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/czrjyevmv61o#0",
@@ -33,18 +33,11 @@
       "publishedAt": "2026-08-01T23:03:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo#0",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T22:57:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o#0",
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T17:07:46Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o#0",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T22:23:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c70g132erlko#0",
@@ -54,6 +47,20 @@
       "publishedAt": "2026-08-02T00:29:55Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo#0",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T17:51:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo#1",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T22:57:55Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/clyemjn44qqo#1",
       "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
       "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
@@ -61,18 +68,11 @@
       "publishedAt": "2026-08-01T23:03:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko#1",
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T23:03:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo#1",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T17:51:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:54:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o#1",
@@ -83,10 +83,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyljq79kdko#1",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
       "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T05:26:39Z"
+      "publishedAt": "2026-08-02T10:11:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#1",
@@ -94,20 +94,6 @@
       "description": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
       "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T16:16:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T05:40:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce973yvk7pko#1",
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T13:35:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/czdmvr984yyo#2",
@@ -128,7 +114,7 @@
       "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
       "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
       "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T22:06:18Z"
+      "publishedAt": "2026-08-02T07:58:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no#2",
@@ -143,6 +129,20 @@
       "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T10:02:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo#2",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T15:18:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko#3",
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "description": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:59:55Z"
     }
   ]
 }
