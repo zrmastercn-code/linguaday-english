@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-03T08:54:16.942524Z",
+  "updatedAt": "2026-08-03T17:18:19.959728Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#0",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T16:27:43Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
-      "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T08:03:15Z"
+      "publishedAt": "2026-08-03T15:59:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o#0",
+      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:57:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yvqk69enko#0",
@@ -19,46 +33,39 @@
       "publishedAt": "2026-08-03T03:32:21Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c70gjw60033o#0",
+      "title": "Russian anti-war politician says he has fled the country",
+      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:41:08Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o#0",
       "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
       "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
       "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T06:53:09Z"
+      "publishedAt": "2026-08-03T14:20:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c24mr09r99eo#1",
+      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T08:40:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#1",
       "title": "US and Japan take action to prop up yen in rare joint move",
       "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
       "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-03T07:30:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1417713ve6o#0",
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T01:03:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo#0",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T08:27:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgewq549988o#1",
-      "title": "Malaysian boy on trial for allegedly murdering girl in school",
-      "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T01:43:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno#1",
-      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "description": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
-      "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T05:31:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce85097leydo#1",
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+      "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T10:29:24Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o#1",
@@ -68,11 +75,39 @@
       "publishedAt": "2026-08-03T01:31:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cdx8qp451lko#1",
-      "title": "Outside the Moscow restaurant where bomb killed three",
-      "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T03:53:05Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o#1",
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "description": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T12:20:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo#1",
+      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+      "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T11:49:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o#1",
+      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "description": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T11:07:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgewq549988o#1",
+      "title": "Malaysian boy on trial for allegedly murdering girl in school",
+      "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:43:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1417713ve6o#1",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:03:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o#1",
@@ -82,41 +117,6 @@
       "publishedAt": "2026-08-02T15:50:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9v471x89m3o#1",
-      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-      "description": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T16:37:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c70g132erlko#1",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T00:29:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo#1",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T17:51:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:54:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyljq79kdko#1",
-      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:11:26Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo#2",
       "title": "'What was my fault?': How India's exam paper leak ended young lives",
       "description": "Two families reveal the human toll of India's medical entrance examination paper leak.",
@@ -124,25 +124,25 @@
       "publishedAt": "2026-08-02T23:35:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o#2",
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T22:23:20Z"
+      "id": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno#2",
+      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+      "description": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
+      "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T05:31:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62vl925dqdo#2",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:32:28Z"
+      "id": "https://www.bbc.co.uk/news/articles/cdx8qp451lko#2",
+      "title": "Outside the Moscow restaurant where bomb killed three",
+      "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T03:53:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/czdmvr984yyo#2",
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
-      "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
-      "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T21:03:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo#2",
+      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "description": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T23:56:19Z"
     }
   ]
 }
