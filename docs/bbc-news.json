@@ -2,56 +2,84 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-02T18:42:52.136655Z",
+  "updatedAt": "2026-08-03T08:54:16.942524Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T08:03:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5yvqk69enko#0",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T03:32:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o#0",
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T06:53:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#0",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T07:30:52Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c1417713ve6o#0",
-      "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
       "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
       "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T18:04:44Z"
+      "publishedAt": "2026-08-03T01:03:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o#0",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T11:12:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo#0",
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T08:27:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cgewq549988o#1",
+      "title": "Malaysian boy on trial for allegedly murdering girl in school",
+      "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:43:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno#1",
+      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+      "description": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
+      "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T05:31:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o#1",
+      "title": "Massive Attack respond after Singapore ban over Palestine display",
+      "description": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:31:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cdx8qp451lko#1",
+      "title": "Outside the Moscow restaurant where bomb killed three",
+      "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T03:53:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o#1",
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
       "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-02T15:50:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62vl925dqdo#0",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:32:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c998gg5pe09o#0",
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-      "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T15:48:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo#0",
-      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
-      "description": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T11:49:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/czrjyevmv61o#0",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T23:03:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9v471x89m3o#1",
@@ -75,13 +103,6 @@
       "publishedAt": "2026-08-01T17:51:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyemjn44qqo#1",
-      "title": "Why Uganda is winning the battle against Ebola as virus spreads in DR Congo",
-      "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-      "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T23:03:15Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1",
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
@@ -96,6 +117,13 @@
       "publishedAt": "2026-08-02T10:11:26Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo#2",
+      "title": "'What was my fault?': How India's exam paper leak ended young lives",
+      "description": "Two families reveal the human toll of India's medical entrance examination paper leak.",
+      "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T23:35:54Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o#2",
       "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
       "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
@@ -103,46 +131,18 @@
       "publishedAt": "2026-08-01T22:23:20Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c62vl925dqdo#2",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:32:28Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/czdmvr984yyo#2",
       "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
       "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
       "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T21:03:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo#2",
-      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-      "description": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T23:56:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo#2",
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T07:58:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no#2",
-      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-      "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
-      "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T23:41:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo#2",
-      "title": "Infantino on the brink? Who might replace him if he goes?",
-      "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T10:02:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o#3",
-      "title": "At the scene of deadly Moscow bomb blast",
-      "description": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-      "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T16:52:35Z"
     }
   ]
 }
