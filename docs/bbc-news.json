@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-03T17:18:19.959728Z",
+  "updatedAt": "2026-08-03T22:16:26.201581Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#0",
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T16:27:43Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o#0",
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T18:04:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T15:59:48Z"
+      "publishedAt": "2026-08-03T19:42:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o#0",
@@ -26,21 +26,35 @@
       "publishedAt": "2026-08-03T15:57:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5yvqk69enko#0",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T03:32:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#0",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T16:27:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c70gjw60033o#0",
-      "title": "Russian anti-war politician says he has fled the country",
-      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
-      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T15:41:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/c2k7px317eeo#0",
+      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+      "description": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T20:05:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro#0",
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T21:43:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo#0",
+      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+      "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T07:49:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o#1",
       "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
       "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
       "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
@@ -52,6 +66,13 @@
       "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
       "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-03T08:40:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c70gjw60033o#1",
+      "title": "Russian anti-war politician says he has fled the country",
+      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:41:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#1",
@@ -68,53 +89,11 @@
       "publishedAt": "2026-08-03T10:29:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o#1",
-      "title": "Massive Attack respond after Singapore ban over Palestine display",
-      "description": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
-      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T01:31:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o#1",
-      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "description": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T12:20:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo#1",
-      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
-      "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T11:49:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o#1",
-      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "description": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
-      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T11:07:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgewq549988o#1",
-      "title": "Malaysian boy on trial for allegedly murdering girl in school",
-      "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T01:43:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1417713ve6o#1",
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T01:03:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o#1",
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T15:50:59Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5yvqk69enko#2",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T03:32:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo#2",
@@ -131,18 +110,39 @@
       "publishedAt": "2026-08-03T05:31:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cdx8qp451lko#2",
-      "title": "Outside the Moscow restaurant where bomb killed three",
-      "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T03:53:05Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo#2",
       "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
       "description": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
       "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T23:56:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo#2",
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T07:58:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o#3",
+      "title": "At the scene of deadly Moscow bomb blast",
+      "description": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T16:52:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko#3",
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "description": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:59:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o#3",
+      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+      "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+      "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:20:10Z"
     }
   ]
 }
