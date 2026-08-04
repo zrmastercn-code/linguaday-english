@@ -2,28 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-04T10:18:21.395911Z",
+  "updatedAt": "2026-08-04T18:17:42.387887Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro#0",
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T21:43:10Z"
+      "id": "https://www.bbc.co.uk/news/articles/cn4n03xg981o#0",
+      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T17:26:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo#0",
-      "title": "Analysis: Trump challenged by cold reality from top allies",
-      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
-      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:11:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo#0",
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T17:06:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c80n3j55g0do#0",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T16:07:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c151pkww79zo#0",
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-      "description": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:35:06Z"
+      "publishedAt": "2026-08-04T11:19:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0",
+      "title": "More than 170 migrants rescued after boat catches fire in Channel",
+      "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T17:25:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx25yn22l97o#0",
@@ -33,25 +47,39 @@
       "publishedAt": "2026-08-04T09:13:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo#0",
-      "title": "What is Trump Media's Truth API and why is it controversial?",
+      "id": "https://www.bbc.co.uk/news/articles/cn0n99npjejo#0",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T15:07:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo#1",
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
       "description": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
       "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:40:47Z"
+      "publishedAt": "2026-08-04T13:53:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o#0",
-      "title": "Arson arrest made over largest of Washington state's wildfires",
-      "description": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:32:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o#1",
       "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
       "description": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
       "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T09:23:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo#1",
+      "title": "World's oldest president reshuffles army as his absence stokes unease",
+      "description": "Cameroon's president has been absent for two months while his team denies rumours about his health.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T14:53:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o#1",
+      "title": "Arson arrest made over largest of Washington state's wildfires",
+      "description": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T14:20:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo#1",
@@ -115,34 +143,6 @@
       "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
       "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-03T14:20:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o#1",
-      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T15:57:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2k7px317eeo#1",
-      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-      "description": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T20:05:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo#1",
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T07:49:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o#2",
-      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-      "description": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
-      "link": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T23:13:03Z"
     }
   ]
 }
