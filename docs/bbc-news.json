@@ -2,56 +2,98 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-05T22:31:35.511238Z",
+  "updatedAt": "2026-08-06T10:17:05.407076Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo#0",
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "description": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T21:21:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo#0",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T05:00:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo#0",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T01:19:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o#0",
+      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "description": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T09:49:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo#0",
+      "title": "Iranian footballers who defied Tehran become Australian citizens",
+      "description": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T09:04:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo#0",
+      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "description": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T04:44:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o#1",
+      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "description": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T06:04:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o#1",
+      "title": "Air India's new CEO faces financial and safety turbulence",
+      "description": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
+      "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T08:18:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj6390k0e26o#1",
+      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T09:12:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo#1",
+      "title": "Nigerian security forces rescue more than 300 abductees",
+      "description": "The government says the rescue is the country's largest single-day operation by joint security forces.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T04:35:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#1",
       "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
       "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
       "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T18:19:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#1",
+      "title": "Meta becomes latest firm to say its AI hacked another company",
+      "description": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T05:53:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o#1",
       "title": "Drone carrying explosives found at German airport, police say",
       "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
       "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T20:01:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c998711dyjvo#0",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "id": "https://www.bbc.co.uk/news/articles/c998711dyjvo#1",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
       "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T20:03:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo#0",
-      "title": "Fifa admits mistakes but Infantino remains president",
-      "description": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T21:37:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62q0xerzrno#0",
-      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-      "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T11:19:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62qvll0z94o#0",
-      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
-      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T12:33:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o#1",
@@ -75,6 +117,20 @@
       "publishedAt": "2026-08-05T14:04:09Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c62q0xerzrno#1",
+      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+      "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T11:19:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62qvll0z94o#1",
+      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
+      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T12:33:43Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o#1",
       "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
       "description": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
@@ -82,67 +138,11 @@
       "publishedAt": "2026-08-05T14:58:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o#1",
-      "title": "Mexican influencer shot dead during livestream",
-      "description": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T11:00:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o#2",
-      "title": "El-Sayed's victory sends tremors through Democratic Party",
-      "description": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
-      "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T16:04:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro#2",
-      "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
-      "description": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T23:13:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o#2",
-      "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-      "description": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T22:09:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgr7nxve05go#2",
-      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-      "description": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T22:10:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4g43l251vyo#2",
-      "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
-      "description": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T22:28:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no#3",
-      "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-      "description": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
-      "link": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T19:00:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c935ng9n2klo#3",
-      "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
-      "description": "There have been at least 19 deaths related to the heatwave which has brought the country's hottest day since records began.",
-      "link": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T11:30:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/clye173d533o#3",
-      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "description": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
-      "link": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T19:07:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo#2",
+      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "description": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+      "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T23:28:06Z"
     }
   ]
 }
