@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-07T04:14:16.888061Z",
+  "updatedAt": "2026-08-07T09:43:03.758418Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T00:54:03Z"
+      "publishedAt": "2026-08-07T09:22:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#0",
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T18:53:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T00:34:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo#0",
@@ -30,17 +30,24 @@
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
       "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T04:02:18Z"
+      "publishedAt": "2026-08-07T05:44:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T00:34:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#0",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T18:53:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T08:32:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#1",
       "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
       "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
       "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
@@ -96,53 +103,46 @@
       "publishedAt": "2026-08-06T14:20:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o#1",
-      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-      "description": "Towle was known for chronicling her hopes and struggles as a young person living with cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T19:17:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#2",
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T08:48:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#1",
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T18:01:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr7kldz4djno#2",
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T00:26:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1",
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "description": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T22:41:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o#2",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "description": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment.",
+      "link": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T22:07:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1m18158my9o#1",
-      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-      "description": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic.",
-      "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T14:47:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro#2",
+      "title": "India is a nation of walkers - but its cities forgot them",
+      "description": "India's top court has put the spotlight on unsafe footpaths and the country's forgotten pedestrians.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T22:39:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce971plr2nvo#1",
-      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
-      "description": "The health minister says all the passengers are being screened as a precautionary measure.",
-      "link": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T14:04:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo#2",
+      "title": "Does Africa still back Infantino as Fifa president?",
+      "description": "The African confederation has yet to take an official stance, but where do the key African footballing nations stand on the Infantino saga?",
+      "link": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T19:55:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo#1",
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "description": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-      "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T16:35:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo#1",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T01:19:59Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o#2",
+      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
+      "description": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T13:46:27Z"
     }
   ]
 }
