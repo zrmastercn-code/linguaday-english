@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-07T15:14:33.483586Z",
+  "updatedAt": "2026-08-07T18:05:53.692753Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c980j3j578do#0",
-      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
-      "description": "Authorities say the teen killed his grandparents at home before gunning down five teachers at his school.",
+      "title": "Seven killed after Thai student opens fire at home and school",
+      "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
       "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T14:44:35Z"
+      "publishedAt": "2026-08-07T15:51:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#0",
+      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T16:33:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#0",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T17:42:54Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
@@ -19,39 +33,25 @@
       "publishedAt": "2026-08-07T09:22:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#0",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T14:41:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o#0",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T16:13:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o#0",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T15:38:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#1",
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
       "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
       "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T00:34:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0",
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
-      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T05:44:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#0",
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T13:32:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#1",
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T18:53:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1",
@@ -59,6 +59,27 @@
       "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
       "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T08:32:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#1",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T13:32:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#1",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T05:44:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#1",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T18:53:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#1",
@@ -122,27 +143,6 @@
       "description": "India's top court has put the spotlight on unsafe footpaths and the country's forgotten pedestrians.",
       "link": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T22:39:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo#2",
-      "title": "Does Africa still back Infantino as Fifa president?",
-      "description": "The African confederation has yet to take an official stance, but where do the key African footballing nations stand on the Infantino saga?",
-      "link": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T19:55:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o#2",
-      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
-      "description": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T13:46:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo#2",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T05:00:54Z"
     }
   ]
 }
