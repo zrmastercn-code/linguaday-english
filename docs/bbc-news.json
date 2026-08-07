@@ -2,21 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-07T20:23:22.598006Z",
+  "updatedAt": "2026-08-07T23:08:33.614491Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c980j3j578do#0",
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
-      "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T15:51:16Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#0",
-      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T19:51:16Z"
+      "publishedAt": "2026-08-07T22:13:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T21:19:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c07rxz03034o#0",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T14:20:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#0",
@@ -26,13 +33,6 @@
       "publishedAt": "2026-08-07T17:42:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T09:22:03Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o#0",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
@@ -40,18 +40,32 @@
       "publishedAt": "2026-08-07T16:13:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cdewxgw69exo#0",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T20:40:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o#1",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T22:07:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o#1",
+      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "description": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T21:05:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o#1",
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
       "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T15:38:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#1",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T00:34:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1",
@@ -61,11 +75,25 @@
       "publishedAt": "2026-08-07T08:32:57Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#1",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T09:22:03Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#1",
       "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
       "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T13:32:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#1",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T00:34:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#1",
@@ -115,34 +143,6 @@
       "description": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
       "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T23:55:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#2",
-      "title": "German airport drone-bomb: Could Russia be involved?",
-      "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T08:48:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr7kldz4djno#2",
-      "title": "Sudan's invisible children - born in war with no legal identity",
-      "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T00:26:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o#2",
-      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
-      "description": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment.",
-      "link": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T22:07:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro#2",
-      "title": "India is a nation of walkers - but its cities forgot them",
-      "description": "India's top court has put the spotlight on unsafe footpaths and the country's forgotten pedestrians.",
-      "link": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T22:39:46Z"
     }
   ]
 }
