@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-07T09:43:03.758418Z",
+  "updatedAt": "2026-08-07T15:14:33.483586Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c980j3j578do#0",
+      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "description": "Authorities say the teen killed his grandparents at home before gunning down five teachers at his school.",
+      "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T14:44:35Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T09:22:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#0",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T14:41:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
@@ -19,13 +33,6 @@
       "publishedAt": "2026-08-07T00:34:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo#0",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T01:57:02Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0",
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
@@ -33,7 +40,14 @@
       "publishedAt": "2026-08-07T05:44:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#0",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T13:32:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#1",
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
@@ -82,27 +96,6 @@
       "publishedAt": "2026-08-06T23:55:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "description": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T01:03:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwymv212xrxo#1",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-      "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T15:41:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo#1",
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "description": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T14:20:15Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#2",
       "title": "German airport drone-bomb: Could Russia be involved?",
       "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
@@ -143,6 +136,13 @@
       "description": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
       "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T13:46:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo#2",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T05:00:54Z"
     }
   ]
 }
