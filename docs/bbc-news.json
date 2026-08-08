@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-08T11:01:06.199131Z",
+  "updatedAt": "2026-08-08T14:09:46.902006Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0",
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T06:12:56Z"
+      "publishedAt": "2026-08-08T13:29:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cewr898jy8go#0",
-      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
-      "description": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T10:19:46Z"
+      "publishedAt": "2026-08-08T13:23:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o#0",
@@ -33,6 +33,20 @@
       "publishedAt": "2026-08-07T22:13:55Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
+      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T13:49:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po#0",
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "description": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T12:05:04Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0",
       "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
       "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
@@ -40,14 +54,7 @@
       "publishedAt": "2026-08-07T21:19:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo#0",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "description": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T00:02:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#1",
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
@@ -62,8 +69,8 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o#1",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+      "description": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T22:07:00Z"
     },
@@ -136,13 +143,6 @@
       "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T18:53:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#1",
-      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-      "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T17:36:07Z"
     }
   ]
 }
