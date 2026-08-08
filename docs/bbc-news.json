@@ -2,12 +2,12 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-07T23:08:33.614491Z",
+  "updatedAt": "2026-08-08T04:32:18.564303Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#0",
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "description": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "description": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T22:13:55Z"
     },
