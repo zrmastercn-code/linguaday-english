@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-08T04:32:18.564303Z",
+  "updatedAt": "2026-08-08T08:21:44.402725Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T06:12:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o#0",
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T23:23:12Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#0",
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -26,6 +40,13 @@
       "publishedAt": "2026-08-07T14:20:27Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo#0",
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "description": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T00:02:49Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#0",
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
@@ -33,18 +54,11 @@
       "publishedAt": "2026-08-07T17:42:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o#0",
+      "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o#1",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
       "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T16:13:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cdewxgw69exo#0",
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T20:40:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o#1",
@@ -52,6 +66,20 @@
       "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T22:07:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c39eprxln0go#1",
+      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+      "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+      "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T18:06:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cdewxgw69exo#1",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T20:40:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o#1",
@@ -115,34 +143,6 @@
       "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
       "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T17:36:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo#1",
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T17:38:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo#1",
-      "title": "Two people convicted in relation to death of French streamer",
-      "description": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
-      "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T00:51:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#1",
-      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-      "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T18:37:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo#1",
-      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-      "description": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
-      "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T23:55:35Z"
     }
   ]
 }
