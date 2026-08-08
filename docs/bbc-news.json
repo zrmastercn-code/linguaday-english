@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-08T08:21:44.402725Z",
+  "updatedAt": "2026-08-08T11:01:06.199131Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0",
@@ -10,6 +10,13 @@
       "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T06:12:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cewr898jy8go#0",
+      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "description": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T10:19:46Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o#0",
@@ -31,13 +38,6 @@
       "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
       "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T21:19:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c07rxz03034o#0",
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T14:20:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo#0",
