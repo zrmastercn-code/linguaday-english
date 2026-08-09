@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-09T11:03:39.992790Z",
+  "updatedAt": "2026-08-09T14:19:14.068577Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T14:18:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#0",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T12:27:26Z"
+    },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do#0",
       "title": "Fifa criticises campaign to oust president Infantino",
@@ -23,14 +37,14 @@
       "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
       "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
       "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T10:02:52Z"
+      "publishedAt": "2026-08-09T12:39:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
-      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T06:46:40Z"
+      "publishedAt": "2026-08-09T13:08:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o#0",
@@ -40,23 +54,16 @@
       "publishedAt": "2026-08-08T19:18:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o#1",
       "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
       "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
       "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T04:32:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cewr898jy8go#0",
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:56:39Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o#1",
-      "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-      "description": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
+      "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
+      "description": "Heaps of rotting meat have been festering in the summer sun after a fire ripped through a huge food warehouse.",
       "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T00:15:28Z"
     },
@@ -136,13 +143,6 @@
       "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
       "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T19:00:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo#2",
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T03:00:44Z"
     }
   ]
 }
