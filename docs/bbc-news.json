@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-09T19:52:07.935062Z",
+  "updatedAt": "2026-08-09T23:00:11.918730Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T14:18:10Z"
+      "publishedAt": "2026-08-09T21:25:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T20:58:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#0",
@@ -19,18 +26,11 @@
       "publishedAt": "2026-08-09T12:27:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o#0",
-      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T04:32:06Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T18:03:55Z"
+      "publishedAt": "2026-08-09T22:27:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgjeznj6979o#0",
@@ -45,6 +45,20 @@
       "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
       "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T16:18:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo#0",
+      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "description": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T19:57:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o#1",
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T04:32:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo#1",
@@ -129,20 +143,6 @@
       "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
       "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T16:13:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c39eprxln0go#1",
-      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
-      "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
-      "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T18:06:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cdewxgw69exo#1",
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T20:40:56Z"
     }
   ]
 }
