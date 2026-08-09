@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-09T08:24:56.799758Z",
+  "updatedAt": "2026-08-09T11:03:39.992790Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do#0",
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T22:06:44Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c20d8qre98do#0",
       "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
@@ -12,11 +19,18 @@
       "publishedAt": "2026-08-08T23:43:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#0",
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T23:59:23Z"
+      "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T10:02:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
+      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T06:46:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o#0",
@@ -38,20 +52,6 @@
       "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T15:56:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T17:58:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o#0",
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:51:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o#1",
@@ -82,11 +82,11 @@
       "publishedAt": "2026-08-08T15:15:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
-      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T06:46:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#1",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T17:58:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cdewx6rew04o#1",
@@ -110,20 +110,6 @@
       "publishedAt": "2026-08-07T16:13:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po#1",
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "description": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T12:05:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o#1",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
-      "description": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T22:07:00Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c39eprxln0go#1",
       "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
       "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -138,11 +124,25 @@
       "publishedAt": "2026-08-07T20:40:56Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T23:59:23Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo#2",
       "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
       "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
       "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T19:00:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo#2",
+      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+      "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T03:00:44Z"
     }
   ]
 }
