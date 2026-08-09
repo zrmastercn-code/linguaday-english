@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-09T04:48:40.638031Z",
+  "updatedAt": "2026-08-09T08:24:56.799758Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c20d8qre98do#0",
@@ -27,7 +27,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o#0",
-      "title": "Perez Hilton faces long recovery after self-harm livestream",
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
       "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
       "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T04:32:06Z"
@@ -83,10 +83,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
-      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T22:01:54Z"
+      "publishedAt": "2026-08-09T06:46:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cdewx6rew04o#1",
