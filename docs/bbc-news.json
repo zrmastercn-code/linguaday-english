@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-09T23:00:11.918730Z",
+  "updatedAt": "2026-08-10T05:11:54.315413Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T20:58:18Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -12,11 +19,18 @@
       "publishedAt": "2026-08-09T21:25:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T20:58:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cly8djwgem0o#0",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T23:05:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#0",
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T16:18:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#0",
@@ -28,9 +42,9 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+      "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T22:27:53Z"
+      "publishedAt": "2026-08-10T03:33:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgjeznj6979o#0",
@@ -40,14 +54,7 @@
       "publishedAt": "2026-08-09T15:34:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#0",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T16:18:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo#1",
       "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
       "description": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
@@ -117,32 +124,25 @@
       "publishedAt": "2026-08-08T15:15:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#1",
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T17:58:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T23:59:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cdewx6rew04o#1",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T21:19:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo#2",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T19:00:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o#1",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T17:42:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o#1",
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T16:13:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo#2",
+      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+      "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T03:00:44Z"
     }
   ]
 }
