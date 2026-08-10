@@ -2,14 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-10T05:11:54.315413Z",
+  "updatedAt": "2026-08-10T10:44:58.833212Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po#0",
+      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T10:03:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o#0",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T07:23:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T09:51:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o#0",
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "description": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T05:16:40Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
       "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
       "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T20:58:18Z"
+      "publishedAt": "2026-08-10T09:33:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0",
@@ -26,28 +54,28 @@
       "publishedAt": "2026-08-09T23:05:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#1",
       "title": "Drones spotted over German base days after Leipzig bomb incident",
       "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
       "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T16:18:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#0",
+      "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#1",
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
       "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
       "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T12:27:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T03:33:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cgjeznj6979o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cgjeznj6979o#1",
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
       "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
       "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
@@ -110,39 +138,11 @@
       "publishedAt": "2026-08-08T14:25:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#1",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T18:06:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo#1",
-      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:15:17Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
       "title": "Hundreds arrested over French wildfires, but who is to blame?",
       "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
       "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T23:59:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo#2",
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T19:00:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo#2",
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T03:00:44Z"
     }
   ]
 }
