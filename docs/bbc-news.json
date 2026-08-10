@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-10T20:25:13.081495Z",
+  "updatedAt": "2026-08-10T23:09:19.300785Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po#0",
@@ -10,13 +10,6 @@
       "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T14:34:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo#0",
-      "title": "World's oceans hit record-high July temperatures",
-      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T10:24:46Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o#0",
@@ -31,6 +24,13 @@
       "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
       "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T19:17:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo#0",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T21:06:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo#0",
@@ -49,9 +49,16 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo#1",
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "description": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T20:16:34Z"
+      "publishedAt": "2026-08-10T23:03:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo#1",
+      "title": "World's oceans hit record-high July temperatures",
+      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T10:24:46Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo#1",
@@ -73,13 +80,6 @@
       "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
       "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T23:05:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#1",
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T15:21:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
