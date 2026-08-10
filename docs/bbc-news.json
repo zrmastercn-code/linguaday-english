@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-10T15:34:58.214109Z",
+  "updatedAt": "2026-08-10T20:25:13.081495Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po#0",
@@ -26,81 +26,60 @@
       "publishedAt": "2026-08-10T14:43:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cly8djwgem0o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o#0",
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T19:17:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo#0",
+      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T16:52:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo#0",
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "description": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T17:50:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo#1",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:16:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo#1",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T18:28:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo#1",
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "description": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T18:19:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly8djwgem0o#1",
       "title": "Evidence that South African special forces murdered top detective shared with BBC",
       "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
       "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T23:05:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#1",
       "title": "Former Thai MP allegedly kills official and confesses on YouTube",
       "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
       "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T15:21:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo#0",
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T12:23:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o#1",
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T07:23:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o#1",
-      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "description": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T05:16:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo#1",
-      "title": "Battle for Mali base has killed dozens of militants, army says",
-      "description": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T12:32:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#1",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T21:25:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#1",
-      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T09:33:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#1",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T16:18:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#1",
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T12:27:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T03:33:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
@@ -135,7 +114,7 @@
       "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
       "description": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
       "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T14:34:49Z"
+      "publishedAt": "2026-08-10T18:24:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo#3",
@@ -143,6 +122,20 @@
       "description": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
       "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T21:26:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#3",
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "description": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T15:59:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo#3",
+      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+      "description": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T21:24:17Z"
     }
   ]
 }
