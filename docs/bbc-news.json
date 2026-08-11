@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-11T15:33:48.907769Z",
+  "updatedAt": "2026-08-11T20:27:47.195333Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T19:09:52Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o#0",
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
@@ -14,30 +21,16 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo#0",
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
       "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T09:39:58Z"
+      "publishedAt": "2026-08-11T16:19:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o#0",
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:50:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
-      "title": "At least 169 killed in Colombia's largest earthquake in years",
-      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T13:21:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o#0",
-      "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
-      "description": "Mangione's lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
-      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T11:35:20Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo#0",
+      "title": "Russia releases former US Marine reported in poor health",
+      "description": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T17:02:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo#0",
@@ -47,6 +40,13 @@
       "publishedAt": "2026-08-11T15:24:07Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o#0",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:50:10Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo#0",
       "title": "France bans unsolicited telemarketing calls",
       "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
@@ -54,18 +54,25 @@
       "publishedAt": "2026-08-11T14:19:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno#1",
-      "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
-      "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T13:35:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/clyed7rem5no#1",
+      "title": "Former judge removed by Orbán elected Hungarian president",
+      "description": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
+      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T18:34:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c80nm9melpmo#1",
-      "title": "Drone captures devastating aftermath of Spokane wildfires",
-      "description": "The aerial footage shows homes destroyed down to their foundations, with burned cars still parked in some driveways.",
-      "link": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:02:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o#1",
+      "title": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
+      "description": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T19:12:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno#1",
+      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+      "description": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T19:27:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo#1",
@@ -115,13 +122,6 @@
       "description": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
       "link": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T22:40:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo#1",
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T18:28:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o#2",
