@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-11T20:27:47.195333Z",
+  "updatedAt": "2026-08-11T23:24:05.939411Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
@@ -12,11 +12,18 @@
       "publishedAt": "2026-08-11T19:09:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o#0",
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:47:28Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo#0",
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T21:14:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9d84874dzjo#0",
+      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "description": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T20:39:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo#0",
@@ -28,9 +35,9 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo#0",
       "title": "Russia releases former US Marine reported in poor health",
-      "description": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
+      "description": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
       "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T17:02:22Z"
+      "publishedAt": "2026-08-11T23:21:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo#0",
@@ -38,13 +45,6 @@
       "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
       "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-11T15:24:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o#0",
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:50:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo#0",
@@ -62,17 +62,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o#1",
-      "title": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
-      "description": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
+      "title": "Luigi Mangione murder trial to have anonymous jury",
+      "description": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
       "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-11T19:12:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno#1",
-      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "description": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T19:27:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o#1",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:50:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo#1",
@@ -124,6 +124,13 @@
       "publishedAt": "2026-08-10T22:40:23Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/czxerlglgw5o#2",
+      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "description": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
+      "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T21:34:55Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o#2",
       "title": "The transgender controversy surrounding the WNBA",
       "description": "After the Indiana Fever's Sophie Cunningham said it was \"common sense\" to ban transgender women from women's sports, a row has emerged in the WNBA - with former NBA players saying eligibility rules mean they can enter the 2027 Draft.",
@@ -136,13 +143,6 @@
       "description": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
       "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T22:02:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T23:59:23Z"
     }
   ]
 }
