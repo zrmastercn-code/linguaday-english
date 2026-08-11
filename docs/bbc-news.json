@@ -2,8 +2,29 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-10T23:09:19.300785Z",
+  "updatedAt": "2026-08-11T04:52:11.868002Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
+      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T04:06:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo#0",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T21:06:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o#0",
+      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:45:29Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po#0",
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -26,13 +47,6 @@
       "publishedAt": "2026-08-10T19:17:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo#0",
-      "title": "Canada flight cancelled after child refuses to wear seat belt",
-      "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T21:06:27Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo#0",
       "title": "30 years later, a former gang member will stand trial for Tupac's murder",
       "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
@@ -40,18 +54,11 @@
       "publishedAt": "2026-08-10T16:52:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo#0",
-      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "description": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T17:50:29Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo#1",
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "description": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T23:03:52Z"
+      "publishedAt": "2026-08-11T02:43:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo#1",
@@ -61,6 +68,13 @@
       "publishedAt": "2026-08-10T10:24:46Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo#1",
+      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "description": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
+      "link": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:40:23Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo#1",
       "title": "New train service connects Finland and Sweden for first time in decades",
       "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
@@ -68,18 +82,25 @@
       "publishedAt": "2026-08-10T18:28:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo#1",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "description": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T18:19:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#1",
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:31:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cly8djwgem0o#1",
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T23:05:29Z"
+      "id": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o#2",
+      "title": "The transgender controversy surrounding the WNBA",
+      "description": "After the Indiana Fever's Sophie Cunningham said it was \"common sense\" to ban transgender women from women's sports, a row has emerged in the WNBA - with former NBA players saying eligibility rules mean they can enter the 2027 Draft.",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T15:34:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o#2",
+      "title": "The lonely Chinese men being conned by fake brides",
+      "description": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:02:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
@@ -96,18 +117,11 @@
       "publishedAt": "2026-08-08T19:00:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo#2",
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T03:00:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqx7q17531do#2",
-      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-      "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T01:10:50Z"
+      "id": "https://www.bbc.co.uk/news/videos/cz6473llqpwo#3",
+      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "description": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local officials.",
+      "link": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:55:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go#3",
@@ -117,25 +131,18 @@
       "publishedAt": "2026-08-10T18:24:45Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo#3",
+      "title": "Young girl finds whale stranded on Australian beach",
+      "description": "The humpback whale later successfully freed itself after the tide rose in Queensland, Australia.",
+      "link": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T01:31:10Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo#3",
       "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
       "description": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
       "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T21:26:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#3",
-      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "description": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
-      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:59:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo#3",
-      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-      "description": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
-      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T21:24:17Z"
     }
   ]
 }
