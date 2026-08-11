@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-11T04:52:11.868002Z",
+  "updatedAt": "2026-08-11T09:43:42.061295Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
@@ -83,10 +83,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#1",
-      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
       "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
       "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T22:31:42Z"
+      "publishedAt": "2026-08-11T08:44:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o#2",
