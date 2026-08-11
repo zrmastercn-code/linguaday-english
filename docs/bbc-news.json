@@ -2,70 +2,112 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-11T09:43:42.061295Z",
+  "updatedAt": "2026-08-11T15:33:48.907769Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
-      "title": "At least 132 killed in Colombia's largest earthquake in years",
-      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T04:06:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o#0",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:47:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo#0",
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T09:39:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o#0",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:50:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
+      "title": "At least 169 killed in Colombia's largest earthquake in years",
+      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T13:21:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o#0",
+      "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
+      "description": "Mangione's lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T11:35:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo#0",
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T15:24:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo#0",
+      "title": "France bans unsolicited telemarketing calls",
+      "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:19:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno#1",
+      "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
+      "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T13:35:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c80nm9melpmo#1",
+      "title": "Drone captures devastating aftermath of Spokane wildfires",
+      "description": "The aerial footage shows homes destroyed down to their foundations, with burned cars still parked in some driveways.",
+      "link": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:02:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo#1",
+      "title": "Thailand suspends new gun permits after mass shooting",
+      "description": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T15:11:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cp308z9pl30o#1",
+      "title": "Libyan authorities battle big blaze at major oil refinery",
+      "description": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
+      "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T08:28:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o#1",
+      "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
+      "description": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T07:55:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo#1",
       "title": "Canada flight cancelled after child refuses to wear seat belt",
       "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
       "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T21:06:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o#0",
-      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-      "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
-      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T20:45:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po#0",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T14:34:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o#0",
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T14:43:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o#0",
-      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T19:17:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo#0",
-      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T16:52:47Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo#1",
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "description": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T02:43:01Z"
+      "publishedAt": "2026-08-11T10:00:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo#1",
-      "title": "World's oceans hit record-high July temperatures",
-      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T10:24:46Z"
+      "id": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o#1",
+      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:45:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo#1",
@@ -80,13 +122,6 @@
       "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
       "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T18:28:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#1",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T08:44:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o#2",
@@ -108,41 +143,6 @@
       "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
       "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T23:59:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo#2",
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T19:00:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cz6473llqpwo#3",
-      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
-      "description": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local officials.",
-      "link": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T20:55:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go#3",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "description": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-      "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T18:24:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo#3",
-      "title": "Young girl finds whale stranded on Australian beach",
-      "description": "The humpback whale later successfully freed itself after the tide rose in Queensland, Australia.",
-      "link": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T01:31:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo#3",
-      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-      "description": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
-      "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T21:26:56Z"
     }
   ]
 }
