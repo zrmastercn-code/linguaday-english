@@ -2,14 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-12T15:33:25.650630Z",
+  "updatedAt": "2026-08-12T20:25:12.035177Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g306eln8wo#0",
-      "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
-      "description": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T14:44:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno#0",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T17:47:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo#0",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T16:14:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c20d292gdp4o#0",
+      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "description": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+      "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T19:21:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o#0",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T20:16:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno#0",
@@ -19,35 +40,49 @@
       "publishedAt": "2026-08-12T11:28:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo#0",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T14:03:48Z"
+      "id": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo#0",
+      "title": "LA Lakers to be sold in record $12.5bn deal",
+      "description": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T16:11:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo#0",
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+      "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T16:35:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g306eln8wo#1",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T16:34:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo#1",
       "title": "US inflation eases as food and fuel costs cool",
       "description": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
       "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T14:09:48Z"
+      "publishedAt": "2026-08-12T17:03:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo#1",
       "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
       "description": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
       "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-12T11:28:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo#1",
       "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
       "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
       "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-12T07:44:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c75g9777wwxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c75g9777wwxo#1",
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
       "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
@@ -108,41 +143,6 @@
       "description": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election.",
       "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-12T02:51:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo#1",
-      "title": "France bans unsolicited telemarketing calls",
-      "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:19:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o#2",
-      "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-      "description": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T23:31:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9d84874dzjo#2",
-      "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
-      "description": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
-      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T20:39:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/czxerlglgw5o#2",
-      "title": "Brother of man trapped under rubble in Colombian quake clings on to hope",
-      "description": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
-      "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T21:34:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clye8332d63o#2",
-      "title": "How a 97-year-old escaped deadly Indian floods on a banana log raft",
-      "description": "A 97-year-old's dramatic rescue captures how Assam's floods are reaching places once thought safe.",
-      "link": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T23:11:32Z"
     }
   ]
 }
