@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-13T20:06:57.928272Z",
+  "updatedAt": "2026-08-13T23:25:28.434999Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo#0",
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T16:20:41Z"
+      "publishedAt": "2026-08-13T20:12:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#0",
@@ -26,11 +26,18 @@
       "publishedAt": "2026-08-13T04:55:58Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o#0",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T21:43:47Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo#0",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "description": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T20:01:30Z"
+      "publishedAt": "2026-08-13T23:06:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o#0",
@@ -38,13 +45,6 @@
       "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
       "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T15:30:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo#0",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T11:10:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o#0",
@@ -75,11 +75,11 @@
       "publishedAt": "2026-08-13T14:51:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o#1",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T01:31:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo#1",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T11:10:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo#1",
@@ -101,20 +101,6 @@
       "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
       "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T08:15:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo#1",
-      "title": "BTS star V reveals hearing loss battle during livestream",
-      "description": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T04:09:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo#1",
-      "title": "Zambians voting as president bids for second term",
-      "description": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T14:29:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo#1",
@@ -143,6 +129,20 @@
       "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
       "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T02:23:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo#1",
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+      "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T22:56:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno#1",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T03:28:56Z"
     }
   ]
 }
