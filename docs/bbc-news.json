@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-14T18:09:45.925910Z",
+  "updatedAt": "2026-08-14T20:04:58.175280Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyje43dz4eo#0",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T18:25:38Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c89n20wj9kko#0",
       "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
@@ -51,7 +58,7 @@
       "title": "Trump asks Supreme Court to allow ballroom work to continue",
       "description": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
       "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T15:10:41Z"
+      "publishedAt": "2026-08-14T19:05:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo#1",
@@ -136,13 +143,6 @@
       "description": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
       "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T02:13:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko#2",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T04:55:58Z"
     }
   ]
 }
