@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-15T03:08:20.208978Z",
+  "updatedAt": "2026-08-15T04:54:50.663327Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo#0",
@@ -20,7 +20,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo#0",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T17:36:27Z"
