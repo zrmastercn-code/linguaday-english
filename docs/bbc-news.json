@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-16T15:55:16.597247Z",
+  "updatedAt": "2026-08-16T19:09:43.382178Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T15:50:12Z"
+      "publishedAt": "2026-08-16T19:03:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
@@ -20,10 +20,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
-      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T12:53:43Z"
+      "publishedAt": "2026-08-16T18:46:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
@@ -31,6 +31,13 @@
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T10:53:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
+      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "description": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T17:44:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#0",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-08-16T15:25:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#1",
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
@@ -76,10 +83,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
-      "title": "Teenager arrested in Virginia State University shooting that injured five",
-      "description": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T15:22:50Z"
+      "publishedAt": "2026-08-16T19:00:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#1",
@@ -136,13 +143,6 @@
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T23:16:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo#2",
-      "title": "Five years after the Taliban swept to power, does the West have any influence?",
-      "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T17:00:14Z"
     }
   ]
 }
