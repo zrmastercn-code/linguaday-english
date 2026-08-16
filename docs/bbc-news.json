@@ -2,21 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-16T07:48:31.944013Z",
+  "updatedAt": "2026-08-16T09:58:49.229214Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T09:04:14Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T04:13:32Z"
+      "publishedAt": "2026-08-16T08:23:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
-      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
       "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T06:53:22Z"
+      "publishedAt": "2026-08-16T08:49:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
@@ -44,10 +51,10 @@
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T21:03:57Z"
+      "publishedAt": "2026-08-16T09:27:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
       "title": "Multiple suspects at large after five shot at Virginia State University, police say",
       "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
       "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T18:54:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o#2",
-      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "description": "From glaciers shrinking to an exposed shipwreck, satellites capture the impact of extreme heat and drought.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T05:01:13Z"
     }
   ]
 }
