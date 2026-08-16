@@ -2,14 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-16T19:09:43.382178Z",
+  "updatedAt": "2026-08-16T21:52:35.087062Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
+      "title": "Trump says US will scale back military drills with South Korea",
+      "description": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T21:27:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:58:14Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T19:03:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:50:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T13:34:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
@@ -19,39 +47,39 @@
       "publishedAt": "2026-08-16T12:37:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T18:46:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/ceqeeendz42o#0",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "description": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T21:04:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
+      "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:00:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg4424zd7go#1",
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T10:53:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
-      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-      "description": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T17:44:23Z"
+      "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T18:46:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1",
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
       "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T11:35:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T15:25:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#1",
@@ -61,11 +89,11 @@
       "publishedAt": "2026-08-16T09:27:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T13:34:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T20:01:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1",
@@ -80,13 +108,6 @@
       "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
       "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-15T19:41:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
-      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T19:00:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#1",
@@ -122,27 +143,6 @@
       "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
       "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-15T14:40:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo#1",
-      "title": "France's top court blocks social media ban for under-15s",
-      "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T16:35:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo#1",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T17:36:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo#2",
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T23:16:43Z"
     }
   ]
 }
