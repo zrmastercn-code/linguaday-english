@@ -2,49 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-16T09:58:49.229214Z",
+  "updatedAt": "2026-08-16T13:47:36.837110Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
       "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T09:04:14Z"
+      "publishedAt": "2026-08-16T10:52:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T08:23:38Z"
+      "publishedAt": "2026-08-16T12:37:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
-      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T08:49:32Z"
+      "publishedAt": "2026-08-16T12:53:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T07:04:17Z"
+      "publishedAt": "2026-08-16T10:53:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#0",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T20:58:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#0",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T19:41:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#0",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T11:35:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#0",
@@ -52,6 +45,27 @@
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T09:27:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T13:34:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T20:58:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#1",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T19:41:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
@@ -129,20 +143,6 @@
       "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
       "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T17:00:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#2",
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "description": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
-      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T11:25:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gkyez7195o#2",
-      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-      "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T18:54:58Z"
     }
   ]
 }
