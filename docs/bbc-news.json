@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-16T13:47:36.837110Z",
+  "updatedAt": "2026-08-16T15:55:16.597247Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
-      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T10:52:08Z"
+      "publishedAt": "2026-08-16T15:50:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
@@ -40,6 +40,13 @@
       "publishedAt": "2026-08-16T11:35:25Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T15:25:38Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#0",
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-08-16T09:27:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
@@ -69,10 +76,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "title": "Teenager arrested in Virginia State University shooting that injured five",
+      "description": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T19:34:22Z"
+      "publishedAt": "2026-08-16T15:22:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#1",
@@ -101,13 +108,6 @@
       "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
       "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T00:11:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "description": "The fire burning through the major park was described as the country's worst in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T17:47:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#1",
