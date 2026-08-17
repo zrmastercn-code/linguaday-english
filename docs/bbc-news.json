@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-17T14:02:16.546193Z",
+  "updatedAt": "2026-08-17T15:58:44.621133Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo#0",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+      "description": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T14:59:02Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T06:24:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T13:58:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
@@ -33,25 +33,39 @@
       "publishedAt": "2026-08-17T10:39:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgll74vvydo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o#0",
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T12:23:26Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T13:58:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c74gekjgrllo#1",
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+      "description": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T15:33:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgll74vvydo#1",
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
       "description": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
       "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T04:41:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o#1",
       "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
+      "description": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T12:11:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T19:50:36Z"
+      "publishedAt": "2026-08-17T14:23:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#1",
@@ -61,13 +75,6 @@
       "publishedAt": "2026-08-17T02:22:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgww971nn2o#1",
-      "title": "Record rains drench South Korean city as landslide kills one",
-      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T04:34:09Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo#1",
       "title": "Movie that went viral for terrible animation becomes China box office hit",
       "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
@@ -75,11 +82,25 @@
       "publishedAt": "2026-08-17T08:35:07Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvgww971nn2o#1",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T04:34:09Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo#1",
       "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
       "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T05:46:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:50:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
@@ -103,20 +124,6 @@
       "publishedAt": "2026-08-16T10:53:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#1",
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T12:37:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "description": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T00:20:51Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o#2",
       "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
       "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
@@ -136,13 +143,6 @@
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T23:16:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo#2",
-      "title": "Five years after the Taliban swept to power, does the West have any influence?",
-      "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T17:00:14Z"
     }
   ]
 }
