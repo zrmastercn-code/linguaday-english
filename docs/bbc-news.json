@@ -2,28 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-17T08:25:40.124365Z",
+  "updatedAt": "2026-08-17T10:52:09.482851Z",
   "items": [
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T04:50:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T07:41:24Z"
-    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T06:24:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T08:43:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T08:47:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crl7686r71yo#0",
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T10:39:24Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgll74vvydo#0",
@@ -33,18 +40,11 @@
       "publishedAt": "2026-08-17T04:41:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
-      "title": "Record rains drench South Korean city as landslide kills one",
-      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T04:34:09Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o#0",
       "title": "Top Zambian opposition figures arrested days after presidential vote",
       "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T07:31:36Z"
+      "publishedAt": "2026-08-17T09:01:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
@@ -54,13 +54,6 @@
       "publishedAt": "2026-08-16T19:50:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T13:34:38Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#1",
       "title": "Ferrari's first ever electric car sold for record $40m",
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
@@ -68,11 +61,32 @@
       "publishedAt": "2026-08-17T02:22:04Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvgww971nn2o#1",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T04:34:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo#1",
+      "title": "Movie that went viral for terrible animation becomes China box office hit",
+      "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T08:35:07Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo#1",
       "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
       "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T05:46:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T13:34:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
@@ -103,18 +117,11 @@
       "publishedAt": "2026-08-17T00:20:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1",
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T11:35:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ceqeeendz42o#1",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "description": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
-      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T21:04:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o#2",
+      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
+      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T23:09:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cevml4701emo#2",
@@ -122,13 +129,6 @@
       "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
       "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T22:09:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o#2",
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T23:09:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo#2",
