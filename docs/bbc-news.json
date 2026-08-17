@@ -2,56 +2,77 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-17T03:29:41.644450Z",
+  "updatedAt": "2026-08-17T08:25:40.124365Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T04:50:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T07:41:24Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
-      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T02:51:27Z"
+      "publishedAt": "2026-08-17T06:24:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T19:58:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgll74vvydo#0",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "description": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T04:41:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T19:03:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T04:34:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o#0",
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T07:31:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
       "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
       "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T19:50:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T13:34:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T12:37:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#0",
-      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "id": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#1",
+      "title": "Ferrari's first ever electric car sold for record $40m",
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
       "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T02:22:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo#1",
+      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+      "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T05:46:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
@@ -66,6 +87,13 @@
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T10:53:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#1",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T12:37:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
@@ -89,60 +117,32 @@
       "publishedAt": "2026-08-16T21:04:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#1",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T09:27:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/cevml4701emo#2",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
+      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T22:09:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T20:01:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o#2",
+      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
+      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T23:09:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T20:58:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo#2",
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T23:16:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#1",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T19:41:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#1",
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T20:21:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
-      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T21:41:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o#1",
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T13:41:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cd69ely319eo#1",
-      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-      "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T00:11:03Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo#2",
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T17:00:14Z"
     }
   ]
 }
