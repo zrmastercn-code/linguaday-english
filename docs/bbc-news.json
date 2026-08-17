@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-17T10:52:09.482851Z",
+  "updatedAt": "2026-08-17T14:02:16.546193Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
@@ -13,17 +13,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T08:43:12Z"
+      "publishedAt": "2026-08-17T13:58:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
       "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T08:47:19Z"
+      "publishedAt": "2026-08-17T13:16:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crl7686r71yo#0",
@@ -42,9 +42,9 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o#0",
       "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T09:01:06Z"
+      "publishedAt": "2026-08-17T12:11:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
