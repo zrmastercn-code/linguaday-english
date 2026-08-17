@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-16T21:52:35.087062Z",
+  "updatedAt": "2026-08-17T03:29:41.644450Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
-      "title": "Trump says US will scale back military drills with South Korea",
-      "description": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T21:27:42Z"
+      "publishedAt": "2026-08-17T02:51:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
@@ -47,11 +47,11 @@
       "publishedAt": "2026-08-16T12:37:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ceqeeendz42o#0",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "description": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T21:04:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#0",
+      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T02:22:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
@@ -69,10 +69,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "description": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T18:46:12Z"
+      "publishedAt": "2026-08-17T00:20:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1",
@@ -80,6 +80,13 @@
       "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
       "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T11:35:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ceqeeendz42o#1",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "description": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
+      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T21:04:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#1",
@@ -136,13 +143,6 @@
       "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
       "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T00:11:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#1",
-      "title": "South Korea proposes talks to officially end war with North",
-      "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T14:40:15Z"
     }
   ]
 }
