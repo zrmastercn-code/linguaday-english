@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-18T19:40:58.807034Z",
+  "updatedAt": "2026-08-18T21:55:50.927069Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0",
@@ -47,25 +47,18 @@
       "publishedAt": "2026-08-18T16:00:30Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo#1",
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T19:52:32Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c5ywe951z80o#1",
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
       "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T08:44:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo#1",
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T05:02:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o#1",
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T16:22:54Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1e155428qyo#1",
@@ -75,11 +68,25 @@
       "publishedAt": "2026-08-18T16:26:22Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o#1",
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T20:39:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c39em89z4vmo#1",
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "description": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
+      "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T20:27:44Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o#1",
       "title": "US announces new sanctions on top ICC figures",
       "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
       "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T19:18:30Z"
+      "publishedAt": "2026-08-18T20:21:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#1",
@@ -87,6 +94,13 @@
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T08:07:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo#1",
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T05:02:58Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo#1",
@@ -129,20 +143,6 @@
       "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
       "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T06:53:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#1",
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T05:24:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o#2",
-      "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-      "description": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T05:07:06Z"
     }
   ]
 }
