@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-18T10:50:57.344167Z",
+  "updatedAt": "2026-08-18T14:08:59.062407Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0",
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
-      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T09:55:00Z"
+      "publishedAt": "2026-08-18T12:36:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
@@ -33,6 +33,13 @@
       "publishedAt": "2026-08-18T05:02:58Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c5ywe951z80o#0",
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T08:44:10Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo#0",
       "title": "China censors public mourning as it holds former premier's funeral",
       "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
@@ -47,18 +54,11 @@
       "publishedAt": "2026-08-18T03:43:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ywe951z80o#0",
-      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T08:44:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o#1",
-      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T06:53:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjwx58n1153o#1",
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "description": "Recovery efforts continue in what is the country's deadliest transport disaster.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T12:04:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo#1",
@@ -68,11 +68,18 @@
       "publishedAt": "2026-08-18T07:27:32Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o#1",
+      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T06:53:11Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo#1",
-      "title": "Zambia's president wins second term with 60% of the vote",
+      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
       "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
       "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T07:46:55Z"
+      "publishedAt": "2026-08-18T10:59:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o#1",
@@ -136,13 +143,6 @@
       "description": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
       "link": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T04:16:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo#2",
-      "title": "How a goat given as a graduation gift went viral",
-      "description": "Described as calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
-      "link": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T23:38:10Z"
     }
   ]
 }
