@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-18T08:04:15.988760Z",
+  "updatedAt": "2026-08-18T10:50:57.344167Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T09:55:00Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T05:00:04Z"
+      "publishedAt": "2026-08-18T08:07:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
@@ -19,32 +26,11 @@
       "publishedAt": "2026-08-18T05:24:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0",
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T06:40:00Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo#0",
       "title": "Inside secret police warehouse as Germany targets small boats gangs",
       "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
       "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T05:02:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5665zgg1po#0",
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T23:28:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1e154qjw96o#0",
-      "title": "Student killed in Philippines Catholic school shooting",
-      "description": "The alleged shooter, also a student, later took his own life.",
-      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T03:43:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo#0",
@@ -54,18 +40,46 @@
       "publishedAt": "2026-08-18T07:17:07Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c1e154qjw96o#0",
+      "title": "Student killed in Philippines Catholic school shooting",
+      "description": "The alleged shooter, also a student, later took his own life.",
+      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T03:43:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ywe951z80o#0",
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T08:44:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o#1",
+      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T06:53:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo#1",
+      "title": "Indian student leader ends hunger strike after 16 days",
+      "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+      "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T07:27:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo#1",
+      "title": "Zambia's president wins second term with 60% of the vote",
+      "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T07:46:55Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o#1",
       "title": "Norway's king admitted to hospital and put on sick leave",
       "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T21:34:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo#1",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T16:17:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo#1",
@@ -75,18 +89,18 @@
       "publishedAt": "2026-08-17T19:25:05Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo#1",
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T16:17:34Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro#1",
       "title": "French PM heckled over wildfire response as blazes continue across Europe",
       "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
       "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T18:00:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o#1",
-      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T06:53:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o#1",
@@ -103,27 +117,6 @@
       "publishedAt": "2026-08-17T18:39:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#1",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T13:16:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#1",
-      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "description": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T16:02:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crl7686r71yo#1",
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T10:39:24Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o#2",
       "title": "What it's like to be on a warship like the USS Abraham Lincoln",
       "description": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
@@ -138,11 +131,18 @@
       "publishedAt": "2026-08-17T18:03:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o#2",
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T23:09:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/c171j0k74d8o#2",
+      "title": "Why Indian law students don't want top judge at their graduation ceremony",
+      "description": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
+      "link": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T04:16:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo#2",
+      "title": "How a goat given as a graduation gift went viral",
+      "description": "Described as calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
+      "link": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T23:38:10Z"
     }
   ]
 }
