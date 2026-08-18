@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-17T21:59:19.783613Z",
+  "updatedAt": "2026-08-18T03:12:59.920453Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo#0",
@@ -12,11 +12,32 @@
       "publishedAt": "2026-08-17T19:25:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T13:16:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T02:06:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0",
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T01:16:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cy45zjw424xo#0",
+      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T23:42:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o#0",
+      "title": "Norway's king admitted to hospital and put on sick leave",
+      "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T21:34:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo#0",
@@ -26,25 +47,25 @@
       "publishedAt": "2026-08-17T16:17:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq5665zgg1po#0",
+      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T23:28:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro#1",
       "title": "French PM heckled over wildfire response as blazes continue across Europe",
       "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
       "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T18:00:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo#0",
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T18:03:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5665zgg1po#0",
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T21:43:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#1",
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T13:16:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o#1",
@@ -122,27 +143,6 @@
       "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T05:46:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T19:50:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o#2",
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T23:09:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cevml4701emo#2",
-      "title": "Thailand has a gun problem - 10 million of them",
-      "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T22:09:04Z"
     }
   ]
 }
