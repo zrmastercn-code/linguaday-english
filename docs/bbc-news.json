@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-18T14:08:59.062407Z",
+  "updatedAt": "2026-08-18T16:03:47.408182Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0",
@@ -12,25 +12,25 @@
       "publishedAt": "2026-08-18T12:36:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T08:07:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T05:24:15Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo#0",
       "title": "Inside secret police warehouse as Germany targets small boats gangs",
       "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
       "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T05:02:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo#0",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T13:13:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T08:07:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5ywe951z80o#0",
@@ -47,7 +47,7 @@
       "publishedAt": "2026-08-18T07:17:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1e154qjw96o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c1e154qjw96o#1",
       "title": "Student killed in Philippines Catholic school shooting",
       "description": "The alleged shooter, also a student, later took his own life.",
       "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
@@ -61,18 +61,18 @@
       "publishedAt": "2026-08-18T12:04:11Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#1",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T05:24:15Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo#1",
       "title": "Indian student leader ends hunger strike after 16 days",
       "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
       "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T07:27:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o#1",
-      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T06:53:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo#1",
@@ -87,6 +87,13 @@
       "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T21:34:26Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o#1",
+      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T06:53:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo#1",
@@ -110,22 +117,8 @@
       "publishedAt": "2026-08-17T18:00:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o#1",
-      "title": "US hiker dies after being struck by lightning on Mount Etna",
-      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
-      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T12:23:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#1",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T18:39:39Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o#2",
-      "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+      "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
       "description": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
       "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T05:07:06Z"
@@ -143,6 +136,13 @@
       "description": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
       "link": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T04:16:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo#2",
+      "title": "How a goat given as a graduation gift went viral",
+      "description": "Described as calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
+      "link": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T23:38:10Z"
     }
   ]
 }
