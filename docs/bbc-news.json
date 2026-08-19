@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-19T14:09:11.575166Z",
+  "updatedAt": "2026-08-19T16:51:29.560565Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
-      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-      "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T13:53:51Z"
+      "publishedAt": "2026-08-19T15:33:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo#0",
@@ -19,32 +19,32 @@
       "publishedAt": "2026-08-19T11:00:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/czjlxenlgkko#0",
-      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-      "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T08:25:03Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o#0",
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
       "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:56:35Z"
+      "publishedAt": "2026-08-19T15:47:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly50gn1e54o#0",
+      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T15:50:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o#0",
       "title": "South Korea shortens war games with US, citing Washington request",
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T05:53:53Z"
+      "publishedAt": "2026-08-19T14:16:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c78gp7l5348o#0",
       "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
       "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
       "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T12:47:53Z"
+      "publishedAt": "2026-08-19T16:31:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clylkv4z59vo#0",
@@ -54,6 +54,20 @@
       "publishedAt": "2026-08-19T13:00:09Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1",
+      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+      "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T12:25:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o#1",
+      "title": "Two detained after French influencer's scorched body found in vineyard",
+      "description": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
+      "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T16:04:39Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo#1",
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
@@ -61,11 +75,39 @@
       "publishedAt": "2026-08-19T10:10:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1",
-      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-      "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T12:25:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo#1",
+      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
+      "description": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
+      "link": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T15:12:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo#1",
+      "title": "Trump administration can target Ethiopians for deportation",
+      "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
+      "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T15:11:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o#1",
+      "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+      "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T15:01:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62xyg6527go#1",
+      "title": "Angélique Kidjo becomes first African musician with Hollywood Walk of Fame star",
+      "description": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
+      "link": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T14:36:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo#1",
+      "title": "Retail giant Target receives $1bn boost from tariff refunds",
+      "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T14:47:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpq8g22715vo#1",
@@ -75,39 +117,18 @@
       "publishedAt": "2026-08-19T10:47:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo#1",
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T00:48:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2dk64d10rko#1",
-      "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
-      "description": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
-      "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T11:30:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o#1",
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T22:11:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#1",
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:00:35Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo#1",
       "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
       "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
       "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T09:48:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5yedy98j7po#2",
+      "title": "Lindsay Clancy's trial puts postpartum psychosis on the map",
+      "description": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T16:30:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crrv48lenwgo#2",
@@ -122,27 +143,6 @@
       "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
       "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T05:04:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo#2",
-      "title": "Spared execution eight times, oldest inmate in US dies at 101",
-      "description": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
-      "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T11:22:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo#2",
-      "title": "The Indian activist jailed after taking on a luxury hotel plan",
-      "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
-      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T22:18:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo#2",
-      "title": "Why has Russia threatened the UK and what happens next?",
-      "description": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
-      "link": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T21:45:17Z"
     }
   ]
 }
