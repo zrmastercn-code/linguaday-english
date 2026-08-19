@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-19T10:50:30.403524Z",
+  "updatedAt": "2026-08-19T14:09:11.575166Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
+      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T13:53:51Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo#0",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T10:49:25Z"
+      "publishedAt": "2026-08-19T11:00:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/czjlxenlgkko#0",
@@ -33,25 +40,39 @@
       "publishedAt": "2026-08-19T05:53:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crrv48lenwgo#0",
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T05:00:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/c78gp7l5348o#0",
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T12:47:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o#0",
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T22:11:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/clylkv4z59vo#0",
+      "title": "Six tourists and pilot killed in Kenya helicopter crash",
+      "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T13:00:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo#1",
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
       "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T10:10:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1",
+      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+      "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T12:25:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpq8g22715vo#1",
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T10:47:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo#1",
@@ -59,6 +80,20 @@
       "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
       "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T00:48:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c2dk64d10rko#1",
+      "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+      "description": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T11:30:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o#1",
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T22:11:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#1",
@@ -75,53 +110,11 @@
       "publishedAt": "2026-08-19T09:48:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c141605846jo#1",
-      "title": "Thai teen found in suitcase died from suffocation, police reveal",
-      "description": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
-      "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T05:04:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjej8nze1wko#1",
-      "title": "Husband and mother-in-law charged over Indian bride's death",
-      "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-      "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:04:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o#1",
-      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T07:21:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo#1",
-      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-      "description": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:12:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo#1",
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T13:13:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go#1",
-      "title": "Five Australian rules footy players suspended amid police investigation",
-      "description": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:36:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o#1",
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T22:25:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/crrv48lenwgo#2",
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:00:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce34r0er75go#2",
@@ -129,6 +122,13 @@
       "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
       "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T05:04:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo#2",
+      "title": "Spared execution eight times, oldest inmate in US dies at 101",
+      "description": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
+      "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T11:22:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo#2",
