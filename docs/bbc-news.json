@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-19T16:51:29.560565Z",
+  "updatedAt": "2026-08-19T19:35:49.807868Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
@@ -16,28 +16,21 @@
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T11:00:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o#0",
-      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T15:47:31Z"
+      "publishedAt": "2026-08-19T17:23:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly50gn1e54o#0",
-      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T15:50:22Z"
+      "publishedAt": "2026-08-19T17:16:28Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o#0",
       "title": "South Korea shortens war games with US, citing Washington request",
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:16:27Z"
+      "publishedAt": "2026-08-19T17:39:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c78gp7l5348o#0",
@@ -48,10 +41,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clylkv4z59vo#0",
-      "title": "Six tourists and pilot killed in Kenya helicopter crash",
-      "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
       "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T13:00:09Z"
+      "publishedAt": "2026-08-19T18:43:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o#0",
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:47:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1",
@@ -68,11 +68,11 @@
       "publishedAt": "2026-08-19T16:04:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo#1",
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T10:10:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo#1",
+      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
+      "description": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
+      "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T18:26:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo#1",
@@ -84,7 +84,7 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo#1",
       "title": "Trump administration can target Ethiopians for deportation",
-      "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
+      "description": "A judge has cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
       "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T15:11:19Z"
     },
@@ -107,7 +107,7 @@
       "title": "Retail giant Target receives $1bn boost from tariff refunds",
       "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
       "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:47:02Z"
+      "publishedAt": "2026-08-19T17:07:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpq8g22715vo#1",
@@ -124,8 +124,15 @@
       "publishedAt": "2026-08-19T09:48:16Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o#2",
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "description": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T19:02:41Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c5yedy98j7po#2",
-      "title": "Lindsay Clancy's trial puts postpartum psychosis on the map",
+      "title": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
       "description": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
       "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T16:30:55Z"
@@ -136,13 +143,6 @@
       "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
       "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T05:00:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce34r0er75go#2",
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T05:04:00Z"
     }
   ]
 }
