@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-20T08:07:48.508744Z",
+  "updatedAt": "2026-08-20T10:52:13.957594Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo#0",
       "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T07:59:55Z"
+      "publishedAt": "2026-08-20T10:34:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo#0",
@@ -23,7 +23,7 @@
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T03:22:57Z"
+      "publishedAt": "2026-08-20T09:13:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo#0",
@@ -54,6 +54,13 @@
       "publishedAt": "2026-08-20T02:05:20Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1",
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "description": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T10:07:48Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#1",
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -61,32 +68,39 @@
       "publishedAt": "2026-08-20T04:17:53Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/clyx028ryy6o#1",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "description": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T10:11:26Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o#1",
       "title": "Four workers dead after being hit by train in Japan",
       "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
       "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T06:02:10Z"
+      "publishedAt": "2026-08-20T10:32:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo#1",
+      "title": "Canadian marathon route was 674m too long",
+      "description": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T07:15:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clylkv4z59vo#1",
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+      "description": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
       "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:32:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyx028ryy6o#1",
-      "title": "Former Liberian vice president charged in drug-trafficking probe",
-      "description": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
-      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T03:09:24Z"
+      "publishedAt": "2026-08-20T10:41:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly50gn1e54o#1",
-      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "title": "Israel opens up bids for highly sensitive West Bank settlement project",
       "description": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T00:53:20Z"
+      "publishedAt": "2026-08-20T10:30:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo#1",
@@ -110,20 +124,6 @@
       "publishedAt": "2026-08-19T16:04:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo#1",
-      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "description": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T18:26:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1",
-      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-      "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T12:25:30Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cn9nr195drzo#2",
       "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
       "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
@@ -132,8 +132,8 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o#2",
-      "title": "Who is Natalie Harp, Trump's right-hand woman?",
-      "description": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+      "description": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
       "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T23:11:14Z"
     },
