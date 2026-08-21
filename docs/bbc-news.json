@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-21T10:53:33.480167Z",
+  "updatedAt": "2026-08-21T14:09:51.777139Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
@@ -12,11 +12,11 @@
       "publishedAt": "2026-08-21T05:00:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro#0",
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T23:16:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4gknzgje7go#0",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T13:07:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o#0",
@@ -33,13 +33,6 @@
       "publishedAt": "2026-08-21T09:53:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#0",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T10:46:09Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#0",
       "title": "Panama Canal to cut number of ships passing through due to El Niño",
       "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
@@ -47,7 +40,28 @@
       "publishedAt": "2026-08-21T06:46:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#0",
+      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T10:03:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo#0",
+      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
+      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T11:57:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#1",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T10:46:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo#1",
       "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
       "description": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
       "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
@@ -58,7 +72,7 @@
       "title": "Five missing after fire in Swiss Alpine town",
       "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
       "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T07:06:16Z"
+      "publishedAt": "2026-08-21T13:10:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko#1",
@@ -68,11 +82,11 @@
       "publishedAt": "2026-08-21T02:33:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#1",
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T10:03:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj035jg256no#1",
+      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
+      "description": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
+      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T10:48:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly8k232mn7o#1",
@@ -117,32 +131,18 @@
       "publishedAt": "2026-08-21T00:04:10Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro#2",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T23:16:45Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#2",
       "title": "Why the US economy is ringing alarm bells",
       "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
       "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T08:38:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo#2",
-      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T22:01:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj364klz857o#2",
-      "title": "Why Nigeria's one-time political giant may face extinction",
-      "description": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T23:21:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no#2",
-      "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
-      "description": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
-      "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T05:02:39Z"
     }
   ]
 }
