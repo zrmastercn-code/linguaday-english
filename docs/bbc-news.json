@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-21T19:34:43.681180Z",
+  "updatedAt": "2026-08-21T21:58:48.445171Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
@@ -14,9 +14,16 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "description": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+      "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T18:51:43Z"
+      "publishedAt": "2026-08-21T19:49:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
+      "title": "One killed in sword attack at Swedish school",
+      "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T21:03:24Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o#0",
@@ -45,13 +52,6 @@
       "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
       "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T13:44:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
-      "title": "One killed in sword attack at Swedish school",
-      "description": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T19:22:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko#1",
@@ -103,11 +103,11 @@
       "publishedAt": "2026-08-21T10:46:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo#1",
-      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
-      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T11:57:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#2",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T19:31:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gknzgje7go#2",
@@ -138,11 +138,11 @@
       "publishedAt": "2026-08-21T02:57:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#2",
-      "title": "Why the US economy is ringing alarm bells",
-      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T08:38:18Z"
+      "id": "https://www.bbc.co.uk/news/videos/cy07x9ne871o#3",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "description": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+      "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T14:35:50Z"
     }
   ]
 }
