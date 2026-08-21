@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-21T17:01:40.433683Z",
+  "updatedAt": "2026-08-21T19:34:43.681180Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
@@ -12,11 +12,11 @@
       "publishedAt": "2026-08-21T05:00:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4gknzgje7go#0",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T13:07:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "description": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T18:51:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o#0",
@@ -26,11 +26,18 @@
       "publishedAt": "2026-08-21T05:47:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
-      "title": "Two teenagers seriously injured after sword attack at Swedish school",
-      "description": "Police say one man has been arrested, while several other local schools were locked down.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T16:32:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#0",
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T15:58:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#0",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "description": "One suspect is in custody, but police have not disclosed a possible motive.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T18:27:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo#0",
@@ -40,18 +47,46 @@
       "publishedAt": "2026-08-21T13:44:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy8e6g13497o#0",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T13:10:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
+      "title": "One killed in sword attack at Swedish school",
+      "description": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T19:22:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko#0",
+      "id": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko#1",
+      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "description": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T18:09:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo#1",
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T16:26:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo#1",
+      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T18:29:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko#1",
       "title": "Peru earthquake damages buildings and causes power cuts",
       "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
       "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T11:14:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8e6g13497o#1",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T13:10:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c24me64n31qo#1",
@@ -75,60 +110,11 @@
       "publishedAt": "2026-08-21T11:57:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o#1",
-      "title": "Corruption charges dropped against South Africa's police intelligence boss",
-      "description": "Officials had faced charges over the appointment of a civilian to a top post within crime intelligence.",
-      "link": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T14:38:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#1",
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T10:03:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj035jg256no#1",
-      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "description": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
-      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T10:48:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o#1",
-      "title": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
-      "description": "Jeffries was declared \"mentally incompetent\" by a court last year and said to be suffering with dementia and late onset of Alzheimer's disease.",
-      "link": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T14:23:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#1",
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T06:46:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#1",
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "description": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T16:05:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko#1",
-      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T02:33:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cly8k232mn7o#1",
-      "title": "Japan executes man who killed five in Pachinko parlour fire",
-      "description": "This is the first time since June 2025 that the country has enacted capital punishment.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T02:49:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4gknzgje7go#2",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T13:07:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro#2",
@@ -143,6 +129,20 @@
       "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
       "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T00:04:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c935rk91vg5o#2",
+      "title": "What happened to Harry and Meghan's American dream?",
+      "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:57:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#2",
+      "title": "Why the US economy is ringing alarm bells",
+      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T08:38:18Z"
     }
   ]
 }
