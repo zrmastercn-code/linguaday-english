@@ -2,15 +2,8 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-20T22:02:33.998015Z",
+  "updatedAt": "2026-08-21T03:33:12.870706Z",
   "items": [
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o#0",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "description": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T19:52:48Z"
-    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c998evlgz8ko#0",
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -19,18 +12,39 @@
       "publishedAt": "2026-08-20T18:55:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo#0",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T17:14:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro#0",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T23:16:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj035jg256no#0",
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
-      "description": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
-      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T20:27:36Z"
+      "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#0",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T00:33:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#0",
+      "title": "Why the US economy is ringing alarm bells",
+      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T23:15:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o#0",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:59:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko#0",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "description": "The 26-year-old sparked anger with an expletive-laden post about the sacred holiday.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:33:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#0",
@@ -40,25 +54,67 @@
       "publishedAt": "2026-08-20T20:08:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o#0",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T12:38:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo#1",
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T22:01:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#0",
+      "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo#1",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T17:14:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y615l2w46o#1",
+      "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+      "description": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T21:03:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#1",
+      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "description": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T22:43:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o#1",
+      "title": "US sanctions more Cuban companies and officials",
+      "description": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
+      "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:06:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj035jg256no#1",
+      "title": "Dozens dead after boat capsizes in north-western Nigeria",
+      "description": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T20:27:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o#1",
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T10:14:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#1",
       "title": "Giant whales move into Greenland waters as ice disappears",
       "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
       "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T02:05:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#1",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "description": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T20:40:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o#1",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T12:38:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo#1",
@@ -87,62 +143,6 @@
       "description": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
       "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T07:08:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#1",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T04:17:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo#1",
-      "title": "Landslide at unlicensed Colombian gold mine kills 13",
-      "description": "Four members of an indigenous family are among the dead, witnesses said.",
-      "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T15:07:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c304e2dlv20o#1",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "description": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
-      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T05:45:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyx028ryy6o#1",
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "description": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T11:08:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp87g29r718o#1",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T07:33:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo#1",
-      "title": "Canadian marathon route was 674m too long",
-      "description": "Organisers of the Edmonton Marathon admit their course this year was more than half a kilometre too long.",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T07:15:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o#1",
-      "title": "Four workers dead after being hit by train in Japan",
-      "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T10:32:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn9nr195drzo#2",
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T05:01:24Z"
     }
   ]
 }
