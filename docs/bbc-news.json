@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-21T03:33:12.870706Z",
+  "updatedAt": "2026-08-21T08:09:17.434674Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T05:00:57Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c998evlgz8ko#0",
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -19,35 +26,49 @@
       "publishedAt": "2026-08-20T23:16:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#0",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T00:33:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#0",
-      "title": "Why the US economy is ringing alarm bells",
-      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T23:15:15Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o#0",
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
       "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T02:59:46Z"
+      "publishedAt": "2026-08-21T05:47:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8e6g13497o#0",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T07:06:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko#0",
       "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "description": "The 26-year-old sparked anger with an expletive-laden post about the sacred holiday.",
+      "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
       "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T02:33:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#0",
+      "title": "Panama Canal to cut number of ships passing through due to El Niño",
+      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T06:46:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#1",
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T05:30:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly8k232mn7o#1",
+      "title": "Japan executes man who killed five in Pachinko parlour fire",
+      "description": "This is the first time since June 2025 that the country has enacted capital punishment.",
+      "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:49:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#1",
       "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
       "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
       "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
@@ -61,6 +82,13 @@
       "publishedAt": "2026-08-20T22:01:26Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#1",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T04:27:13Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo#1",
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
@@ -68,18 +96,18 @@
       "publishedAt": "2026-08-20T17:14:55Z"
     },
     {
+      "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#1",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T07:43:30Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c5y615l2w46o#1",
       "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
       "description": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
       "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T21:03:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#1",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "description": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T22:43:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o#1",
@@ -115,34 +143,6 @@
       "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
       "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T12:38:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo#1",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T06:08:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "description": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T13:04:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo#1",
-      "title": "Togo charges two French journalists over incorrect documents, rights group says",
-      "description": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T16:00:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo#1",
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "description": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T07:08:35Z"
     }
   ]
 }
