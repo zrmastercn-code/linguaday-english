@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-21T08:09:17.434674Z",
+  "updatedAt": "2026-08-21T10:53:33.480167Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
@@ -10,13 +10,6 @@
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T05:00:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c998evlgz8ko#0",
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T18:55:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro#0",
@@ -33,18 +26,18 @@
       "publishedAt": "2026-08-21T05:47:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy8e6g13497o#0",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T07:06:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#0",
+      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "description": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T09:53:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko#0",
-      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T02:33:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#0",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T10:46:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#0",
@@ -54,11 +47,32 @@
       "publishedAt": "2026-08-21T06:46:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#1",
-      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T05:30:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo#0",
+      "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
+      "description": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T06:33:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8e6g13497o#1",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T07:06:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko#1",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:33:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#1",
+      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T10:03:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly8k232mn7o#1",
@@ -68,6 +82,20 @@
       "publishedAt": "2026-08-21T02:49:27Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c0rdk5kg4r4o#1",
+      "title": "Australian hiker's body recovered as officials apologise for misreporting she was alive",
+      "description": "The body of Lily Hooper, 18, has been airlifted from a national park in the Southern Highlands following an eight-day search.",
+      "link": "https://www.bbc.co.uk/news/articles/c0rdk5kg4r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T04:54:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#1",
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T05:30:18Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#1",
       "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
       "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
@@ -75,74 +103,46 @@
       "publishedAt": "2026-08-20T20:08:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo#1",
+      "id": "https://www.bbc.co.uk/news/articles/c935rk91vg5o#2",
+      "title": "What happened to Harry and Meghan's American dream?",
+      "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:57:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o#2",
+      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T00:04:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#2",
+      "title": "Why the US economy is ringing alarm bells",
+      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T08:38:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo#2",
       "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
       "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
       "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T22:01:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#1",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T04:27:13Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj364klz857o#2",
+      "title": "Why Nigeria's one-time political giant may face extinction",
+      "description": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T23:21:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo#1",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T17:14:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#1",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T07:43:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5y615l2w46o#1",
-      "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
-      "description": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T21:03:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o#1",
-      "title": "US sanctions more Cuban companies and officials",
-      "description": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
-      "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T02:06:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj035jg256no#1",
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
-      "description": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
-      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T20:27:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o#1",
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T10:14:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#1",
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T02:05:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o#1",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T12:38:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no#2",
+      "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+      "description": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T05:02:39Z"
     }
   ]
 }
