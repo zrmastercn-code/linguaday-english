@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-22T09:58:48.958292Z",
+  "updatedAt": "2026-08-22T13:46:47.362352Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo#0",
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T04:46:33Z"
+      "publishedAt": "2026-08-22T12:20:46Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#0",
@@ -27,17 +27,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
-      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T09:13:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62xpre63j2o#0",
-      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T03:43:26Z"
+      "publishedAt": "2026-08-22T13:13:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
@@ -52,6 +45,13 @@
       "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T08:40:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62xpre63j2o#0",
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T03:43:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#1",
