@@ -2,12 +2,12 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-22T04:59:12.806750Z",
+  "updatedAt": "2026-08-22T07:49:36.403752Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo#0",
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T04:46:33Z"
     },
@@ -27,10 +27,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T03:17:29Z"
+      "publishedAt": "2026-08-22T06:40:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62xpre63j2o#0",
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T03:43:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
@@ -47,18 +54,18 @@
       "publishedAt": "2026-08-21T15:58:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0l5d387j18o#0",
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "description": "They will not be working royals when they come back. So what could they be doing instead?",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T00:03:10Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#1",
       "title": "Two injured in stabbing attack at Canada Sikh temple",
       "description": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
       "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T22:45:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0l5d387j18o#1",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T00:03:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko#1",
@@ -131,18 +138,11 @@
       "publishedAt": "2026-08-21T22:26:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#2",
-      "title": "How Israel is expanding settlements in drive to reshape West Bank",
-      "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T19:31:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o#2",
-      "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
-      "description": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T22:15:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq56x3910jwo#2",
+      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+      "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
+      "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T23:41:33Z"
     }
   ]
 }
