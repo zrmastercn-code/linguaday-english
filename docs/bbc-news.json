@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-22T03:10:51.591825Z",
+  "updatedAt": "2026-08-22T04:59:12.806750Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/czjlr0evy0do#0",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T00:40:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo#0",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T04:46:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#0",
@@ -27,10 +27,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
-      "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
-      "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T01:47:54Z"
+      "publishedAt": "2026-08-22T03:17:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
@@ -47,7 +47,14 @@
       "publishedAt": "2026-08-21T15:58:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c0l5d387j18o#0",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T00:03:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#1",
       "title": "Two injured in stabbing attack at Canada Sikh temple",
       "description": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
       "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "description": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T22:15:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gknzgje7go#2",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T13:07:00Z"
     }
   ]
 }
