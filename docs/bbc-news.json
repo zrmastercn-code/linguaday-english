@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-22T15:55:04.674639Z",
+  "updatedAt": "2026-08-22T19:12:06.025466Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T15:44:57Z"
+      "publishedAt": "2026-08-22T18:20:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
       "title": "Carney faces crucial test after walking away from Trump's deal",
-      "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T15:00:27Z"
+      "publishedAt": "2026-08-22T16:20:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#0",
@@ -33,13 +33,6 @@
       "publishedAt": "2026-08-22T13:48:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T05:00:57Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
       "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
@@ -47,11 +40,25 @@
       "publishedAt": "2026-08-22T13:13:16Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "description": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T16:57:19Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c93403wg288o#0",
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
       "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T14:35:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T05:00:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#1",
@@ -136,13 +143,6 @@
       "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
       "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T11:14:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o#2",
-      "title": "These bookshops let Chinese readers question their country - now the doors are closing",
-      "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
-      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T22:26:25Z"
     }
   ]
 }
