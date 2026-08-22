@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-22T07:49:36.403752Z",
+  "updatedAt": "2026-08-22T09:58:48.958292Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo#0",
@@ -30,7 +30,7 @@
       "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
       "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T06:40:30Z"
+      "publishedAt": "2026-08-22T09:13:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62xpre63j2o#0",
@@ -47,11 +47,25 @@
       "publishedAt": "2026-08-21T21:03:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#0",
+      "id": "https://www.bbc.co.uk/news/articles/c93403wg288o#0",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T08:40:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#1",
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T15:58:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T07:53:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#1",
@@ -129,20 +143,6 @@
       "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
       "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T10:46:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o#2",
-      "title": "These bookshops let Chinese readers question their country - now the doors are closing",
-      "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
-      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T22:26:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq56x3910jwo#2",
-      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-      "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
-      "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T23:41:33Z"
     }
   ]
 }
