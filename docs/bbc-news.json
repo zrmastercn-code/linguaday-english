@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-23T03:32:35.593796Z",
+  "updatedAt": "2026-08-23T07:51:52.374088Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T20:10:00Z"
+      "publishedAt": "2026-08-23T05:46:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
@@ -40,25 +40,39 @@
       "publishedAt": "2026-08-22T21:42:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#0",
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T22:36:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro#0",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T03:44:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo#0",
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T01:34:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#1",
       "title": "Fourteen killed in strike on Myanmar monastery",
       "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
       "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T13:48:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo#1",
-      "title": "Swedish sword attack victim was 17-year-old girl, police say",
-      "description": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T01:34:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce979zpjj85o#1",
+      "title": "Laptop catches fire on US flight, with passenger treated at airport",
+      "description": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+      "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T10:27:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#1",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T22:36:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#1",
@@ -68,25 +82,11 @@
       "publishedAt": "2026-08-22T16:57:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T07:53:57Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1",
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T05:00:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#1",
-      "title": "One killed in sword attack at Swedish school",
-      "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T21:03:24Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62xpre63j2o#1",
@@ -117,6 +117,13 @@
       "publishedAt": "2026-08-22T00:03:10Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o#2",
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T23:22:02Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#2",
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
@@ -136,13 +143,6 @@
       "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
       "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T23:41:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#2",
-      "title": "How Israel is expanding settlements in drive to reshape West Bank",
-      "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T19:31:47Z"
     }
   ]
 }
