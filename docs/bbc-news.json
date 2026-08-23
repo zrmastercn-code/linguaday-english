@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-23T13:48:33.232517Z",
+  "updatedAt": "2026-08-23T15:56:08.653453Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
@@ -33,6 +33,13 @@
       "publishedAt": "2026-08-23T11:50:59Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0",
+      "title": "France links rise in drownings to heatwaves",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T15:00:17Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#0",
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
@@ -47,18 +54,18 @@
       "publishedAt": "2026-08-23T12:36:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o#0",
-      "title": "Golf brand apologises for advert that shows woman being pushed over",
-      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:25:40Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro#1",
       "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
       "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T13:35:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o#1",
+      "title": "Golf brand apologises for advert that shows woman being pushed over",
+      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T12:25:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro#1",
@@ -82,11 +89,11 @@
       "publishedAt": "2026-08-22T14:35:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo#1",
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T23:45:01Z"
+      "id": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o#1",
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T06:01:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo#1",
@@ -136,13 +143,6 @@
       "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
       "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T12:47:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o#2",
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T23:22:02Z"
     }
   ]
 }
