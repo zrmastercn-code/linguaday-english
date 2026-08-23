@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-23T19:11:23.375184Z",
+  "updatedAt": "2026-08-23T21:55:31.690377Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po#0",
@@ -16,7 +16,7 @@
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T05:46:43Z"
+      "publishedAt": "2026-08-23T19:11:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
@@ -48,14 +48,14 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o#0",
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
       "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T18:17:34Z"
+      "publishedAt": "2026-08-23T20:19:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#1",
-      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "title": "Frustration builds in Indiana town struggling without power for 12 days",
       "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
       "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T15:54:32Z"
