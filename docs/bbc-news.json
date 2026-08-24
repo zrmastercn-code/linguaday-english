@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-24T08:31:12.027914Z",
+  "updatedAt": "2026-08-24T11:03:30.133833Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#0",
@@ -12,6 +12,13 @@
       "publishedAt": "2026-08-24T05:00:22Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#0",
+      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "description": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T10:08:40Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
@@ -19,32 +26,39 @@
       "publishedAt": "2026-08-23T19:11:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cdeweewjdxno#0",
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T07:00:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#0",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T10:40:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#0",
+      "title": "King of Norway's health has worsened, palace says",
+      "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T08:31:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#0",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T10:22:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#1",
       "title": "China probes use of formaldehyde to keep cabbages fresh",
       "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
       "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T05:40:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo#1",
       "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
       "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T03:55:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T18:17:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#1",
@@ -61,11 +75,32 @@
       "publishedAt": "2026-08-24T06:55:06Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o#1",
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T08:32:46Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c87n792dnlno#1",
       "title": "Australian shark attack victim grateful for 'second chance at life'",
       "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
       "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T05:31:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#1",
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T09:03:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cdeweewjdxno#1",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T07:00:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#1",
@@ -103,46 +138,11 @@
       "publishedAt": "2026-08-23T15:54:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o#1",
-      "title": "Golf brand apologises for advert that shows woman being pushed over",
-      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:25:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o#1",
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T20:19:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro#1",
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T03:44:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#2",
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:03:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#2",
-      "title": "Robot boxing, football and sprinting at World Humanoid Games",
-      "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:47:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o#2",
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T23:22:02Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o#2",
+      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "description": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T09:47:22Z"
     }
   ]
 }
