@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-24T14:27:08.248524Z",
+  "updatedAt": "2026-08-24T17:08:00.300602Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:35:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o#0",
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T15:54:16Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#0",
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -12,11 +26,11 @@
       "publishedAt": "2026-08-24T10:40:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:35:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:56:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#0",
@@ -26,18 +40,11 @@
       "publishedAt": "2026-08-24T08:31:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#1",
       "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
       "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T05:01:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#0",
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T14:02:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
@@ -45,6 +52,13 @@
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T13:14:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#1",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T14:02:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
@@ -101,20 +115,6 @@
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T19:11:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cdeweewjdxno#1",
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T07:00:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#1",
-      "title": "France links sharp rise in drownings to heatwaves",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T17:39:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#2",
