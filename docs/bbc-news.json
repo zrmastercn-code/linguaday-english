@@ -2,35 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-24T11:03:30.133833Z",
+  "updatedAt": "2026-08-24T14:27:08.248524Z",
   "items": [
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#0",
-      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-      "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:00:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#0",
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "description": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T10:08:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T19:11:30Z"
-    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#0",
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
       "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T10:40:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:35:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#0",
@@ -40,11 +26,32 @@
       "publishedAt": "2026-08-24T08:31:55Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#0",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:01:17Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#0",
       "title": "Access to Zambian courts prevented as election petition deadline looms",
       "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
       "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T10:22:45Z"
+      "publishedAt": "2026-08-24T14:02:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:14:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
+      "title": "Four arrested over suspected poisoning of elephants in Kenya",
+      "description": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T11:08:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#1",
@@ -54,25 +61,18 @@
       "publishedAt": "2026-08-24T05:40:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo#1",
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T03:55:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj068q7qj19o#1",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "description": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T12:17:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#1",
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:01:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#1",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T06:55:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#1",
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T11:26:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o#1",
@@ -82,18 +82,25 @@
       "publishedAt": "2026-08-24T08:32:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c87n792dnlno#1",
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:31:53Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#1",
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T06:55:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#1",
-      "title": "Guinea rubbish landfill collapse kills 31",
-      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T09:03:43Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo#1",
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T03:55:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#1",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T19:11:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cdeweewjdxno#1",
@@ -110,39 +117,32 @@
       "publishedAt": "2026-08-23T17:39:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo#1",
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:52:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po#1",
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:56:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o#1",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T11:50:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#1",
-      "title": "Frustration builds in Indiana town struggling without power for 12 days",
-      "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T15:54:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#2",
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:00:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o#2",
-      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
       "description": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
       "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T09:47:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c87n792dnlno#2",
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:31:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c20drryz7nvo#2",
+      "title": "The formidable challenges facing new Tata boss",
+      "description": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+      "link": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T22:35:00Z"
     }
   ]
 }
