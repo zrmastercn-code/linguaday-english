@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-25T17:07:43.418786Z",
+  "updatedAt": "2026-08-25T19:49:06.183966Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o#0",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T17:54:03Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -16,7 +23,14 @@
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:56:20Z"
+      "publishedAt": "2026-08-25T19:48:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o#0",
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T19:30:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#0",
@@ -33,18 +47,18 @@
       "publishedAt": "2026-08-25T08:52:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5yednen30go#0",
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:43:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn5drvyg92no#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn5drvyg92no#1",
       "title": "European rights court orders Turkey to free imprisoned businessman",
       "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
       "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T15:58:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo#1",
+      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+      "description": "The footage shows dozens of men, women and children sitting in a forest.",
+      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:40:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#1",
@@ -59,6 +73,13 @@
       "description": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
       "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T15:18:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5yednen30go#1",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:43:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#1",
@@ -122,27 +143,6 @@
       "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
       "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T23:36:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo#2",
-      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-      "description": "There are more than two million robots working in China's factories - and they are scaling up fast.",
-      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T22:13:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c05rj80ve56o#2",
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "description": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T02:49:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#2",
-      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-      "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:00:22Z"
     }
   ]
 }
