@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-25T08:23:23.244133Z",
+  "updatedAt": "2026-08-25T10:58:42.211283Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
@@ -16,14 +16,7 @@
       "title": "Lockerbie bombing trial postponed days before it was due to start",
       "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T06:59:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg598m3meeyo#0",
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T04:06:34Z"
+      "publishedAt": "2026-08-25T09:08:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
@@ -33,11 +26,11 @@
       "publishedAt": "2026-08-25T00:17:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
-      "title": "French tourist dies in Death Valley after car gets stuck in mud",
-      "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T02:08:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#0",
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T08:52:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c783lnz12vlo#0",
@@ -47,18 +40,46 @@
       "publishedAt": "2026-08-25T07:39:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0",
-      "title": "Moment tornado tears through southern France",
-      "description": "The tornado has injured more than 40 people and destroyed homes in villages.",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T00:16:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c93vpd60654o#1",
+      "id": "https://www.bbc.co.uk/news/articles/c93vpd60654o#0",
       "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
       "description": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
       "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T02:51:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T02:08:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#1",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "description": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T09:49:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3d79z4z953o#1",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T03:07:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo#1",
+      "title": "British man charged in Singapore two years after alleged theft at airport",
+      "description": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T09:01:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg598m3meeyo#1",
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T04:06:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#1",
@@ -82,13 +103,6 @@
       "publishedAt": "2026-08-24T10:40:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3d79z4z953o#1",
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
-      "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T03:07:34Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#1",
       "title": "Songs created by AI banned from Australia's music charts",
       "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -107,28 +121,7 @@
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:14:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#1",
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T14:02:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "description": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T11:08:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#1",
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:40:48Z"
+      "publishedAt": "2026-08-25T09:50:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
@@ -143,6 +136,13 @@
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast.",
       "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T22:13:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c05rj80ve56o#2",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "description": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute?",
+      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T02:49:22Z"
     }
   ]
 }
