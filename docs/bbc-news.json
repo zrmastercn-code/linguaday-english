@@ -2,35 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-24T22:02:13.076581Z",
+  "updatedAt": "2026-08-25T03:27:23.179035Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T19:12:35Z"
+      "publishedAt": "2026-08-24T23:48:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o#0",
       "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T17:29:59Z"
+      "publishedAt": "2026-08-25T01:48:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#0",
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T10:40:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T00:17:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:56:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T02:08:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0",
+      "title": "Moment tornado tears through southern France",
+      "description": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T00:16:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#0",
@@ -38,6 +45,20 @@
       "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T08:31:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#1",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:56:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#1",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T10:40:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1",
@@ -51,7 +72,7 @@
       "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
       "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:01:17Z"
+      "publishedAt": "2026-08-24T23:53:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
@@ -82,13 +103,6 @@
       "publishedAt": "2026-08-24T05:40:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj068q7qj19o#1",
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "description": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T12:17:34Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#1",
       "title": "Guinea rubbish landfill collapse kills 31",
       "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
@@ -103,25 +117,25 @@
       "publishedAt": "2026-08-24T08:32:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#1",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T06:55:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
+      "title": "Caste divides make scorching summers harder in a parched corner of India",
+      "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T23:36:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo#1",
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T03:55:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo#2",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "description": "There are more than two million robots working in China's factories - and they are scaling up fast.",
+      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T22:13:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#1",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T19:11:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/c05rj80ve56o#2",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "description": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T02:49:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#2",
@@ -129,20 +143,6 @@
       "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
       "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T05:00:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o#2",
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "description": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T09:47:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c87n792dnlno#2",
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:31:53Z"
     }
   ]
 }
