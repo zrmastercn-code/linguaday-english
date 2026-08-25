@@ -2,21 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-25T03:27:23.179035Z",
+  "updatedAt": "2026-08-25T08:23:23.244133Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T23:48:25Z"
+      "publishedAt": "2026-08-25T08:08:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o#0",
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T01:48:24Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#0",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T06:59:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg598m3meeyo#0",
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T04:06:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
@@ -33,6 +40,13 @@
       "publishedAt": "2026-08-25T02:08:57Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c783lnz12vlo#0",
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "description": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T07:39:25Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0",
       "title": "Moment tornado tears through southern France",
       "description": "The tornado has injured more than 40 people and destroyed homes in villages.",
@@ -40,7 +54,14 @@
       "publishedAt": "2026-08-25T00:16:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c93vpd60654o#1",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "description": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T02:51:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#1",
       "title": "King of Norway's health has worsened, palace says",
       "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
@@ -61,18 +82,25 @@
       "publishedAt": "2026-08-24T10:40:22Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c3d79z4z953o#1",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T03:07:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#1",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T04:54:01Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1",
       "title": "Outrage in Nepal over rape and murder of three-year-old girl",
       "description": "There have been protests since the girl was found dead last week, three days after she went missing.",
       "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T17:24:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#1",
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T23:53:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
@@ -103,22 +131,8 @@
       "publishedAt": "2026-08-24T05:40:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#1",
-      "title": "Guinea rubbish landfill collapse kills 31",
-      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T11:26:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o#1",
-      "title": "Four arrested over boxing champion's murder in South Africa",
-      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T08:32:46Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
-      "title": "Caste divides make scorching summers harder in a parched corner of India",
+      "title": "Caste divide makes summer more scorching in dry Indian region",
       "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
       "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T23:36:58Z"
@@ -129,20 +143,6 @@
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast.",
       "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T22:13:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c05rj80ve56o#2",
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "description": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
-      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T02:49:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#2",
-      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-      "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:00:22Z"
     }
   ]
 }
