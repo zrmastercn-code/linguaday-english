@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-25T14:30:37.531825Z",
+  "updatedAt": "2026-08-25T17:07:43.418786Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
@@ -12,11 +12,11 @@
       "publishedAt": "2026-08-25T11:53:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#0",
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T11:54:03Z"
+      "id": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do#0",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:56:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#0",
@@ -33,32 +33,39 @@
       "publishedAt": "2026-08-25T08:52:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c783lnz12vlo#0",
-      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "description": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T07:39:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5yednen30go#0",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:43:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn5drvyg92no#0",
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T15:58:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#1",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T11:54:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o#1",
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "description": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T15:18:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#1",
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
       "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T02:08:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#1",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T00:17:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo#1",
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "description": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T09:01:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#1",
@@ -68,11 +75,25 @@
       "publishedAt": "2026-08-25T09:49:02Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c783lnz12vlo#1",
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "description": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T07:39:25Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c3d79z4z953o#1",
       "title": "NZ religious sect leader jailed over death of Chinese follower",
       "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
       "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T03:07:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#1",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T00:17:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
@@ -94,27 +115,6 @@
       "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
       "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T13:56:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg598m3meeyo#1",
-      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T04:06:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#1",
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T10:40:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#1",
-      "title": "Songs created by AI banned from Australia's music charts",
-      "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T04:54:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
