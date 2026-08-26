@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-26T08:24:25.298547Z",
+  "updatedAt": "2026-08-26T11:02:33.019769Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo#0",
+      "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
+      "description": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T10:56:50Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o#0",
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -12,35 +19,84 @@
       "publishedAt": "2026-08-25T19:50:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T11:53:36Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o#0",
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T08:01:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do#0",
+      "id": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo#0",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T08:17:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o#0",
+      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T07:26:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo#1",
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "description": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+      "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T17:12:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyzw836d05o#1",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T21:23:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq5xel4v642o#1",
+      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+      "description": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T01:32:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o#1",
+      "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+      "description": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T07:01:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do#1",
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T19:48:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o#0",
-      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T19:30:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#0",
+      "id": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#1",
       "title": "Brain disease in dead NFL players 'higher than previously shown'",
       "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
       "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T11:54:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#0",
+      "id": "https://www.bbc.co.uk/news/articles/clyl8965j5go#1",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T11:53:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o#1",
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T19:30:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#1",
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
       "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
       "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
@@ -54,95 +110,39 @@
       "publishedAt": "2026-08-25T15:58:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo#1",
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "description": "The footage shows dozens of men, women and children sitting in a forest.",
-      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:40:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo#2",
+      "title": "Canada's retaliation tests the limit of American power under Trump",
+      "description": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T08:47:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#1",
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T11:54:03Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o#2",
+      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "description": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T23:50:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o#1",
-      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "description": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T15:18:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o#2",
+      "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
+      "description": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T22:37:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5yednen30go#1",
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:43:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno#2",
+      "title": "India's sugar squeeze threatens its biggest season for sweets",
+      "description": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T06:30:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#1",
-      "title": "French tourist dies in Death Valley after car gets stuck in mud",
-      "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T02:08:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#1",
-      "title": "US firefighters say major blaze near Reno about a quarter contained",
-      "description": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T09:49:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c783lnz12vlo#1",
-      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "description": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T07:39:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3d79z4z953o#1",
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
-      "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T03:07:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#1",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T00:17:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T09:50:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o#1",
-      "title": "King of Norway's health has worsened, palace says",
-      "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-      "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T08:31:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#1",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:56:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
-      "title": "Caste divide makes summer more scorching in dry Indian region",
-      "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T23:36:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro#2",
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "description": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
+      "link": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T03:33:59Z"
     }
   ]
 }
