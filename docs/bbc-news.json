@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-29T16:44:39.080396Z",
+  "updatedAt": "2026-08-29T20:57:08.884779Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
@@ -16,14 +16,28 @@
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T15:27:56Z"
+      "publishedAt": "2026-08-29T20:13:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#0",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T16:15:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#0",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T17:52:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo#0",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T19:06:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo#0",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T19:44:54Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0",
@@ -33,25 +47,18 @@
       "publishedAt": "2026-08-29T00:32:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o#0",
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T19:40:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o#0",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T00:46:02Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#1",
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
       "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T00:56:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#1",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T16:15:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#1",
@@ -136,13 +143,6 @@
       "description": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
       "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-28T14:18:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko#1",
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "description": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T13:41:18Z"
     }
   ]
 }
