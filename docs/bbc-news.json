@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-29T10:08:16.419958Z",
+  "updatedAt": "2026-08-29T16:44:39.080396Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
@@ -13,17 +13,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
-      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
-      "description": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T09:38:07Z"
+      "publishedAt": "2026-08-29T15:27:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#0",
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T02:42:27Z"
+      "publishedAt": "2026-08-29T16:15:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0",
@@ -62,8 +62,8 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy8z9084d00o#1",
-      "title": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the institute has advised.",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
       "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T08:48:34Z"
     },
