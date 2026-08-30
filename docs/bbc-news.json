@@ -2,28 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-30T05:27:26.286503Z",
+  "updatedAt": "2026-08-30T11:56:57.017762Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T03:54:11Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c70le8ed1plo#0",
-      "title": "Iceland EU referendum on a knife edge as counting continues",
-      "description": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "title": "Iceland votes against restarting talks on joining EU",
+      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
       "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T03:57:01Z"
+      "publishedAt": "2026-08-30T10:49:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cgk57lg7566o#0",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T04:59:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9qr750je1go#0",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T11:25:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
@@ -33,18 +26,39 @@
       "publishedAt": "2026-08-29T20:13:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cpq09594vw7o#0",
+      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T00:17:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgk57lg7566o#0",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T04:59:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T03:54:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#1",
       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
       "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T17:52:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpq09594vw7o#0",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T00:17:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo#1",
+      "title": "Zambian opposition leader charged with treason",
+      "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T09:08:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo#1",
@@ -129,20 +143,6 @@
       "description": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
       "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-28T19:57:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo#1",
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "description": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T16:30:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0j38d9v40po#1",
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "description": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
-      "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T11:13:24Z"
     }
   ]
 }
