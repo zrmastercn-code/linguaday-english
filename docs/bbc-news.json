@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-29T23:22:04.426963Z",
+  "updatedAt": "2026-08-30T05:27:26.286503Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
@@ -10,6 +10,20 @@
       "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T03:54:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c70le8ed1plo#0",
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "description": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T03:57:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgk57lg7566o#0",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T04:59:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
@@ -26,39 +40,39 @@
       "publishedAt": "2026-08-29T17:52:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cpq09594vw7o#0",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T00:17:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo#1",
       "title": "Norway's new king remembers 'my dear father' in first speech",
       "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
       "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T19:06:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo#1",
       "title": "Former Ecuadorian president imprisoned for corruption",
       "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
       "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T19:44:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c99dvm39mreo#1",
       "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
       "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T00:32:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#1",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T00:56:19Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#1",
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T22:40:51Z"
+      "publishedAt": "2026-08-30T04:01:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#1",
@@ -129,20 +143,6 @@
       "description": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
       "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-28T11:13:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo#1",
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T19:45:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2076gxr0llo#1",
-      "title": "Two-year curfew lifted in Sudan's capital",
-      "description": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
-      "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T14:18:53Z"
     }
   ]
 }
