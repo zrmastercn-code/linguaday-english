@@ -2,35 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-30T11:56:57.017762Z",
+  "updatedAt": "2026-08-30T16:42:44.471717Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c70le8ed1plo#0",
-      "title": "Iceland votes against restarting talks on joining EU",
-      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+      "title": "Iceland votes against restarting EU membership talks",
+      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
       "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T10:49:11Z"
+      "publishedAt": "2026-08-30T16:11:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9qr750je1go#0",
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T11:25:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T20:13:16Z"
+      "publishedAt": "2026-08-30T12:44:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpq09594vw7o#0",
-      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
       "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
       "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T00:17:25Z"
+      "publishedAt": "2026-08-30T14:25:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgk57lg7566o#0",
@@ -40,18 +33,11 @@
       "publishedAt": "2026-08-30T04:59:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T03:54:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#1",
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T17:52:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5ye8egg596o#0",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "description": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T16:33:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo#1",
@@ -59,6 +45,20 @@
       "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
       "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T09:08:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo#1",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T20:13:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#1",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T17:52:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo#1",
@@ -73,13 +73,6 @@
       "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
       "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T19:44:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c99dvm39mreo#1",
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T00:32:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#1",
@@ -103,27 +96,6 @@
       "publishedAt": "2026-08-29T08:48:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo#1",
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T13:50:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#1",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T19:05:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o#1",
-      "title": "Canada poaches dozens of top US researchers for its universities",
-      "description": "Researchers in fields like climate and medicine are being lured north by new research funding.",
-      "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T23:47:38Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo#1",
       "title": "Berlin is being blackmailed by hackers, mayor says",
       "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
@@ -138,11 +110,39 @@
       "publishedAt": "2026-08-28T17:29:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1",
-      "title": "Greenland says findings on genocide allegation not final",
-      "description": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
-      "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T19:57:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8en3n29wdro#2",
+      "title": "They fell in love - then had to check they weren't brother and sister",
+      "description": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
+      "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T23:03:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno#2",
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T18:30:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#2",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T03:54:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo#2",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T01:14:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#2",
+      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
+      "description": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T00:35:04Z"
     }
   ]
 }
