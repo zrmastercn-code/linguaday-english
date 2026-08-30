@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-30T21:08:52.786114Z",
+  "updatedAt": "2026-08-30T23:31:38.497406Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0",
@@ -10,6 +10,13 @@
       "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T20:02:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#0",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T21:15:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c70le8ed1plo#0",
@@ -26,6 +33,13 @@
       "publishedAt": "2026-08-30T17:49:31Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/clylkjyez1do#0",
+      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "description": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T22:14:37Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0",
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
@@ -33,25 +47,18 @@
       "publishedAt": "2026-08-30T18:53:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpq09594vw7o#0",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T14:25:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5ye8egg596o#0",
-      "title": "Russia says it helped to repel Niger attempted coup",
-      "description": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T16:33:17Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo#1",
       "title": "Zambian opposition leader charged with treason",
       "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
       "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T17:06:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ye8egg596o#1",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "description": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T16:33:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko#1",
@@ -136,13 +143,6 @@
       "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
       "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T01:14:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#2",
-      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
-      "description": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T00:35:04Z"
     }
   ]
 }
