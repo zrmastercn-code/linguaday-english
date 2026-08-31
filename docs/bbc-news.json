@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-30T23:31:38.497406Z",
+  "updatedAt": "2026-08-31T05:39:47.928404Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0",
-      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T20:02:43Z"
+      "publishedAt": "2026-08-31T03:56:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#0",
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "description": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T21:15:42Z"
+      "publishedAt": "2026-08-31T04:54:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c70le8ed1plo#0",
@@ -34,10 +34,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clylkjyez1do#0",
-      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
       "description": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T22:14:37Z"
+      "publishedAt": "2026-08-30T23:52:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0",
