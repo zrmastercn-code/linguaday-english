@@ -2,45 +2,87 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-01T00:38:05.436986Z",
+  "updatedAt": "2026-09-01T08:41:47.813534Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o#0",
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T17:30:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T05:00:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crr451lpl4no#0",
+      "id": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o#0",
+      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+      "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T07:37:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#0",
+      "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+      "description": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T06:02:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c24j5192j7jo#0",
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T07:02:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o#0",
+      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T21:28:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c780wy7ype4o#0",
+      "title": "South Korean police officer admits to closing missing person cases to avoid work",
+      "description": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
+      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T05:47:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#0",
+      "title": "Shein shares fall in long-awaited stock market debut",
+      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T04:15:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62m7vp5895o#1",
+      "title": "Zambia's president to be sworn in for second term while opponent detained",
+      "description": "Hakainde Hichilema swept to victory, but his main rival is now in detention charged with treason.",
+      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T07:19:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crr451lpl4no#1",
       "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
       "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
       "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T17:54:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cddv92n194vo#0",
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T13:11:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo#1",
+      "title": "US army secretary resigns after months of tension",
+      "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T01:01:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#1",
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "description": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T14:50:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#0",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T13:47:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo#1",
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
       "description": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
       "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
@@ -52,6 +94,20 @@
       "description": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
       "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T18:58:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cddv92n194vo#1",
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T13:11:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#1",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T13:47:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpwlxy49225o#1",
@@ -82,67 +138,11 @@
       "publishedAt": "2026-08-31T15:00:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o#1",
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T10:18:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c780wzj86pno#1",
-      "title": "Company offering reward for safe return of truckload of beer",
-      "description": "Police say a thief presented false documentation at a California distribution centre before driving off with the shipment.",
-      "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T16:32:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o#1",
-      "title": "'Moonies' church leader jailed for two years over bribery offences",
-      "description": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
-      "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T06:56:40Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/clylkjyez1do#1",
       "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "description": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T20:47:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo#1",
-      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
-      "description": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T08:13:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#2",
-      "title": "The jury's options in Lindsay Clancy's murder trial",
-      "description": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T11:53:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/tennis/articles/cy9zq3xn45yo#2",
-      "title": "From playing Serena Williams on screen to following in her footsteps",
-      "description": "Having played a young Serena Williams on the big screen, teenager Thea Frodin is ready to follow in the American great's footsteps at the US Open.",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy9zq3xn45yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T09:58:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o#2",
-      "title": "How the US-Canada trade war is being felt on both sides of the border",
-      "description": "The US-Canada trade war is being felt on both sides of the border.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T00:05:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgk57lg7566o#2",
-      "title": "WhatsApp chat used to launder cash for crime and extremism",
-      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T04:59:56Z"
     }
   ]
 }
