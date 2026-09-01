@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-08-31T20:51:07.710708Z",
+  "updatedAt": "2026-09-01T00:38:05.436986Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o#0",
@@ -12,11 +12,11 @@
       "publishedAt": "2026-08-31T17:30:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#0",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T13:47:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/crr451lpl4no#0",
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
+      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T17:54:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cddv92n194vo#0",
@@ -33,25 +33,25 @@
       "publishedAt": "2026-08-31T14:50:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crr451lpl4no#0",
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T17:54:23Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#0",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T13:47:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo#0",
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "description": "The National Trust for Historic Preservation argued the president did not have authority to proceed with construction.",
+      "description": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
       "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T20:43:25Z"
+      "publishedAt": "2026-08-31T22:38:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cew95ke74l7o#0",
-      "title": "Dolly Parton laid to rest alongside husband in Nashville",
-      "description": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
-      "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T09:24:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo#1",
+      "title": "Festival honouring Dolly Parton set for Nashville and London",
+      "description": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T18:58:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpwlxy49225o#1",
@@ -117,13 +117,6 @@
       "publishedAt": "2026-08-31T08:13:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c783x05nnlko#1",
-      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-      "description": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-      "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T10:54:01Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#2",
       "title": "The jury's options in Lindsay Clancy's murder trial",
       "description": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
@@ -143,6 +136,13 @@
       "description": "The US-Canada trade war is being felt on both sides of the border.",
       "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T00:05:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgk57lg7566o#2",
+      "title": "WhatsApp chat used to launder cash for crime and extremism",
+      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T04:59:56Z"
     }
   ]
 }
