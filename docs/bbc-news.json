@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-01T18:34:26.705270Z",
+  "updatedAt": "2026-09-01T23:20:09.696909Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#0",
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:53:40Z"
+      "publishedAt": "2026-09-01T21:05:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0",
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T21:48:28Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
@@ -33,18 +40,32 @@
       "publishedAt": "2026-09-01T15:33:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn9w39py48xo#0",
-      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
-      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T18:06:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o#0",
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T20:05:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c74eklrm344o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#0",
+      "title": "Ariana Grande completes tour and steps back from public life",
+      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T21:41:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c74eklrm344o#1",
       "title": "Pistol in a lake gives hope for French cold case",
       "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
       "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T16:33:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn9w39py48xo#1",
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T18:06:58Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2792pendro#1",
@@ -62,10 +83,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#1",
-      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-      "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "description": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
       "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T12:58:44Z"
+      "publishedAt": "2026-09-01T20:24:28Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o#1",
@@ -122,27 +143,6 @@
       "description": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
       "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T05:47:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62m7vp5895o#1",
-      "title": "Zambia's president sworn in for second term while opponent detained",
-      "description": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
-      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T12:37:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crr451lpl4no#1",
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T17:54:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo#1",
-      "title": "US army secretary resigns after months of tension",
-      "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
-      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T01:01:03Z"
     }
   ]
 }
