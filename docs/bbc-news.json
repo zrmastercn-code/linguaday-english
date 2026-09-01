@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-01T14:10:06.310163Z",
+  "updatedAt": "2026-09-01T18:34:26.705270Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#0",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T16:53:40Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -12,46 +19,74 @@
       "publishedAt": "2026-09-01T05:00:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o#0",
-      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T07:37:24Z"
+      "id": "https://www.bbc.co.uk/news/articles/cg49590v6k1o#0",
+      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+      "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T16:11:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo#0",
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
       "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
       "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T13:46:05Z"
+      "publishedAt": "2026-09-01T15:33:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn9w39py48xo#0",
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T18:06:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c74eklrm344o#0",
+      "title": "Pistol in a lake gives hope for French cold case",
+      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T16:33:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2792pendro#1",
+      "title": "France targets Shein and Temu with fast fashion fees",
+      "description": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T15:15:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9863817xzpo#1",
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "description": "The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
+      "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T15:57:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#1",
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
       "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
       "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T12:58:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o#1",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "description": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T16:35:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c24j5192j7jo#1",
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T18:26:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#1",
       "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
       "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T10:30:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o#0",
-      "title": "Trump says US position on Falklands 'one of many' under review",
-      "description": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T12:54:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c24j5192j7jo#0",
-      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-      "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
-      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T07:02:58Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#1",
@@ -63,9 +98,9 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo#1",
       "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
-      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
+      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history.",
       "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T13:12:47Z"
+      "publishedAt": "2026-09-01T15:48:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o#1",
@@ -108,41 +143,6 @@
       "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
       "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T01:01:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#1",
-      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-      "description": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
-      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T14:50:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo#1",
-      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "description": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T22:38:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo#1",
-      "title": "Festival honouring Dolly Parton set for Nashville and London",
-      "description": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T18:58:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cddv92n194vo#1",
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T13:11:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#1",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T13:47:30Z"
     }
   ]
 }
