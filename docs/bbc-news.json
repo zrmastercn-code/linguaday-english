@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-01T08:41:47.813534Z",
+  "updatedAt": "2026-09-01T14:10:06.310163Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
@@ -19,11 +19,32 @@
       "publishedAt": "2026-09-01T07:37:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#0",
-      "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
-      "description": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T06:02:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo#0",
+      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T13:46:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0",
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:58:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#0",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T10:30:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o#0",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "description": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:54:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c24j5192j7jo#0",
@@ -33,32 +54,46 @@
       "publishedAt": "2026-09-01T07:02:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#1",
+      "title": "Shein valued at $26bn after long-awaited stock market debut",
+      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T10:01:26Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo#1",
+      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
+      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T13:12:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o#1",
       "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
       "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
       "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T21:28:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c780wy7ype4o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c2dw3wn972no#1",
+      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
+      "description": "Prosecutors say the 17-year-old from North Carolina also published a manifesto from the two teenage shooters in the 18 May attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T10:26:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c780wy7ype4o#1",
       "title": "South Korean police officer admits to closing missing person cases to avoid work",
       "description": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
       "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T05:47:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#0",
-      "title": "Shein shares fall in long-awaited stock market debut",
-      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T04:15:15Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c62m7vp5895o#1",
-      "title": "Zambia's president to be sworn in for second term while opponent detained",
-      "description": "Hakainde Hichilema swept to victory, but his main rival is now in detention charged with treason.",
+      "title": "Zambia's president sworn in for second term while opponent detained",
+      "description": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
       "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T07:19:45Z"
+      "publishedAt": "2026-09-01T12:37:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crr451lpl4no#1",
@@ -108,41 +143,6 @@
       "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T13:47:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpwlxy49225o#1",
-      "title": "Ex-congressman George Santos banned from betting platform for life",
-      "description": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T18:15:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro#1",
-      "title": "Messi retires from international football with 'nothing left to give'",
-      "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T15:18:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o#1",
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "description": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T15:30:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno#1",
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "description": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
-      "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T15:00:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clylkjyez1do#1",
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "description": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T20:47:38Z"
     }
   ]
 }
