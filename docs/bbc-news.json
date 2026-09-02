@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-02T21:05:28.962195Z",
+  "updatedAt": "2026-09-02T23:20:20.547320Z",
   "items": [
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0",
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T15:33:19Z"
-    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#0",
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T17:33:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o#0",
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T21:34:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#0",
@@ -52,6 +52,13 @@
       "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
       "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T17:21:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#1",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T15:33:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#1",
@@ -90,17 +97,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o#1",
-      "title": "South African airline behind daring stadium stunt cancels next flyby, regulator says",
+      "title": "South African airline behind daring stadium stunt cancels next flyby",
       "description": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
       "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T16:58:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go#1",
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "description": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T15:57:13Z"
+      "publishedAt": "2026-09-02T21:21:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#2",
