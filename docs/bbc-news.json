@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-02T16:36:45.676776Z",
+  "updatedAt": "2026-09-02T21:05:28.962195Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0",
@@ -12,11 +12,18 @@
       "publishedAt": "2026-09-02T15:33:19Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#0",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T17:33:45Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#0",
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T14:34:22Z"
+      "publishedAt": "2026-09-02T16:49:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62j50n131mo#0",
@@ -26,32 +33,67 @@
       "publishedAt": "2026-09-02T11:47:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#0",
+      "id": "https://www.bbc.co.uk/news/videos/cy8z32v7130o#0",
+      "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+      "description": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
+      "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T20:12:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo#0",
+      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T19:05:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o#0",
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T17:21:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#1",
       "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
       "description": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
       "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T10:04:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyze4593zwo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o#1",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "description": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+      "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T20:21:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyze4593zwo#1",
       "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
       "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
       "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T16:18:55Z"
+      "publishedAt": "2026-09-02T17:05:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo#1",
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T16:12:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c7708dy33pdo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c7708dy33pdo#1",
       "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
       "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
       "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T11:51:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o#1",
+      "title": "South African airline behind daring stadium stunt cancels next flyby, regulator says",
+      "description": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+      "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T16:58:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go#1",
@@ -59,55 +101,6 @@
       "description": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
       "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T15:57:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo#1",
-      "title": "What we know about reported strike on Iran wedding celebrations",
-      "description": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
-      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T10:33:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#1",
-      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-      "description": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T15:20:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cge41d19gq9o#1",
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T05:03:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko#1",
-      "title": "Bus crash on Egypt's Red Sea coast kills 22",
-      "description": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T12:07:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo#1",
-      "title": "Madagascar ex-Senate chief sentenced to hard labour over deadly Gen Z protest crackdown",
-      "description": "At least 22 people were killed and more than 100 injured during last year's unrest, according to the UN.",
-      "link": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T11:34:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo#1",
-      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-      "description": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T01:59:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o#1",
-      "title": "South Korea jails care home head for sexually assaulting disabled residents",
-      "description": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul.",
-      "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T05:56:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#2",
@@ -143,6 +136,13 @@
       "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
       "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T05:00:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c74eklrm344o#2",
+      "title": "Pistol in a lake gives hope for French cold case",
+      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T16:33:29Z"
     }
   ]
 }
