@@ -2,8 +2,29 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-02T11:22:16.766541Z",
+  "updatedAt": "2026-09-02T16:36:45.676776Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T15:33:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#0",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T14:34:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62j50n131mo#0",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T11:47:11Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#0",
       "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
@@ -12,39 +33,67 @@
       "publishedAt": "2026-09-02T10:04:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c5yw03jr892o#0",
-      "title": "Why US troops have a history in this raucous Thai city",
-      "description": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
-      "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T07:18:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go#0",
-      "title": "Thousands still missing as Nepal-Tibet flood relief and recovery intensifies",
-      "description": "More than 1, 000 people have died and thousands are missing, with communities relying on airlifted supplies.",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T10:07:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cge41d19gq9o#0",
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T05:03:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwyze4593zwo#0",
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T16:18:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo#0",
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T10:00:08Z"
+      "publishedAt": "2026-09-02T16:12:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko#0",
+      "id": "https://www.bbc.co.uk/news/articles/c7708dy33pdo#0",
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
+      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T11:51:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go#1",
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "description": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T15:57:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo#1",
+      "title": "What we know about reported strike on Iran wedding celebrations",
+      "description": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T10:33:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#1",
+      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+      "description": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T15:20:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cge41d19gq9o#1",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T05:03:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko#1",
       "title": "Bus crash on Egypt's Red Sea coast kills 22",
       "description": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
       "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T10:49:22Z"
+      "publishedAt": "2026-09-02T12:07:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo#1",
+      "title": "Madagascar ex-Senate chief sentenced to hard labour over deadly Gen Z protest crackdown",
+      "description": "At least 22 people were killed and more than 100 injured during last year's unrest, according to the UN.",
+      "link": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T11:34:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo#1",
@@ -61,49 +110,7 @@
       "publishedAt": "2026-09-02T05:56:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno#1",
-      "title": "Tiger Woods to change plea after crash arrest",
-      "description": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T00:26:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o#1",
-      "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-      "description": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
-      "link": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T10:32:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg49590v6k1o#1",
-      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-      "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:11:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o#1",
-      "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-      "description": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T04:29:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#1",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T01:59:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o#1",
-      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
-      "description": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
-      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T01:32:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#1",
+      "id": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#2",
       "title": "Ariana Grande makes emotional tour exit and steps back from public life",
       "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
       "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
@@ -121,7 +128,7 @@
       "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
       "description": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
       "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T22:32:30Z"
+      "publishedAt": "2026-09-02T12:09:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o#2",
@@ -136,13 +143,6 @@
       "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
       "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T05:00:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c74eklrm344o#2",
-      "title": "Pistol in a lake gives hope for French cold case",
-      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
-      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:33:29Z"
     }
   ]
 }
