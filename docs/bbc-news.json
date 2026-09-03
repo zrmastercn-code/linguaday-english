@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-03T21:04:22.396494Z",
+  "updatedAt": "2026-09-03T23:17:51.991517Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
@@ -118,7 +118,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#2",
-      "title": "Data centres are booming in Australia - but at what cost?",
+      "title": "AI data centres are booming in Australia - but at what cost?",
       "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
       "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T18:32:03Z"
