@@ -2,147 +2,147 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-03T04:36:21.394753Z",
+  "updatedAt": "2026-09-03T11:18:19.244805Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T06:01:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o#0",
+      "title": "Feminist activist and journalist Gloria Steinem dies at 92",
+      "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:58:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo#0",
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T05:00:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#0",
+      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:37:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c7507g9v992o#0",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:25:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cz7z93zde3po#0",
+      "title": "Watch: US man struck by lightning describes 'horrific' experience",
+      "description": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
+      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:01:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo#1",
+      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
+      "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
+      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:59:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#1",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T09:37:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo#1",
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
+      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T09:30:26Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#1",
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T17:33:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o#0",
-      "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T21:34:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o#1",
+      "title": "Sydney police investigate second possible mistaken identity killing in two days",
+      "description": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:40:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#0",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T03:21:24Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo#1",
+      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
+      "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T23:47:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62j50n131mo#0",
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T11:47:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cy8z32v7130o#0",
-      "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
-      "description": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
-      "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T20:12:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo#1",
       "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
       "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
       "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T19:05:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o#0",
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T17:21:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#1",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T03:21:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#1",
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T15:33:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o#1",
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T23:53:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#1",
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-      "description": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T10:04:28Z"
+      "id": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro#1",
+      "title": "LA Clippers fined $30m over Leonard pay scandal",
+      "description": "The LA Clippers are fined $30m by the NBA for violating salary rules in order to funnel millions of dollars to star player Kawhi Leonard.",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T06:17:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o#1",
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "description": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
-      "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T20:21:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo#2",
+      "title": "How Gloria Steinem changed the lives of generations of women",
+      "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
+      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:22:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyze4593zwo#1",
-      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T17:05:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#2",
+      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+      "description": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T23:56:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo#1",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T16:12:43Z"
+      "id": "https://www.bbc.co.uk/news/articles/cn8e940gz10o#2",
+      "title": "Why Nepal floods should worry India",
+      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:58:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c7708dy33pdo#1",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T11:51:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o#1",
-      "title": "South African airline behind daring stadium stunt cancels next flyby",
-      "description": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T21:21:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#2",
-      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
-      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T21:41:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo#2",
-      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
-      "description": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
-      "link": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T21:27:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o#2",
-      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
-      "description": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T12:09:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o#2",
-      "title": "Will self-flying planes transform the skies?",
-      "description": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
-      "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T23:27:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2e074nn8eko#2",
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T05:00:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c74eklrm344o#2",
-      "title": "Pistol in a lake gives hope for French cold case",
-      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
-      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:33:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo#2",
+      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "description": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:58:50Z"
     }
   ]
 }
