@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-03T16:27:46.188428Z",
+  "updatedAt": "2026-09-03T21:04:22.396494Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
@@ -23,14 +23,7 @@
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T13:52:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo#0",
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-      "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
-      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T05:00:04Z"
+      "publishedAt": "2026-09-03T18:04:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#0",
@@ -40,18 +33,18 @@
       "publishedAt": "2026-09-03T15:05:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#0",
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T13:54:49Z"
+      "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#0",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
+      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T09:37:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c7507g9v992o#0",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T15:35:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o#1",
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+      "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
+      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T20:49:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#1",
@@ -61,32 +54,11 @@
       "publishedAt": "2026-09-03T10:37:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o#1",
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T13:07:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9dwedep38po#1",
-      "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
-      "description": "Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T11:30:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo#1",
-      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-      "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
-      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:59:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#1",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-      "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T09:37:34Z"
+      "id": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#1",
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
+      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T13:54:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo#1",
@@ -94,6 +66,27 @@
       "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
       "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T12:18:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c7507g9v992o#1",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T15:35:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o#1",
+      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T13:07:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo#1",
+      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
+      "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
+      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:59:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o#1",
@@ -110,13 +103,6 @@
       "publishedAt": "2026-09-02T23:47:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo#1",
-      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-      "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T19:05:31Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#1",
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
@@ -124,25 +110,39 @@
       "publishedAt": "2026-09-03T03:21:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o#1",
-      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
-      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T23:53:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro#1",
-      "title": "LA Clippers fined $30m over Leonard pay scandal",
-      "description": "The LA Clippers are fined $30m by the NBA for violating salary rules in order to funnel millions of dollars to star player Kawhi Leonard.",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T06:17:37Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo#2",
       "title": "How Gloria Steinem changed the lives of generations of women",
       "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
       "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T11:26:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#2",
+      "title": "Data centres are booming in Australia - but at what cost?",
+      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T18:32:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn8e940gz10o#2",
+      "title": "Why Nepal floods should worry India",
+      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:58:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo#2",
+      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "description": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:58:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o#2",
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "description": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T11:49:50Z"
     }
   ]
 }
