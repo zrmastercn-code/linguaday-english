@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-03T11:18:19.244805Z",
+  "updatedAt": "2026-09-03T16:27:46.188428Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
@@ -12,11 +12,18 @@
       "publishedAt": "2026-09-03T06:01:54Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/clyqw44w142o#0",
+      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+      "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T11:35:52Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o#0",
-      "title": "Feminist activist and journalist Gloria Steinem dies at 92",
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:58:23Z"
+      "publishedAt": "2026-09-03T13:52:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo#0",
@@ -26,25 +33,46 @@
       "publishedAt": "2026-09-03T05:00:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#0",
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:37:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#0",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T15:05:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#0",
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
+      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T13:54:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c7507g9v992o#0",
       "title": "Trump $1 coin makes him first living president on US currency in a century",
       "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
       "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:25:43Z"
+      "publishedAt": "2026-09-03T15:35:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cz7z93zde3po#0",
-      "title": "Watch: US man struck by lightning describes 'horrific' experience",
-      "description": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
-      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:01:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#1",
+      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T10:37:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o#1",
+      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T13:07:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9dwedep38po#1",
+      "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
+      "description": "Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T11:30:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo#1",
@@ -55,7 +83,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#1",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
       "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
       "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T09:37:34Z"
@@ -65,14 +93,7 @@
       "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
       "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
       "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T09:30:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#1",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T17:33:45Z"
+      "publishedAt": "2026-09-03T12:18:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o#1",
@@ -121,28 +142,7 @@
       "title": "How Gloria Steinem changed the lives of generations of women",
       "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
       "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:22:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#2",
-      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "description": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T23:56:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn8e940gz10o#2",
-      "title": "Why Nepal floods should worry India",
-      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:58:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo#2",
-      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
-      "description": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:58:50Z"
+      "publishedAt": "2026-09-03T11:26:07Z"
     }
   ]
 }
