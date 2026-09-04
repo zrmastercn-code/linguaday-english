@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-04T04:37:32.934312Z",
+  "updatedAt": "2026-09-04T11:21:25.805081Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo#0",
-      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-      "description": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T02:20:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo#0",
+      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T08:23:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
+      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T10:00:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo#0",
@@ -20,17 +27,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko#0",
-      "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
       "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
       "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T04:04:42Z"
+      "publishedAt": "2026-09-04T06:52:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o#0",
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T22:19:59Z"
+      "id": "https://www.bbc.co.uk/news/articles/c7903r0grx0o#0",
+      "title": "US diesel prices hit an all-time-high",
+      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T10:52:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo#0",
@@ -40,11 +47,32 @@
       "publishedAt": "2026-09-04T04:06:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
+      "id": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o#1",
+      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+      "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T07:16:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c305qn2jeggo#1",
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
       "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
       "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T22:31:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o#1",
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T07:00:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o#1",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T22:19:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#1",
@@ -75,67 +103,11 @@
       "publishedAt": "2026-09-03T18:04:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o#1",
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T01:20:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#1",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T15:05:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#1",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-      "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T09:37:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o#1",
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T01:26:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#1",
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:37:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#1",
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T13:54:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo#1",
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T12:18:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c7507g9v992o#1",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T15:35:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o#1",
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T13:07:02Z"
+      "id": "https://www.bbc.co.uk/news/articles/cgjql614glvo#2",
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "description": "After renewed strikes this week, does either side have an exit strategy?",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T09:14:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo#2",
@@ -143,6 +115,34 @@
       "description": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
       "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T00:19:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#2",
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T18:32:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo#2",
+      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
+      "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T00:28:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo#2",
+      "title": "How Gloria Steinem changed the lives of generations of women",
+      "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
+      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T11:26:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn8e940gz10o#2",
+      "title": "Why Nepal floods should worry India",
+      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:58:44Z"
     }
   ]
 }
