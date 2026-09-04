@@ -2,38 +2,94 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-03T23:17:51.991517Z",
+  "updatedAt": "2026-09-04T04:37:32.934312Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
+      "id": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo#0",
+      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+      "description": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T02:20:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo#0",
+      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+      "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T00:54:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko#0",
+      "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+      "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T04:04:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o#0",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T22:19:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo#0",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T04:06:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+      "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T22:31:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#1",
       "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
       "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
       "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T06:01:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyqw44w142o#0",
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-      "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T11:35:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o#1",
+      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
+      "description": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T15:48:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cddve618plzo#1",
+      "title": "US billionaire Leon Black defies summons and sues Epstein panel",
+      "description": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
+      "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T18:14:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o#1",
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T18:04:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o#1",
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T01:20:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#1",
       "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
       "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
       "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T15:05:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#0",
+      "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#1",
       "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
       "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
       "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
@@ -44,7 +100,7 @@
       "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
       "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
       "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T20:49:05Z"
+      "publishedAt": "2026-09-04T01:26:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#1",
@@ -82,67 +138,11 @@
       "publishedAt": "2026-09-03T13:07:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo#1",
-      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-      "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
-      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T10:59:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o#1",
-      "title": "Sydney police investigate second possible mistaken identity killing in two days",
-      "description": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:40:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo#1",
-      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-      "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T23:47:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#1",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T03:21:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo#2",
-      "title": "How Gloria Steinem changed the lives of generations of women",
-      "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
-      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T11:26:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#2",
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T18:32:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn8e940gz10o#2",
-      "title": "Why Nepal floods should worry India",
-      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:58:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo#2",
-      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
-      "description": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:58:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o#2",
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "description": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T11:49:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo#2",
+      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+      "description": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T00:19:53Z"
     }
   ]
 }
