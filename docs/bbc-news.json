@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-04T20:47:21.697871Z",
+  "updatedAt": "2026-09-04T23:03:24.525359Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T22:48:38Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -131,18 +138,11 @@
       "publishedAt": "2026-09-03T18:04:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo#2",
-      "title": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
-      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T08:23:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgjql614glvo#2",
-      "title": "How could US-Iran conflict end? Three experts give their views",
-      "description": "After renewed strikes this week, does either side have an exit strategy?",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T09:14:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy0zx368prno#2",
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T22:02:52Z"
     }
   ]
 }
