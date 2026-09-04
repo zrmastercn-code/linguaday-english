@@ -2,42 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-04T11:21:25.805081Z",
+  "updatedAt": "2026-09-04T16:23:51.505699Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo#0",
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T08:23:05Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T10:00:18Z"
+      "publishedAt": "2026-09-04T14:17:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo#0",
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T00:54:46Z"
+      "id": "https://www.bbc.co.uk/news/videos/cd79vp91321o#0",
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T14:40:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko#0",
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T06:52:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o#0",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T11:54:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c7903r0grx0o#0",
-      "title": "US diesel prices hit an all-time-high",
-      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T10:52:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o#0",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T16:02:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo#0",
@@ -45,6 +38,27 @@
       "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
       "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T04:06:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c23x0z48x0no#1",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
+      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T14:27:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c7903r0grx0o#1",
+      "title": "US diesel prices hit an all-time-high",
+      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T10:52:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o#1",
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "description": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T13:00:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o#1",
@@ -103,18 +117,18 @@
       "publishedAt": "2026-09-03T18:04:34Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo#2",
+      "title": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
+      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T08:23:05Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cgjql614glvo#2",
       "title": "How could US-Iran conflict end? Three experts give their views",
       "description": "After renewed strikes this week, does either side have an exit strategy?",
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T09:14:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo#2",
-      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
-      "description": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T00:19:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#2",
@@ -129,20 +143,6 @@
       "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
       "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T00:28:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo#2",
-      "title": "How Gloria Steinem changed the lives of generations of women",
-      "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
-      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T11:26:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn8e940gz10o#2",
-      "title": "Why Nepal floods should worry India",
-      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:58:44Z"
     }
   ]
 }
