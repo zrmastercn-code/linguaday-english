@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-04T16:23:51.505699Z",
+  "updatedAt": "2026-09-04T20:47:21.697871Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T14:17:35Z"
+      "publishedAt": "2026-09-04T16:49:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cd79vp91321o#0",
@@ -41,10 +41,24 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c23x0z48x0no#1",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
       "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T14:27:10Z"
+      "publishedAt": "2026-09-04T20:03:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o#1",
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T17:14:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#1",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T19:44:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c7903r0grx0o#1",
@@ -129,20 +143,6 @@
       "description": "After renewed strikes this week, does either side have an exit strategy?",
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T09:14:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#2",
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T18:32:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo#2",
-      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
-      "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T00:28:56Z"
     }
   ]
 }
