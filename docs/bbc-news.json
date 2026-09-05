@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-05T20:24:10.328159Z",
+  "updatedAt": "2026-09-05T22:55:53.482459Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
       "title": "US envoys meet Putin in Moscow for Ukraine talks",
       "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T20:15:49Z"
+      "publishedAt": "2026-09-05T21:39:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj64rrne643o#0",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T18:48:37Z"
+      "publishedAt": "2026-09-05T22:44:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
@@ -33,6 +33,20 @@
       "publishedAt": "2026-09-05T15:22:41Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cp301rw6kvro#0",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:00:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#0",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:29:38Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#0",
       "title": "What different world maps get right - and what they get wrong",
       "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
@@ -40,14 +54,14 @@
       "publishedAt": "2026-09-05T16:14:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo#1",
       "title": "Trump signs order to remove endangered species protection for grey wolves",
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T09:12:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
+      "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#1",
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
@@ -129,20 +143,6 @@
       "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
       "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T01:42:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy0zx368prno#2",
-      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T14:07:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z75keq58o#2",
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "description": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T04:03:51Z"
     }
   ]
 }
