@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-05T10:38:23.400169Z",
+  "updatedAt": "2026-09-05T15:16:51.892738Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj64rrne643o#0",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "description": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T15:14:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T15:05:14Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -12,25 +26,18 @@
       "publishedAt": "2026-09-04T22:48:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
-      "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
-      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T10:34:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#0",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T08:41:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:49:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#0",
-      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-      "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
-      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T12:30:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#0",
+      "title": "What different world maps get right - and what they get wrong",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T13:46:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0",
@@ -40,25 +47,32 @@
       "publishedAt": "2026-09-05T09:12:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#0",
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T00:53:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T16:49:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#1",
+      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T12:30:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo#1",
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T23:07:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T08:41:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#1",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T00:53:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o#1",
@@ -121,7 +135,7 @@
       "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
       "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
       "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T22:02:52Z"
+      "publishedAt": "2026-09-05T14:07:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z75keq58o#2",
@@ -129,20 +143,6 @@
       "description": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T04:03:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo#2",
-      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
-      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T01:16:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgjql614glvo#2",
-      "title": "How could US-Iran conflict end? Three experts give their views",
-      "description": "After renewed strikes this week, does either side have an exit strategy?",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T09:14:57Z"
     }
   ]
 }
