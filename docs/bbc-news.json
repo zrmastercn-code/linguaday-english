@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-05T04:33:22.351612Z",
+  "updatedAt": "2026-09-05T10:38:23.400169Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
@@ -12,11 +12,11 @@
       "publishedAt": "2026-09-04T22:48:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c23x0z48x0no#0",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T04:28:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
+      "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T10:34:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#0",
@@ -26,6 +26,20 @@
       "publishedAt": "2026-09-04T16:49:15Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#0",
+      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T12:30:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0",
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T09:12:48Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#0",
       "title": "UN votes to adopt new world map to reflect Africa's true size",
       "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
@@ -33,18 +47,18 @@
       "publishedAt": "2026-09-05T00:53:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#0",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T02:59:40Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo#0",
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T23:07:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T08:41:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o#1",
@@ -62,17 +76,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o#1",
-      "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
       "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
       "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T02:29:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o#1",
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T11:54:51Z"
+      "publishedAt": "2026-09-05T07:20:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o#1",
@@ -82,6 +89,13 @@
       "publishedAt": "2026-09-04T17:14:21Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o#1",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T11:54:51Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o#1",
       "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
       "description": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
@@ -89,18 +103,18 @@
       "publishedAt": "2026-09-04T13:00:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c74knp7y04eo#2",
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "description": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T02:13:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o#2",
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T10:02:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo#2",
-      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
-      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T01:16:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo#2",
+      "title": "Why are European countries moving their gold out of North America?",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T01:42:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy0zx368prno#2",
@@ -117,32 +131,18 @@
       "publishedAt": "2026-09-05T04:03:51Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo#2",
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T01:16:27Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cgjql614glvo#2",
       "title": "How could US-Iran conflict end? Three experts give their views",
       "description": "After renewed strikes this week, does either side have an exit strategy?",
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T09:14:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo#2",
-      "title": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
-      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T08:23:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo#2",
-      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
-      "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T00:28:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo#3",
-      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-      "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
-      "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T12:39:05Z"
     }
   ]
 }
