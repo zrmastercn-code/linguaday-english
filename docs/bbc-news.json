@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-05T15:16:51.892738Z",
+  "updatedAt": "2026-09-05T17:23:44.112655Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cj64rrne643o#0",
       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "description": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+      "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T15:14:21Z"
+      "publishedAt": "2026-09-05T17:15:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T15:05:14Z"
+      "publishedAt": "2026-09-05T17:18:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
@@ -30,14 +30,14 @@
       "title": "At least two dead in blast at Bolivia military barracks",
       "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T08:41:38Z"
+      "publishedAt": "2026-09-05T15:22:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#0",
       "title": "What different world maps get right - and what they get wrong",
       "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
       "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T13:46:02Z"
+      "publishedAt": "2026-09-05T16:14:24Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0",
