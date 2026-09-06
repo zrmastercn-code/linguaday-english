@@ -2,21 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-06T20:26:10.710402Z",
+  "updatedAt": "2026-09-06T22:54:13.245154Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o#0",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T22:53:37Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6248nvqy8po#0",
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
       "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T20:18:52Z"
+      "publishedAt": "2026-09-06T20:41:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o#0",
-      "title": "German far-right set for big win in eastern state, projections show",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T20:16:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T20:52:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko#0",
@@ -40,14 +47,14 @@
       "publishedAt": "2026-09-06T08:05:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po#0",
+      "id": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po#1",
       "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
       "description": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
       "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-06T17:00:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cp301rw6kvro#0",
+      "id": "https://www.bbc.co.uk/news/articles/cp301rw6kvro#1",
       "title": "Prince William to attend King Harald's funeral in Norway",
       "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
       "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
       "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T23:20:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#2",
-      "title": "What different world maps get right - and what they get wrong",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T12:09:54Z"
     }
   ]
 }
