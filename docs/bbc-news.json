@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-06T04:42:47.286925Z",
+  "updatedAt": "2026-09-06T11:00:30.603307Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c6248nvqy8po#0",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-      "description": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "description": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T02:24:16Z"
+      "publishedAt": "2026-09-06T10:44:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj64rrne643o#0",
@@ -20,10 +20,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#0",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
       "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T21:29:38Z"
+      "publishedAt": "2026-09-06T08:05:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko#0",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T09:56:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do#0",
@@ -45,13 +52,6 @@
       "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
       "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T22:48:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#0",
-      "title": "What different world maps get right - and what they get wrong",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T16:14:24Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo#1",
@@ -131,18 +131,18 @@
       "publishedAt": "2026-09-05T23:20:00Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#2",
+      "title": "What different world maps get right - and what they get wrong",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T16:14:24Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o#2",
       "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
       "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T10:02:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo#2",
-      "title": "Why are European countries moving their gold out of North America?",
-      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T01:42:09Z"
     }
   ]
 }
