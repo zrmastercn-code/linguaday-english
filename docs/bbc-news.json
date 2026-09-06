@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-05T22:55:53.482459Z",
+  "updatedAt": "2026-09-06T04:42:47.286925Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T21:39:02Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6248nvqy8po#0",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "description": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T02:24:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj64rrne643o#0",
@@ -19,18 +19,18 @@
       "publishedAt": "2026-09-05T22:44:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T22:48:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#0",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:29:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#0",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T15:22:41Z"
+      "id": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do#0",
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T01:54:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cp301rw6kvro#0",
@@ -40,11 +40,11 @@
       "publishedAt": "2026-09-05T21:00:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#0",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T21:29:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#0",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T22:48:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#0",
@@ -59,6 +59,13 @@
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T09:12:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T15:22:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#1",
@@ -96,13 +103,6 @@
       "publishedAt": "2026-09-04T16:02:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cd79vp91321o#1",
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T14:40:00Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o#1",
       "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
       "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
@@ -110,25 +110,25 @@
       "publishedAt": "2026-09-05T07:20:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o#1",
-      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
-      "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T17:14:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/cg491zp13qqo#2",
+      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+      "description": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
+      "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T00:17:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o#1",
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T11:54:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo#2",
+      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "description": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T23:54:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o#1",
-      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "description": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T13:00:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm274p8m88lo#2",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T23:20:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o#2",
