@@ -2,42 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-07T12:38:19.206961Z",
+  "updatedAt": "2026-09-07T19:11:20.850692Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cpd0113082eo#0",
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
       "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T12:22:39Z"
+      "publishedAt": "2026-09-07T14:04:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o#0",
+      "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+      "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T14:50:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0",
-      "title": "Israeli strikes in southern Lebanese village kill nine",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
       "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T10:16:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr4vn1e207go#0",
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T05:31:06Z"
+      "publishedAt": "2026-09-07T13:39:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
-      "title": "Probe begins into why cargo plane overran Miami runway",
+      "title": "Investigators begin work on why cargo plane overran Miami runway",
       "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T09:54:40Z"
+      "publishedAt": "2026-09-07T17:46:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro#0",
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T07:03:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo#0",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T15:27:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo#0",
@@ -47,7 +47,21 @@
       "publishedAt": "2026-09-07T09:31:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cr4vn1e207go#0",
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T05:31:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro#1",
+      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T07:03:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o#1",
       "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
       "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
       "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
@@ -55,24 +69,24 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c158wwl22xko#1",
-      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
       "description": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
       "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T10:45:28Z"
+      "publishedAt": "2026-09-07T14:57:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/czezydp4l97o#1",
-      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-      "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
+      "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+      "description": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday.",
       "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T11:50:43Z"
+      "publishedAt": "2026-09-07T15:40:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo#1",
       "title": "Tanzanian President Samia's husband dies in hospital",
       "description": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
       "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T12:03:56Z"
+      "publishedAt": "2026-09-07T16:23:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno#1",
@@ -87,20 +101,6 @@
       "description": "It's not clear how many people were inside the building - or if there are still people under the debris.",
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T10:31:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo#1",
-      "title": "Australians will be able to switch off social media algorithms under planned legislation",
-      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T03:40:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#1",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T08:05:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c986w38r4j5o#2",
