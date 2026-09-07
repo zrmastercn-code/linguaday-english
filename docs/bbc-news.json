@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-07T19:11:20.850692Z",
+  "updatedAt": "2026-09-07T23:31:25.865827Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo#0",
+      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T22:23:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o#0",
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T21:12:37Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cpd0113082eo#0",
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
@@ -26,13 +40,6 @@
       "publishedAt": "2026-09-07T13:39:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T17:46:25Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo#0",
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
@@ -45,13 +52,6 @@
       "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
       "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T09:31:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr4vn1e207go#0",
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T05:31:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro#1",
@@ -103,6 +103,13 @@
       "publishedAt": "2026-09-07T10:31:01Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr4vn1e207go#2",
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T05:31:06Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c986w38r4j5o#2",
       "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
       "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
@@ -136,13 +143,6 @@
       "description": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
       "link": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-06T23:02:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg491zp13qqo#2",
-      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
-      "description": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
-      "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T00:17:05Z"
     }
   ]
 }
