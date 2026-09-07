@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-06T22:54:13.245154Z",
+  "updatedAt": "2026-09-07T04:45:40.929587Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o#0",
       "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T22:53:37Z"
+      "publishedAt": "2026-09-06T23:02:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c986w38r4j5o#0",
+      "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T04:07:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T00:57:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6248nvqy8po#0",
@@ -33,14 +47,35 @@
       "publishedAt": "2026-09-06T16:00:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o#0",
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T00:01:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno#1",
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T02:26:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#1",
       "title": "Dozens feared trapped in collapsed building in Delhi",
       "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-06T16:54:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo#1",
+      "title": "Australians will be able to switch off social media algorithms under planned legislation",
+      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T03:40:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#1",
       "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
       "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
@@ -61,13 +96,6 @@
       "publishedAt": "2026-09-05T21:00:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#1",
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T22:48:38Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo#1",
       "title": "Trump signs order to remove endangered species protection for grey wolves",
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
@@ -75,53 +103,18 @@
       "publishedAt": "2026-09-05T09:12:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T15:22:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#2",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T23:13:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro#1",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:49:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#1",
-      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-      "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
-      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T12:30:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo#1",
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T23:07:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#1",
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T00:53:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o#1",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:02:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o#1",
-      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
-      "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T07:20:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o#2",
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "description": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T23:02:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg491zp13qqo#2",
@@ -143,6 +136,13 @@
       "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
       "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T23:20:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#2",
+      "title": "What different world maps get right - and what they get wrong",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T12:09:54Z"
     }
   ]
 }
