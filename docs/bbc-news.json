@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-08T21:11:19.450532Z",
+  "updatedAt": "2026-09-08T23:24:51.452228Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo#0",
@@ -10,6 +10,13 @@
       "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T19:11:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o#0",
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T21:46:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8jdev0422jo#0",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-09-08T18:02:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cp849n2nz01o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cp849n2nz01o#1",
       "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
       "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
       "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
@@ -69,10 +76,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o#1",
-      "title": "LIV players will have option to leave after bankruptcy case filing",
-      "description": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.",
+      "title": "LIV files for bankruptcy protection with over $45m owed to players",
+      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
       "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T20:43:26Z"
+      "publishedAt": "2026-09-08T21:20:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62m8247yleo#1",
@@ -107,7 +114,7 @@
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T16:38:03Z"
+      "publishedAt": "2026-09-08T21:41:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crernpv433vo#1",
@@ -136,13 +143,6 @@
       "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
       "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T09:17:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr4vn1e207go#2",
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T05:31:06Z"
     }
   ]
 }
