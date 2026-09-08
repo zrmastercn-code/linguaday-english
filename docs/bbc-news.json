@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-08T16:40:22.530698Z",
+  "updatedAt": "2026-09-08T21:11:19.450532Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo#0",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T19:11:39Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8jdev0422jo#0",
       "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
@@ -30,14 +37,14 @@
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
       "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T16:36:47Z"
+      "publishedAt": "2026-09-08T17:10:54Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro#0",
       "title": "British widow faces deportation from Sweden after 22 years",
       "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
       "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T16:23:01Z"
+      "publishedAt": "2026-09-08T18:02:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cp849n2nz01o#0",
@@ -47,25 +54,32 @@
       "publishedAt": "2026-09-08T13:58:32Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo#1",
+      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
+      "description": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T17:24:25Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o#1",
       "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-      "description": "The New York mayor says newly released documents show asbestos \"nearly everywhere\" around Ground Zero.",
+      "description": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
       "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T14:03:39Z"
+      "publishedAt": "2026-09-08T18:21:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o#1",
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T09:20:05Z"
+      "id": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o#1",
+      "title": "LIV players will have option to leave after bankruptcy case filing",
+      "description": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T20:43:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o#1",
-      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-      "description": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T15:57:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/c62m8247yleo#1",
+      "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
+      "description": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid.",
+      "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T15:06:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo#1",
@@ -75,11 +89,11 @@
       "publishedAt": "2026-09-08T14:38:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62m8247yleo#1",
-      "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-      "description": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid.",
-      "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T15:06:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o#1",
+      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
+      "description": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T15:57:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyenxp540vo#1",
@@ -101,20 +115,6 @@
       "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
       "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T01:32:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c158wwl22xko#1",
-      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
-      "description": "All foreigners without proper documents in Kenya are urged to register through their embassies.",
-      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T10:19:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5x3n38308o#1",
-      "title": "Nepal cracks down on online abuse of flood survivors",
-      "description": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T08:31:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo#2",
