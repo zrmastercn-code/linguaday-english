@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-08T23:24:51.452228Z",
+  "updatedAt": "2026-09-09T04:46:15.915742Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo#0",
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T19:11:39Z"
+      "publishedAt": "2026-09-09T01:45:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o#0",
@@ -19,11 +19,18 @@
       "publishedAt": "2026-09-08T21:46:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8jdev0422jo#0",
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T14:46:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/c99dm1000p7o#0",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T03:03:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o#0",
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:11:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o#0",
@@ -33,11 +40,11 @@
       "publishedAt": "2026-09-08T13:35:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8jd14glvneo#0",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T11:09:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o#0",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:27:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o#0",
@@ -47,7 +54,21 @@
       "publishedAt": "2026-09-08T17:10:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro#0",
+      "id": "https://www.bbc.co.uk/news/articles/cn457lq938jo#1",
+      "title": "Hong Kong's first leader after British handover dies",
+      "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T04:24:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8jd14glvneo#1",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T11:09:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro#1",
       "title": "British widow faces deportation from Sweden after 22 years",
       "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
       "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
@@ -103,25 +124,11 @@
       "publishedAt": "2026-09-08T15:57:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyenxp540vo#1",
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T11:38:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo#1",
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T21:41:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crernpv433vo#1",
-      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
-      "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T01:32:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o#2",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:11:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo#2",
@@ -136,13 +143,6 @@
       "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
       "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T23:40:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo#2",
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T09:17:48Z"
     }
   ]
 }
