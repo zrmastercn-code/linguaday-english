@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-09T20:57:19.795078Z",
+  "updatedAt": "2026-09-09T23:17:22.936536Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c98679wr78do#0",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T13:29:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o#0",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T21:23:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0",
@@ -33,6 +33,13 @@
       "publishedAt": "2026-09-09T20:22:51Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c98679wr78do#0",
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T13:29:33Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c99dm1000p7o#0",
       "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
@@ -47,11 +54,18 @@
       "publishedAt": "2026-09-09T16:30:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#1",
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T15:01:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c046rxw93xlo#1",
+      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+      "description": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+      "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T18:27:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo#1",
@@ -129,20 +143,6 @@
       "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
       "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T23:27:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8jd14glvneo#1",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T11:09:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o#2",
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T23:11:32Z"
     }
   ]
 }
