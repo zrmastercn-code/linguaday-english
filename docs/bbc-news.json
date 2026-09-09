@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-09T16:40:42.226423Z",
+  "updatedAt": "2026-09-09T20:57:19.795078Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c98679wr78do#0",
@@ -12,11 +12,25 @@
       "publishedAt": "2026-09-09T13:29:33Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0",
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T17:06:48Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo#0",
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T09:47:39Z"
+      "publishedAt": "2026-09-09T16:46:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno#0",
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T20:22:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c99dm1000p7o#0",
@@ -33,25 +47,32 @@
       "publishedAt": "2026-09-09T16:30:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo#0",
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "description": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T16:01:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#0",
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T15:01:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo#1",
       "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
       "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
       "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T11:29:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#0",
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T15:01:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo#1",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T20:28:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62mn90ppnro#1",
+      "title": "Family of killed teen call for death penalty in D4vd trial",
+      "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
+      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T09:58:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo#1",
@@ -61,11 +82,11 @@
       "publishedAt": "2026-09-09T11:01:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62mn90ppnro#1",
-      "title": "Family of killed teen call for death penalty in D4vd trial",
-      "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T09:58:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckgwydke178o#1",
+      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+      "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T16:33:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do#1",
@@ -117,32 +138,11 @@
       "publishedAt": "2026-09-08T11:09:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro#1",
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-      "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T18:02:42Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o#2",
       "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
       "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
       "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T23:11:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o#2",
-      "title": "British-Israeli relations at lowest ebb in decades",
-      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T21:46:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o#2",
-      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T23:11:41Z"
     }
   ]
 }
