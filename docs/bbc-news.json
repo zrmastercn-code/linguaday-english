@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-09T11:26:53.527734Z",
+  "updatedAt": "2026-09-09T16:40:42.226423Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c98679wr78do#0",
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T13:29:33Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo#0",
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -19,25 +26,67 @@
       "publishedAt": "2026-09-09T10:20:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c05re9qg09ro#0",
-      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T08:21:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o#0",
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T16:30:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o#0",
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T23:27:23Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo#0",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "description": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T16:01:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgynv90599o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo#0",
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T11:29:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#0",
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T15:01:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo#1",
+      "title": "Colombia's new president loosens gun control rules",
+      "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T11:01:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62mn90ppnro#1",
+      "title": "Family of killed teen call for death penalty in D4vd trial",
+      "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
+      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T09:58:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do#1",
+      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T12:06:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgynv90599o#1",
       "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
       "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
       "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T07:44:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c05re9qg09ro#1",
+      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
+      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T08:21:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo#1",
@@ -54,6 +103,13 @@
       "publishedAt": "2026-09-09T04:24:30Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o#1",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:27:23Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c8jd14glvneo#1",
       "title": "Argentina to file criminal case against oil company operating in Falklands",
       "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
@@ -66,41 +122,6 @@
       "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
       "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T18:02:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o#1",
-      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
-      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T05:39:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o#1",
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T17:10:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp849n2nz01o#1",
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T13:58:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo#1",
-      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
-      "description": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T17:24:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o#1",
-      "title": "LIV files for bankruptcy protection with over $45m owed to players",
-      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T21:20:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o#2",
@@ -122,27 +143,6 @@
       "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
       "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T23:11:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o#2",
-      "title": "A food safety officer has become a social media star in India - why?",
-      "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T23:40:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo#2",
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T09:17:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko#3",
-      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
-      "description": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
-      "link": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T16:45:32Z"
     }
   ]
 }
