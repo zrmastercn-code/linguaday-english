@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-09T23:17:22.936536Z",
+  "updatedAt": "2026-09-10T04:46:31.169929Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o#0",
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T04:08:07Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o#0",
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -47,18 +54,18 @@
       "publishedAt": "2026-09-09T10:20:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o#0",
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T16:30:28Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#1",
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T15:01:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o#1",
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T16:30:28Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c046rxw93xlo#1",
@@ -136,13 +143,6 @@
       "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
       "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T04:24:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o#1",
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T23:27:23Z"
     }
   ]
 }
