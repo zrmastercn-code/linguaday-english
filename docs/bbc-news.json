@@ -2,56 +2,84 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-10T16:26:42.805985Z",
+  "updatedAt": "2026-09-10T20:53:46.328737Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo#0",
-      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-      "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T13:23:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo#0",
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T18:15:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/czxzwge59w8o#0",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T07:12:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko#0",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T16:48:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo#0",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T10:43:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo#0",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T16:31:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o#0",
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T06:30:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o#0",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T15:54:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cgjq15j7318o#0",
+      "title": "More than 20 children killed in DR Congo school fire",
+      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T19:16:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo#0",
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T20:10:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#0",
+      "title": "Coach crash kills several people in Swiss Alps",
+      "description": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T20:44:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o#1",
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
       "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
       "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T13:12:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o#1",
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T09:32:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo#1",
       "title": "Twenty-five dead after fire on cargo ship in eastern China",
       "description": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
       "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T12:24:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o#0",
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T09:32:34Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo#1",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T10:43:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o#1",
@@ -61,32 +89,11 @@
       "publishedAt": "2026-09-09T21:23:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o#1",
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T21:21:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo#1",
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "description": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
-      "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T19:09:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#1",
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T08:44:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o#1",
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T16:30:28Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo#2",
+      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T17:13:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo#2",
@@ -117,11 +124,11 @@
       "publishedAt": "2026-09-09T23:17:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crerv93pv9yo#2",
-      "title": "American football is coming to Australia - can it succeed?",
-      "description": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
-      "link": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:29:13Z"
+      "id": "https://www.bbc.co.uk/news/videos/czxzwge59w8o#3",
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T07:12:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o#3",
@@ -136,13 +143,6 @@
       "description": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
       "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T01:37:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c07lpp4e993o#3",
-      "title": "Inside Thailand's school shooter drills following recent attacks",
-      "description": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
-      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:32:07Z"
     }
   ]
 }
