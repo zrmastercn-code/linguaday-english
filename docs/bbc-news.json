@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-11T16:30:42.977434Z",
+  "updatedAt": "2026-09-11T20:59:53.135929Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#0",
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T08:15:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo#0",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T20:11:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo#0",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T16:00:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo#0",
@@ -19,13 +26,6 @@
       "publishedAt": "2026-09-11T15:50:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo#0",
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T10:50:04Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no#0",
       "title": "Princess Diana's 'revenge dress' goes up for auction",
       "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
@@ -33,18 +33,25 @@
       "publishedAt": "2026-09-11T12:04:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#0",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T16:13:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo#0",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T10:50:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#0",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T08:15:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o#1",
       "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
       "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T05:41:54Z"
+      "publishedAt": "2026-09-11T17:32:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no#1",
@@ -89,6 +96,13 @@
       "publishedAt": "2026-09-10T19:16:24Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo#2",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T19:44:58Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cly749x4k2vo#2",
       "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
       "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
@@ -129,20 +143,6 @@
       "description": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
       "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T04:07:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo#2",
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T04:43:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c74edv9887eo#2",
-      "title": "Why some experts increasingly fear AI will take over",
-      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T23:17:33Z"
     }
   ]
 }
