@@ -2,105 +2,119 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-11T04:44:34.874109Z",
+  "updatedAt": "2026-09-11T11:25:24.720884Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo#0",
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T18:15:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#0",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T08:15:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko#0",
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T16:48:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o#0",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T05:41:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo#0",
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T16:31:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#0",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T08:54:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o#0",
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
-      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T15:54:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo#0",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T10:50:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cgjq15j7318o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no#0",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T06:54:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no#1",
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "description": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T06:33:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj3dy704l71o#1",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T09:54:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo#1",
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "description": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T06:28:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o#1",
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T07:59:26Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cgjq15j7318o#1",
       "title": "More than 20 children killed in DR Congo school fire",
       "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
       "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T19:16:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo#0",
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
-      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T20:10:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo#1",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T16:31:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#0",
-      "title": "Coach crash kills several people in Swiss Alps",
-      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T01:01:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cly749x4k2vo#2",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
+      "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T00:27:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o#1",
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T13:12:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o#2",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T05:53:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o#1",
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T09:32:34Z"
+      "id": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo#2",
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "description": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
+      "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T09:38:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo#1",
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "description": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T12:24:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o#2",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T23:22:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo#1",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T10:43:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o#1",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T21:23:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo#2",
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T17:13:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo#2",
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T04:43:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko#2",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T16:48:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o#2",
@@ -110,11 +124,11 @@
       "publishedAt": "2026-09-10T04:07:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo#2",
-      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-      "description": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T09:35:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo#2",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T04:43:54Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c74edv9887eo#2",
@@ -124,25 +138,11 @@
       "publishedAt": "2026-09-09T23:17:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/czxzwge59w8o#3",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T07:12:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o#3",
-      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
-      "description": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
-      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:17:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo#3",
-      "title": "Watch: Do Republicans blame Trump for high oil prices?",
-      "description": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T01:37:31Z"
+      "id": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro#3",
+      "title": "Has Trump won over voters with his midterm convention?",
+      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T06:16:54Z"
     }
   ]
 }
