@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-11T11:25:24.720884Z",
+  "updatedAt": "2026-09-11T16:30:42.977434Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#0",
@@ -12,18 +12,11 @@
       "publishedAt": "2026-09-11T08:15:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o#0",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T05:41:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#0",
-      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
-      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T08:54:20Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo#0",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T15:50:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo#0",
@@ -37,7 +30,21 @@
       "title": "Princess Diana's 'revenge dress' goes up for auction",
       "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
       "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T06:54:46Z"
+      "publishedAt": "2026-09-11T12:04:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#0",
+      "title": "How global trade and oil prices could be hit by Houthi advance",
+      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T16:13:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o#1",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T05:41:54Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no#1",
@@ -52,6 +59,13 @@
       "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
       "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T09:54:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#1",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T08:54:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo#1",
@@ -73,13 +87,6 @@
       "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
       "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T19:16:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo#1",
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T16:31:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cly749x4k2vo#2",
@@ -136,13 +143,6 @@
       "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
       "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T23:17:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro#3",
-      "title": "Has Trump won over voters with his midterm convention?",
-      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T06:16:54Z"
     }
   ]
 }
