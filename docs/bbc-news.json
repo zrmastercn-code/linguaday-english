@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-12T15:33:54.893351Z",
+  "updatedAt": "2026-09-12T20:34:51.287606Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#0",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T17:42:38Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62m933465eo#0",
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -19,11 +26,25 @@
       "publishedAt": "2026-09-12T13:56:20Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T19:36:50Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c33kp533nn6o#0",
       "title": "French officials investigate if malicious act caused train derailment",
       "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
       "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T15:05:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo#0",
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T16:55:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#0",
@@ -33,32 +54,32 @@
       "publishedAt": "2026-09-12T05:55:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#0",
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T10:00:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#1",
       "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
       "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
       "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T15:09:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#1",
       "title": "Record heatwaves in France set to make champagne stronger",
       "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
       "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T13:00:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c7907l5nyddo#1",
-      "title": "Teen boy rescued after days adrift in Alaskan waters",
-      "description": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
-      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T15:03:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo#1",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T20:27:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo#1",
+      "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
+      "description": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T17:38:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o#1",
@@ -82,18 +103,11 @@
       "publishedAt": "2026-09-11T20:34:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo#1",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T22:17:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno#1",
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T00:43:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#2",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T10:00:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo#2",
@@ -124,25 +138,11 @@
       "publishedAt": "2026-09-12T01:04:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo#2",
-      "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
-      "description": "They carry distinct memories not from the day itself, but from the moment - years later - they learned about the attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T17:21:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#3",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T16:13:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro#3",
-      "title": "Has Trump won over voters with his midterm convention?",
-      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T06:16:54Z"
+      "id": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o#3",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T17:36:20Z"
     }
   ]
 }
