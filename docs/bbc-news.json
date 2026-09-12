@@ -2,77 +2,70 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-12T10:50:29.600964Z",
+  "updatedAt": "2026-09-12T15:33:54.893351Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c62m933465eo#0",
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T04:43:10Z"
+      "publishedAt": "2026-09-12T12:15:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo#0",
       "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
       "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T10:41:53Z"
+      "publishedAt": "2026-09-12T13:56:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o#0",
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T20:34:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/c33kp533nn6o#0",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T15:05:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno#0",
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T00:43:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#0",
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T03:02:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo#0",
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "description": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T21:25:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o#0",
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T02:29:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#1",
+      "id": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#0",
       "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
       "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
       "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T05:55:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo#1",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T22:17:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#1",
+      "id": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#0",
       "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
       "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
       "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T10:00:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#0",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T15:09:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#0",
+      "title": "Record heatwaves in France set to make champagne stronger",
+      "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T13:00:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c7907l5nyddo#1",
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "description": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T15:03:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o#1",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T02:29:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo#1",
@@ -82,11 +75,25 @@
       "publishedAt": "2026-09-12T08:04:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o#1",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T17:32:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o#1",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T20:34:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo#1",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T22:17:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno#1",
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T00:43:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo#2",
@@ -136,13 +143,6 @@
       "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
       "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T06:16:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o#3",
-      "title": "Watch: Americans remember what they were doing on 9/11",
-      "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
-      "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T02:48:43Z"
     }
   ]
 }
