@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-13T20:52:40.854554Z",
+  "updatedAt": "2026-09-13T23:11:26.432165Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo#0",
@@ -26,6 +26,13 @@
       "publishedAt": "2026-09-13T18:20:22Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#0",
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "description": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T22:27:54Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0",
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-09-13T11:23:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno#1",
       "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
       "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
       "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T21:19:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo#1",
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T20:27:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o#2",
