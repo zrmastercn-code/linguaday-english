@@ -2,14 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-13T11:56:10.336292Z",
+  "updatedAt": "2026-09-13T16:20:29.430534Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo#0",
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
       "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T11:13:07Z"
+      "publishedAt": "2026-09-13T14:53:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo#0",
+      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+      "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T16:05:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T13:30:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpve191wy47o#0",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T14:25:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#0",
@@ -19,35 +40,42 @@
       "publishedAt": "2026-09-13T11:23:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0",
-      "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "description": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T09:42:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno#0",
+      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "description": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T15:42:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo#0",
+      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "description": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T14:01:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo#1",
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "description": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T15:30:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo#1",
       "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
       "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
       "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T00:49:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o#0",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T23:51:05Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq635037g18o#1",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T09:05:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#0",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:25:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo#1",
       "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
       "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
       "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
@@ -61,27 +89,6 @@
       "publishedAt": "2026-09-12T21:19:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#1",
-      "title": "Fire at nursing home in Chile kills 16 residents",
-      "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T19:36:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#1",
-      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T15:09:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo#1",
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T16:55:31Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#1",
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
@@ -89,18 +96,11 @@
       "publishedAt": "2026-09-12T21:16:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62m933465eo#1",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T12:15:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c33kp533nn6o#1",
-      "title": "French officials investigate if malicious act caused train derailment",
-      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T15:05:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o#2",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T23:51:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2",
@@ -110,25 +110,18 @@
       "publishedAt": "2026-09-12T22:00:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#2",
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T10:00:05Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no#2",
+      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "description": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T02:41:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo#2",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T19:44:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c804dvky833o#2",
-      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
-      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T00:24:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#2",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:25:28Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o#3",
@@ -143,6 +136,13 @@
       "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
       "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T16:13:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro#3",
+      "title": "Has Trump won over voters with his midterm convention?",
+      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T06:16:54Z"
     }
   ]
 }
