@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-12T23:03:50.083643Z",
+  "updatedAt": "2026-09-13T04:51:58.460412Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#0",
@@ -17,6 +17,13 @@
       "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T12:15:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo#0",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T00:49:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#0",
@@ -47,18 +54,25 @@
       "publishedAt": "2026-09-12T16:55:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#0",
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T05:55:15Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#1",
       "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
       "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
       "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T15:09:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1",
+      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:19:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#1",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T05:55:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#1",
@@ -103,6 +117,13 @@
       "publishedAt": "2026-09-11T20:34:29Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2",
+      "title": "Best friends for decades - until a DNA test revealed they were sisters",
+      "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T22:00:28Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#2",
       "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
       "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
@@ -122,27 +143,6 @@
       "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
       "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T00:24:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o#2",
-      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-      "description": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T23:39:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo#2",
-      "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
-      "description": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T01:04:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o#3",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T17:36:20Z"
     }
   ]
 }
