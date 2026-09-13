@@ -2,21 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-13T04:51:58.460412Z",
+  "updatedAt": "2026-09-13T11:56:10.336292Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#0",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:16:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo#0",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T11:13:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c62m933465eo#0",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T12:15:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#0",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T11:23:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0",
+      "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+      "description": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T09:42:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo#0",
@@ -26,6 +33,13 @@
       "publishedAt": "2026-09-13T00:49:08Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o#0",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T23:51:05Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#0",
       "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
       "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
@@ -33,32 +47,11 @@
       "publishedAt": "2026-09-12T21:25:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
-      "title": "Fire at nursing home in Chile kills 16 residents",
-      "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T19:36:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c33kp533nn6o#0",
-      "title": "French officials investigate if malicious act caused train derailment",
-      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T15:05:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo#0",
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T16:55:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#1",
-      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T15:09:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo#0",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T20:27:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1",
@@ -68,53 +61,46 @@
       "publishedAt": "2026-09-12T21:19:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#1",
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T05:55:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#1",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T19:36:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#1",
-      "title": "Record heatwaves in France set to make champagne stronger",
-      "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T13:00:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#1",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T15:09:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo#1",
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T20:27:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo#1",
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T16:55:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo#1",
-      "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
-      "description": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T17:38:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#1",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:16:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o#1",
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T02:29:49Z"
+      "id": "https://www.bbc.co.uk/news/articles/c62m933465eo#1",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T12:15:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo#1",
-      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-      "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T08:04:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o#1",
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T20:34:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/c33kp533nn6o#1",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T15:05:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2",
@@ -143,6 +129,20 @@
       "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
       "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T00:24:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o#3",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T17:36:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#3",
+      "title": "How global trade and oil prices could be hit by Houthi advance",
+      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T16:13:39Z"
     }
   ]
 }
