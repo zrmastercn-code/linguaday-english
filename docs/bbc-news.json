@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-14T12:52:48.975971Z",
+  "updatedAt": "2026-09-14T19:51:10.427718Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cn8me133119o#0",
@@ -19,32 +19,53 @@
       "publishedAt": "2026-09-14T12:18:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o#0",
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "description": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T11:28:36Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#0",
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T08:36:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T13:30:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo#0",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:08:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o#0",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:28:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo#0",
+      "title": "Body of missing runner found in South Africa",
+      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:58:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#1",
       "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
       "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
       "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T08:58:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o#1",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "description": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T16:48:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o#1",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T16:23:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce8en6v3601o#1",
@@ -66,6 +87,13 @@
       "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T19:34:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#1",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T13:30:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo#1",
@@ -115,34 +143,6 @@
       "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
       "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T21:19:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o#2",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T23:51:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyzp47py48o#2",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T18:20:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq635037g18o#2",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T09:05:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T22:00:28Z"
     }
   ]
 }
