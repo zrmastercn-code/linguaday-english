@@ -2,35 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-14T05:00:03.072651Z",
+  "updatedAt": "2026-09-14T12:52:48.975971Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn8me133119o#0",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:31:39Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo#0",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T03:38:13Z"
+      "publishedAt": "2026-09-14T12:18:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo#0",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T18:49:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyzp47py48o#0",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T18:20:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o#0",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "description": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:28:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#0",
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T01:58:59Z"
+      "publishedAt": "2026-09-14T08:36:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0",
@@ -40,18 +40,25 @@
       "publishedAt": "2026-09-13T13:30:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpve191wy47o#0",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T14:25:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#0",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T08:58:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#0",
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T11:23:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/ce8en6v3601o#1",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "description": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:35:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o#1",
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "description": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:20:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno#1",
@@ -59,6 +66,27 @@
       "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T19:34:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo#1",
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T07:15:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cpve191wy47o#1",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T14:25:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#1",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T11:23:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo#1",
@@ -96,6 +124,13 @@
       "publishedAt": "2026-09-12T23:51:05Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cwyzp47py48o#2",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T18:20:22Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cq635037g18o#2",
       "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
       "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
@@ -108,41 +143,6 @@
       "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
       "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T22:00:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no#2",
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "description": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T02:41:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#2",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:25:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o#3",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T17:36:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#3",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T16:13:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro#3",
-      "title": "Has Trump won over voters with his midterm convention?",
-      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T06:16:54Z"
     }
   ]
 }
