@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-14T19:51:10.427718Z",
+  "updatedAt": "2026-09-14T23:52:53.175692Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cn8me133119o#0",
@@ -40,11 +40,11 @@
       "publishedAt": "2026-09-14T11:28:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo#0",
-      "title": "Body of missing runner found in South Africa",
-      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T14:58:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo#0",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T21:29:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#1",
@@ -66,6 +66,13 @@
       "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T16:23:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo#1",
+      "title": "Body of missing runner found in South Africa",
+      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:58:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce8en6v3601o#1",
@@ -136,13 +143,6 @@
       "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
       "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T00:49:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1",
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:19:11Z"
     }
   ]
 }
