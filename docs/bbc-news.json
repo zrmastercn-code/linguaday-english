@@ -2,19 +2,19 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-13T23:11:26.432165Z",
+  "updatedAt": "2026-09-14T05:00:03.072651Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo#0",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T19:14:21Z"
+      "publishedAt": "2026-09-14T03:38:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo#0",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T18:49:37Z"
     },
@@ -27,10 +27,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#0",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "description": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T22:27:54Z"
+      "publishedAt": "2026-09-14T01:58:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0",
