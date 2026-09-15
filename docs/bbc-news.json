@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-15T04:57:38.501512Z",
+  "updatedAt": "2026-09-15T11:47:11.613384Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn8me133119o#0",
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T11:31:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#0",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T08:49:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck20989806e9o#0",
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T02:50:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#0",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T11:40:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo#0",
@@ -19,46 +33,67 @@
       "publishedAt": "2026-09-15T03:50:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo#0",
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T02:22:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T09:59:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck790xg41ygro#0",
       "title": "US confirms for first time it has deployed space weapons",
       "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
       "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T01:52:02Z"
+      "publishedAt": "2026-09-15T08:48:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo#0",
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T14:08:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o#0",
+      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+      "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T22:56:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo#1",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T09:07:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo#1",
       "title": "Legendary costume designer Bob Mackie dies aged 87",
       "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
       "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T21:29:12Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo#1",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:08:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cn8me133119o#1",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:31:39Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo#1",
       "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
       "description": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
       "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T01:15:15Z"
+      "publishedAt": "2026-09-15T11:40:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o#1",
       "title": "China tightens travel restrictions for citizens",
       "description": "Observers say the new rules will further tighten the Chinese government's control over its citizens.",
       "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T03:25:41Z"
+      "publishedAt": "2026-09-15T06:43:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go#1",
@@ -73,13 +108,6 @@
       "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
       "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T22:04:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o#1",
-      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-      "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T22:56:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#1",
@@ -103,46 +131,18 @@
       "publishedAt": "2026-09-14T16:23:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo#1",
-      "title": "Body of missing runner found in South Africa",
-      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T14:58:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/c33kmred368o#2",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "description": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
+      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T05:01:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce8en6v3601o#1",
-      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-      "description": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T11:35:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o#1",
-      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
-      "description": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T11:20:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno#1",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T19:34:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo#1",
-      "title": "Bali police investigate after Australian man and children found dead in home",
-      "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T07:15:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpve191wy47o#1",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T14:25:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o#2",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T23:51:05Z"
     }
   ]
 }
