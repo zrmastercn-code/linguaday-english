@@ -2,42 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-16T04:52:24.763828Z",
+  "updatedAt": "2026-09-16T11:39:17.720608Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko#0",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T10:59:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#0",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T10:02:05Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o#0",
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
       "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T01:29:20Z"
+      "publishedAt": "2026-09-16T09:36:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#0",
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T11:40:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo#0",
-      "title": "What weapon could the US have put into space?",
-      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T14:23:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo#0",
-      "title": "South African president vows justice as more women's bodies found near Johannesburg",
-      "description": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-      "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T18:01:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#0",
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T16:13:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o#0",
+      "title": "At least 20 killed after war-damaged Gaza building collapses",
+      "description": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T11:22:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo#0",
@@ -47,6 +40,69 @@
       "publishedAt": "2026-09-15T20:34:12Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo#0",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T08:36:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o#0",
+      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T09:49:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo#1",
+      "title": "South African president vows justice as more women's bodies found near Johannesburg",
+      "description": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+      "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T10:44:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o#1",
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T06:12:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o#1",
+      "title": "Philippines' Duterte seen in person for first time at International Criminal Court",
+      "description": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
+      "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T10:39:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#1",
+      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
+      "description": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T11:02:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o#1",
+      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "description": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T11:09:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c620lg854v45o#1",
+      "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+      "description": "South Korea's delegation slams the wooden containers housing its athletes at the Asian Games in Nagoya city.",
+      "link": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T09:33:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo#1",
+      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+      "description": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T02:40:51Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#1",
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
@@ -54,88 +110,18 @@
       "publishedAt": "2026-09-15T16:55:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o#1",
-      "title": "Five takeaways from Canada's push to woo the world's richest investors",
-      "description": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T22:46:20Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#1",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T16:13:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o#1",
-      "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-      "description": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
-      "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T18:49:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo#1",
-      "title": "Ash from Mount Etna grounds flights at Sicily airport",
-      "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T14:35:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo#1",
-      "title": "More than 100,000 people in Japan are now aged 100 or older",
-      "description": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
-      "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T13:43:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo#1",
-      "title": "British woman abducted in Malawi, police say",
-      "description": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T17:44:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c61580330nj1o#1",
-      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
-      "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat.",
-      "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T12:59:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo#1",
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T03:50:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo#1",
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T09:07:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o#1",
-      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-      "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T22:56:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck20989806e9o#1",
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T02:50:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo#1",
-      "title": "Legendary costume designer Bob Mackie dies aged 87",
-      "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T21:29:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo#1",
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T14:08:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#1",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T11:40:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno#2",
@@ -143,6 +129,20 @@
       "description": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.",
       "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T14:21:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo#2",
+      "title": "What weapon could the US have put into space?",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T14:23:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o#2",
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
+      "description": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T22:46:20Z"
     }
   ]
 }
