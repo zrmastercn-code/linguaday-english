@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-15T21:23:33.632733Z",
+  "updatedAt": "2026-09-16T04:52:24.763828Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o#0",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T01:29:20Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#0",
       "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -17,13 +24,6 @@
       "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
       "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T14:23:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0",
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T16:55:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo#0",
@@ -47,11 +47,18 @@
       "publishedAt": "2026-09-15T20:34:12Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#1",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T16:55:04Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o#1",
-      "title": "Canada is a 'safe harbour' for global finance, Carney says",
-      "description": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
+      "description": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
       "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T17:54:46Z"
+      "publishedAt": "2026-09-15T22:46:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o#1",
@@ -59,13 +66,6 @@
       "description": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
       "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T18:49:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o#1",
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T21:07:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo#1",
