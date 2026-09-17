@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-17T17:01:56.790023Z",
+  "updatedAt": "2026-09-17T21:24:39.670773Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo#0",
@@ -19,32 +19,32 @@
       "publishedAt": "2026-09-17T13:44:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o#0",
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T05:00:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo#0",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T20:34:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#0",
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T08:22:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o#0",
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T15:05:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxr50l3d762po#0",
-      "title": "Swedish PM Kristersson resigns after election loss",
-      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T12:41:05Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo#0",
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T20:44:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo#0",
-      "title": "EU announces plan to restrict social media access for under-15s",
-      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T10:00:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o#0",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T17:08:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo#0",
@@ -52,6 +52,34 @@
       "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
       "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T11:00:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o#1",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T05:00:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo#1",
+      "title": "EU announces plan to restrict social media access for under-15s",
+      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T10:00:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#1",
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T08:22:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxr50l3d762po#1",
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T12:41:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o#1",
@@ -115,34 +143,6 @@
       "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-16T23:41:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko#1",
-      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "description": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
-      "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T19:59:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o#1",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T17:16:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c639m42y43v4o#1",
-      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-      "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
-      "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T15:48:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro#1",
-      "title": "Eight German state premiers back Merz amid speculation over future",
-      "description": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T14:50:26Z"
     }
   ]
 }
