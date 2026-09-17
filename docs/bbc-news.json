@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-17T11:45:12.201625Z",
+  "updatedAt": "2026-09-17T17:01:56.790023Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo#0",
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T12:27:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo#0",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T13:44:07Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o#0",
       "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
@@ -19,11 +33,11 @@
       "publishedAt": "2026-09-17T08:22:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo#0",
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T10:40:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/cxr50l3d762po#0",
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T12:41:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo#0",
@@ -40,11 +54,11 @@
       "publishedAt": "2026-09-17T11:00:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o#0",
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-      "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T11:05:29Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o#1",
+      "title": "Klopp wants to 'reclaim' flag amid German elections",
+      "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T13:02:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o#1",
@@ -52,13 +66,6 @@
       "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T00:40:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o#1",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "description": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T05:00:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c52e047wpw7po#1",
@@ -73,6 +80,13 @@
       "description": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
       "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T08:39:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o#1",
+      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+      "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T11:05:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo#1",
@@ -129,20 +143,6 @@
       "description": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
       "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-16T14:50:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro#1",
-      "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
-      "description": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T19:12:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#1",
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T10:02:05Z"
     }
   ]
 }
