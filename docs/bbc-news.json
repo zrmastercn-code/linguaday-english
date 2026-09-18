@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-17T21:24:39.670773Z",
+  "updatedAt": "2026-09-18T04:47:28.645091Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo#0",
@@ -26,18 +26,11 @@
       "publishedAt": "2026-09-17T20:34:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o#0",
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T15:05:13Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo#0",
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
       "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
       "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T20:44:53Z"
+      "publishedAt": "2026-09-17T21:41:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o#0",
@@ -45,6 +38,13 @@
       "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
       "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T17:08:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o#0",
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T15:05:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo#0",
