@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-19T11:03:21.618830Z",
+  "updatedAt": "2026-09-19T15:54:40.981976Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T11:01:34Z"
+      "publishedAt": "2026-09-19T11:36:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo#0",
@@ -23,7 +23,7 @@
       "title": "Google's Gemini AI hacked three companies in security test",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T04:27:11Z"
+      "publishedAt": "2026-09-19T13:39:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#0",
@@ -41,10 +41,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#0",
-      "title": "Deadly shark attack prompts rare kill order in Western Australia",
-      "description": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
       "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T09:19:12Z"
+      "publishedAt": "2026-09-19T11:50:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo#0",
