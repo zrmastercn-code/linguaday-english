@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-18T23:19:14.080488Z",
+  "updatedAt": "2026-09-19T04:40:44.287958Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
@@ -12,18 +12,32 @@
       "publishedAt": "2026-09-18T22:58:55Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo#0",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:26:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T04:27:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo#0",
+      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "description": "Residents later received the all-clear after explosions were reported in the capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T04:20:47Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#0",
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T18:04:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo#0",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:06:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o#0",
@@ -40,14 +54,14 @@
       "publishedAt": "2026-09-18T20:17:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#1",
       "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
       "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
       "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T11:49:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o#1",
       "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
       "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
       "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
@@ -96,18 +110,32 @@
       "publishedAt": "2026-09-18T17:15:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko#1",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:57:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o#2",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:03:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro#1",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T23:24:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#2",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:04:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o#2",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:18:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o#2",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:07:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko#2",
@@ -115,34 +143,6 @@
       "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
       "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T01:31:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx980qj57r89o#2",
-      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-      "description": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
-      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T01:23:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o#2",
-      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-      "description": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
-      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T23:29:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o#2",
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T13:47:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o#2",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "description": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T05:00:36Z"
     }
   ]
 }
