@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-19T04:40:44.287958Z",
+  "updatedAt": "2026-09-19T11:03:21.618830Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:58:55Z"
+      "publishedAt": "2026-09-19T11:01:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo#0",
       "title": "Trump says he is banning CNN and Politico from White House",
       "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
       "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:26:48Z"
+      "publishedAt": "2026-09-19T05:36:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
@@ -26,32 +26,67 @@
       "publishedAt": "2026-09-19T04:27:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#0",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T22:05:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#0",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:04:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#0",
+      "title": "Deadly shark attack prompts rare kill order in Western Australia",
+      "description": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T09:19:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo#0",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T10:27:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#1",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T20:17:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo#1",
       "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
       "description": "Residents later received the all-clear after explosions were reported in the capital.",
       "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T04:20:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#0",
+      "id": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo#1",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "description": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T00:03:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#1",
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T18:04:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o#0",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "description": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
-      "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T18:56:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#0",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T20:17:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o#1",
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:10:58Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#1",
@@ -61,11 +96,11 @@
       "publishedAt": "2026-09-18T11:49:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o#1",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:10:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o#1",
+      "title": "Shots heard as police start moving migrants from Ceuta beaches",
+      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:59:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o#1",
@@ -80,13 +115,6 @@
       "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
       "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T15:47:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o#1",
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:59:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o#1",
@@ -115,34 +143,6 @@
       "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
       "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T23:03:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#2",
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
-      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:04:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o#2",
-      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
-      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:18:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o#2",
-      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-      "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
-      "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:07:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko#2",
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T01:31:43Z"
     }
   ]
 }
