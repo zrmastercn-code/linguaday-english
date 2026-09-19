@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-19T15:54:40.981976Z",
+  "updatedAt": "2026-09-19T20:43:29.189311Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
@@ -12,11 +12,25 @@
       "publishedAt": "2026-09-19T11:36:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo#0",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T05:36:36Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T20:16:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#0",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T19:13:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#0",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T14:05:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
@@ -40,14 +54,14 @@
       "publishedAt": "2026-09-18T23:04:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#1",
       "title": "Shark attack prompts rare kill order in Western Australia as victim named",
       "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
       "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T11:50:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo#1",
       "title": "Millions without power as Cuba hit by latest major blackout",
       "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
       "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
@@ -89,60 +103,46 @@
       "publishedAt": "2026-09-18T17:10:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#1",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:49:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o#1",
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:59:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o#1",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-      "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:18:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o#1",
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T15:47:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o#1",
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-      "description": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T12:45:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o#1",
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:01:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno#1",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "description": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:15:02Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o#2",
       "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
       "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
       "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T23:03:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o#2",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:18:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o#2",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:07:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko#2",
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T01:31:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx980qj57r89o#2",
+      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "description": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
+      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T01:23:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o#2",
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "description": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T23:29:17Z"
     }
   ]
 }
