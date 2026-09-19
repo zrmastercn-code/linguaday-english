@@ -2,21 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-19T20:43:29.189311Z",
+  "updatedAt": "2026-09-19T23:08:52.403840Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T20:16:07Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T11:36:55Z"
+      "publishedAt": "2026-09-19T23:00:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T20:16:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cg4d9vly636o#0",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#0",
@@ -33,6 +40,13 @@
       "publishedAt": "2026-09-19T14:05:01Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#0",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T21:01:56Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
       "title": "Google's Gemini AI hacked three companies in security test",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
@@ -40,14 +54,14 @@
       "publishedAt": "2026-09-19T13:39:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#1",
       "title": "Trump signs sweeping Russia sanctions bill",
       "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T22:05:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#1",
       "title": "Grim discoveries of murdered women spark fear in South Africa",
       "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
       "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
@@ -75,13 +89,6 @@
       "publishedAt": "2026-09-18T20:17:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo#1",
-      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-      "description": "Residents later received the all-clear after explosions were reported in the capital.",
-      "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T04:20:47Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo#1",
       "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
       "description": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
@@ -96,11 +103,11 @@
       "publishedAt": "2026-09-18T18:04:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o#1",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:10:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o#2",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o#2",
@@ -136,13 +143,6 @@
       "description": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
       "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T01:23:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o#2",
-      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-      "description": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
-      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T23:29:17Z"
     }
   ]
 }
