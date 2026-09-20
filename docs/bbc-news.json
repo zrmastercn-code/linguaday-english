@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-20T16:10:13.710770Z",
+  "updatedAt": "2026-09-20T20:51:09.841251Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o#0",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T20:21:40Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#0",
       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -19,18 +26,11 @@
       "publishedAt": "2026-09-20T04:49:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o#0",
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
-      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T07:57:32Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo#0",
-      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
       "description": "Trump said the updated plans were at the request of the US military and for national security purposes.",
       "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T13:50:51Z"
+      "publishedAt": "2026-09-20T16:36:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
@@ -40,6 +40,13 @@
       "publishedAt": "2026-09-19T23:49:26Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#0",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T14:05:01Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cg4d9vly636o#0",
       "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
       "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
@@ -47,11 +54,11 @@
       "publishedAt": "2026-09-19T23:01:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o#0",
-      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:18:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo#1",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T19:04:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#1",
@@ -61,32 +68,11 @@
       "publishedAt": "2026-09-19T23:00:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#1",
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:13:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#1",
-      "title": "Converse pulls 'deeply upsetting' advert after backlash",
-      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
-      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T14:05:01Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#1",
       "title": "Google's Gemini AI hacked three companies in security test",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T13:39:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#1",
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
-      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:04:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#1",
@@ -96,11 +82,11 @@
       "publishedAt": "2026-09-19T21:01:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#1",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:05:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#1",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:04:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#1",
@@ -110,11 +96,32 @@
       "publishedAt": "2026-09-19T11:50:22Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#1",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T19:13:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#1",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T22:05:47Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo#1",
       "title": "Millions without power as Cuba hit by latest major blackout",
       "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
       "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T10:27:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o#2",
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
+      "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:18:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o#2",
@@ -136,13 +143,6 @@
       "description": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
       "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:18:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo#2",
-      "title": "Not all AI workers think the tech could kill everyone",
-      "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:01:57Z"
     }
   ]
 }
