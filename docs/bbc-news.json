@@ -2,12 +2,12 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-20T11:28:08.480988Z",
+  "updatedAt": "2026-09-20T16:10:13.710770Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#0",
-      "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
-      "description": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-20T10:45:39Z"
     },
@@ -26,18 +26,18 @@
       "publishedAt": "2026-09-20T07:57:32Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo#0",
+      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "description": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T13:50:51Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:49:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:00:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cg4d9vly636o#0",
@@ -48,10 +48,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o#0",
-      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
       "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
       "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:18:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#1",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:00:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#1",
@@ -68,13 +75,6 @@
       "publishedAt": "2026-09-19T14:05:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#1",
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T21:01:56Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#1",
       "title": "Google's Gemini AI hacked three companies in security test",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
@@ -82,18 +82,25 @@
       "publishedAt": "2026-09-19T13:39:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#1",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:05:47Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#1",
       "title": "Grim discoveries of murdered women spark fear in South Africa",
       "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
       "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T23:04:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#1",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T21:01:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#1",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T22:05:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#1",
@@ -126,7 +133,7 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo#2",
       "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try to secure her daughter's future.",
+      "description": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
       "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:18:06Z"
     },
@@ -136,13 +143,6 @@
       "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:01:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o#2",
-      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-      "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
-      "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:07:16Z"
     }
   ]
 }
