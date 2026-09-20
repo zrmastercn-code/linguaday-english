@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-20T20:51:09.841251Z",
+  "updatedAt": "2026-09-20T23:15:48.774630Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o#0",
@@ -33,6 +33,20 @@
       "publishedAt": "2026-09-20T16:36:43Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o#0",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "description": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T21:17:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo#0",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T19:04:11Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
@@ -40,25 +54,11 @@
       "publishedAt": "2026-09-19T23:49:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#0",
+      "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#1",
       "title": "Converse pulls 'deeply upsetting' advert after backlash",
       "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
       "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T14:05:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cg4d9vly636o#0",
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:01:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo#1",
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
-      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T19:04:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#1",
@@ -124,6 +124,13 @@
       "publishedAt": "2026-09-19T23:18:18Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cg4d9vly636o#2",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:38Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o#2",
       "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
       "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
@@ -136,13 +143,6 @@
       "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
       "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T17:23:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo#2",
-      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "description": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:18:06Z"
     }
   ]
 }
