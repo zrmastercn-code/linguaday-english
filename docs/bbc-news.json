@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-20T04:56:23.662953Z",
+  "updatedAt": "2026-09-20T11:28:08.480988Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#0",
+      "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+      "description": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T10:45:39Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm780ll1de18o#0",
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-      "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
       "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-20T04:49:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o#0",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T07:57:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
@@ -33,13 +47,6 @@
       "publishedAt": "2026-09-19T23:01:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#0",
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:13:49Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o#0",
       "title": "Cultural treasures are being destroyed by war, and people want justice",
       "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
@@ -47,7 +54,14 @@
       "publishedAt": "2026-09-19T23:18:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#1",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T19:13:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#1",
       "title": "Converse pulls 'deeply upsetting' advert after backlash",
       "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
       "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
@@ -96,16 +110,23 @@
       "publishedAt": "2026-09-19T10:27:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#1",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T20:17:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o#2",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo#2",
+      "title": "Trump escalates media fight after week of setbacks",
+      "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T17:23:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo#2",
       "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try to secure her daughter's future.",
       "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:18:06Z"
     },
@@ -115,27 +136,6 @@
       "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:01:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o#2",
-      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-      "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:01:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o#2",
-      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-      "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:03:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o#2",
-      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
-      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:18:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o#2",
