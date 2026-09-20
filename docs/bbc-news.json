@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-19T23:08:52.403840Z",
+  "updatedAt": "2026-09-20T04:56:23.662953Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm780ll1de18o#0",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T04:49:11Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#0",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T20:16:07Z"
+      "publishedAt": "2026-09-19T23:49:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#0",
@@ -33,6 +40,13 @@
       "publishedAt": "2026-09-19T19:13:49Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o#0",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:18:18Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#0",
       "title": "Converse pulls 'deeply upsetting' advert after backlash",
       "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
@@ -40,14 +54,14 @@
       "publishedAt": "2026-09-19T14:05:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#1",
       "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
       "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T21:01:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#1",
       "title": "Google's Gemini AI hacked three companies in security test",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
@@ -89,18 +103,18 @@
       "publishedAt": "2026-09-18T20:17:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo#1",
-      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
-      "description": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
-      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T00:03:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo#2",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:18:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#1",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T18:04:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo#2",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o#2",
@@ -129,20 +143,6 @@
       "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
       "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T23:07:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko#2",
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T01:31:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx980qj57r89o#2",
-      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-      "description": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
-      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T01:23:10Z"
     }
   ]
 }
