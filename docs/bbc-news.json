@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-22T16:59:09.990274Z",
+  "updatedAt": "2026-09-22T21:21:44.365743Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#0",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T18:43:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#0",
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T20:59:00Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
       "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
       "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
       "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T14:03:20Z"
+      "publishedAt": "2026-09-22T19:47:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0",
@@ -19,18 +33,11 @@
       "publishedAt": "2026-09-22T12:54:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#0",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:49:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o#0",
-      "title": "Eleven injured in shooting outside Turkish school",
-      "description": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T10:42:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6dj4k98107do#0",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T19:06:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#0",
@@ -40,11 +47,32 @@
       "publishedAt": "2026-09-22T13:58:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o#1",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "description": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:42:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo#1",
+      "title": "Top South African policeman charged with sexual offences",
+      "description": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T16:54:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo#1",
       "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
       "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
       "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T15:17:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo#1",
+      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+      "description": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T16:57:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq986214den3o#1",
@@ -68,60 +96,18 @@
       "publishedAt": "2026-09-22T05:58:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6790y1gj247o#1",
-      "title": "Doctor in court to face Rwanda genocide charges in UK",
-      "description": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
-      "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T11:25:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#2",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:49:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o#1",
-      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-      "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T14:51:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo#1",
-      "title": "Outrage in India over viral video of teen molested and her friend beaten",
-      "description": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T05:14:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o#1",
-      "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
-      "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
-      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T08:17:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#1",
-      "title": "British man missing after diving into Lake Como to rescue teenager",
-      "description": "The man had jumped in to save a father and son in difficulty in the water, local officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T11:44:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo#1",
-      "title": "Father admits causing death of his son in Cyprus hotel fall",
-      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T15:52:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1",
-      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-      "description": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T05:57:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o#1",
-      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-      "description": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
-      "link": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T01:44:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o#2",
+      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "description": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T16:42:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo#2",
@@ -135,14 +121,28 @@
       "title": "What is the White House pool and why is it in a row with Trump?",
       "description": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
       "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T12:26:31Z"
+      "publishedAt": "2026-09-22T19:25:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o#2",
-      "title": "Can you take the 'London' out of London Fashion Week?",
-      "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-      "link": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T09:27:28Z"
+      "id": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o#2",
+      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
+      "description": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
+      "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T23:32:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o#3",
+      "title": "Why is the Bab al-Mandab Strait so important?",
+      "description": "The BBC's Frank Gardner explains why the narrow waterway is key to oil transportation and the world economy.",
+      "link": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T12:57:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o#3",
+      "title": "What to expect as world leaders descend on New York - and who won't be there",
+      "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
+      "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T04:05:58Z"
     }
   ]
 }
