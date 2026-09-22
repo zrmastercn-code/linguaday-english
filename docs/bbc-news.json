@@ -2,28 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-22T11:42:37.541733Z",
+  "updatedAt": "2026-09-22T16:59:09.990274Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o#0",
-      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-      "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
-      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T08:17:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T14:03:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0",
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T12:54:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#0",
       "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
       "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
       "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T10:45:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo#0",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T07:14:12Z"
+      "publishedAt": "2026-09-22T13:49:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o#0",
@@ -33,25 +33,32 @@
       "publishedAt": "2026-09-22T10:42:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo#0",
-      "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-      "description": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T10:01:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#0",
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:58:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo#0",
-      "title": "Outrage in India over viral video of teen molested and her friend beaten",
-      "description": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T05:14:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo#0",
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
+      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T15:17:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6790y1gj247o#0",
-      "title": "Doctor in court to face Rwanda genocide charges in UK",
-      "description": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
-      "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T11:25:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq986214den3o#1",
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
+      "description": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
+      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T14:16:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo#1",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:39:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o#1",
@@ -61,11 +68,46 @@
       "publishedAt": "2026-09-22T05:58:35Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6790y1gj247o#1",
+      "title": "Doctor in court to face Rwanda genocide charges in UK",
+      "description": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
+      "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T11:25:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o#1",
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T14:51:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo#1",
+      "title": "Outrage in India over viral video of teen molested and her friend beaten",
+      "description": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T05:14:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o#1",
+      "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
+      "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T08:17:15Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#1",
       "title": "British man missing after diving into Lake Como to rescue teenager",
-      "description": "The UK Foreign Office says it is supporting the man's family and working with local authorities.",
+      "description": "The man had jumped in to save a father and son in difficulty in the water, local officials say.",
       "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T10:29:40Z"
+      "publishedAt": "2026-09-22T11:44:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo#1",
+      "title": "Father admits causing death of his son in Cyprus hotel fall",
+      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T15:52:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1",
@@ -82,67 +124,25 @@
       "publishedAt": "2026-09-22T01:44:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro#1",
-      "title": "Infantino says he is open to talks over Fifa reform",
-      "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T19:50:57Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo#2",
+      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T14:23:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo#1",
-      "title": "To Kill A Mockingbird first edition found in London charity shop",
-      "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T10:11:36Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o#2",
+      "title": "What is the White House pool and why is it in a row with Trump?",
+      "description": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T12:26:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko#1",
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T16:54:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx4gqv239043o#1",
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-      "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T00:05:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo#1",
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "description": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T17:02:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o#1",
-      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "description": "A report says the attacks, of which there have been at least 68, were not self-defence.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T12:08:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c617j2x01epjo#1",
-      "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
-      "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-      "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T17:06:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o#2",
-      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
-      "description": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T23:32:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo#2",
-      "title": "Merz's political crisis threatens Germany's obsession with stability",
-      "description": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T13:30:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o#2",
+      "title": "Can you take the 'London' out of London Fashion Week?",
+      "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+      "link": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T09:27:28Z"
     }
   ]
 }
