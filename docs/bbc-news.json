@@ -2,56 +2,112 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-22T05:00:09.953395Z",
+  "updatedAt": "2026-09-22T11:42:37.541733Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo#0",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T14:14:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o#0",
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T08:17:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo#0",
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T00:16:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#0",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:45:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo#0",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T07:14:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o#0",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "description": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:42:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo#0",
+      "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+      "description": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:01:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo#0",
+      "title": "Outrage in India over viral video of teen molested and her friend beaten",
+      "description": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T05:14:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6790y1gj247o#0",
+      "title": "Doctor in court to face Rwanda genocide charges in UK",
+      "description": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
+      "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T11:25:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o#1",
+      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+      "description": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T05:58:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#1",
+      "title": "British man missing after diving into Lake Como to rescue teenager",
+      "description": "The UK Foreign Office says it is supporting the man's family and working with local authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:29:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1",
+      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "description": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T05:57:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o#1",
+      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+      "description": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+      "link": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T01:44:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro#1",
+      "title": "Infantino says he is open to talks over Fifa reform",
+      "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T19:50:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo#1",
+      "title": "To Kill A Mockingbird first edition found in London charity shop",
+      "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:11:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko#1",
       "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
       "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
       "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-21T16:54:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr2092216nywo#0",
-      "title": "First UK charges brought over 1994 Rwanda genocide",
-      "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T17:48:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o#0",
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T20:26:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx4gqv239043o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx4gqv239043o#1",
       "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
       "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-21T00:05:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o#0",
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T15:24:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo#1",
@@ -68,13 +124,6 @@
       "publishedAt": "2026-09-21T12:08:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o#1",
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
-      "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T20:21:18Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c617j2x01epjo#1",
       "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
       "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
@@ -82,67 +131,18 @@
       "publishedAt": "2026-09-21T17:06:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo#1",
-      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
-      "description": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T12:30:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o#2",
+      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
+      "description": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
+      "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T23:32:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o#1",
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "description": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T23:12:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo#1",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T05:50:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo#1",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T04:00:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo#1",
-      "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-      "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T19:01:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5yme200n8go#1",
-      "title": "Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'",
-      "description": "Patrick Clancy gives his first interview since his wife's mistrial over the killing of their three young children.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T05:52:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o#1",
-      "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-      "description": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T07:20:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8207255rq5lo#1",
-      "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-      "description": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T17:25:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o#1",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:49:26Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo#2",
+      "title": "Merz's political crisis threatens Germany's obsession with stability",
+      "description": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T13:30:45Z"
     }
   ]
 }
