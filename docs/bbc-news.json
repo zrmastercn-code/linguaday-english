@@ -2,63 +2,84 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-23T11:41:27.012401Z",
+  "updatedAt": "2026-09-23T17:04:58.557827Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck62m1631d7po#0",
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T06:12:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo#0",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T15:58:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo#0",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T16:53:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo#0",
+      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T14:32:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o#0",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T12:31:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o#0",
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "description": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T12:22:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm98626n260yo#0",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "description": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T16:40:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo#0",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T15:37:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o#1",
       "title": "Reports of violence against women in Gaza surge, UN agency finds",
       "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
       "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T05:02:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo#1",
       "title": "Eleven killed in mass shooting at house in South Africa",
       "description": "One of those killed is believed to be a pregnant woman, police said.",
       "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T07:02:52Z"
+      "publishedAt": "2026-09-23T14:02:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o#1",
       "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
       "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
       "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T06:47:49Z"
+      "publishedAt": "2026-09-23T13:34:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko#0",
-      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T04:20:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo#0",
-      "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
-      "description": "The storm's sudden intensification is \"truly remarkable\", the US hurricane monitoring agency said.",
-      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T02:54:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no#0",
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T00:05:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#1",
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T21:36:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o#1",
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "description": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T14:32:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo#1",
@@ -68,60 +89,46 @@
       "publishedAt": "2026-09-23T09:48:50Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o#1",
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
+      "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
+      "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T11:16:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo#1",
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "description": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T12:24:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo#1",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T12:01:37Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cqn745px55nno#1",
       "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
       "description": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
       "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T11:18:28Z"
+      "publishedAt": "2026-09-23T13:20:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6dj4k98107do#1",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T19:06:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#1",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T21:36:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#1",
+      "id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#2",
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
       "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
       "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T20:59:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#1",
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T12:54:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr6241825757o#1",
-      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
-      "description": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T23:36:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#1",
-      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:58:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#1",
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T19:47:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo#1",
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T15:17:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro#2",
@@ -131,18 +138,11 @@
       "publishedAt": "2026-09-22T22:04:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o#2",
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "description": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T16:42:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#2",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:49:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no#2",
+      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+      "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T00:05:34Z"
     }
   ]
 }
