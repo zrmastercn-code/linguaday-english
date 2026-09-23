@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-22T21:21:44.365743Z",
+  "updatedAt": "2026-09-23T04:48:02.325497Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o#0",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T02:57:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo#0",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T06:03:22Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#0",
       "title": "US to build two military bases in Greenland under new deal with Denmark",
       "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
       "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T18:43:29Z"
+      "publishedAt": "2026-09-22T21:36:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#0",
@@ -40,11 +54,18 @@
       "publishedAt": "2026-09-22T19:06:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#1",
       "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
       "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
       "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T13:58:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr6241825757o#1",
+      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+      "description": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T23:36:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o#1",
@@ -89,13 +110,6 @@
       "publishedAt": "2026-09-22T13:39:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o#1",
-      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
-      "description": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T05:58:35Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#2",
       "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
       "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
@@ -129,20 +143,6 @@
       "description": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
       "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-21T23:32:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o#3",
-      "title": "Why is the Bab al-Mandab Strait so important?",
-      "description": "The BBC's Frank Gardner explains why the narrow waterway is key to oil transportation and the world economy.",
-      "link": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T12:57:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o#3",
-      "title": "What to expect as world leaders descend on New York - and who won't be there",
-      "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-      "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T04:05:58Z"
     }
   ]
 }
