@@ -2,63 +2,98 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-23T04:48:02.325497Z",
+  "updatedAt": "2026-09-23T11:41:27.012401Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o#0",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-      "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T02:57:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck62m1631d7po#0",
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T06:12:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo#0",
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T06:03:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o#0",
+      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T05:02:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#0",
+      "id": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo#0",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "description": "One of those killed is believed to be a pregnant woman, police said.",
+      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T07:02:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o#0",
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
+      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T06:47:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko#0",
+      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T04:20:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo#0",
+      "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
+      "description": "The storm's sudden intensification is \"truly remarkable\", the US hurricane monitoring agency said.",
+      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T02:54:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no#0",
+      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+      "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T00:05:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#1",
       "title": "US to build two military bases in Greenland under new deal with Denmark",
       "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
       "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T21:36:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#0",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T20:59:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo#1",
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
+      "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T09:48:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T19:47:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqn745px55nno#1",
+      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+      "description": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T11:18:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0",
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T12:54:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6dj4k98107do#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6dj4k98107do#1",
       "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
       "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
       "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T19:06:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#1",
-      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:58:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#1",
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T20:59:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#1",
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T12:54:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr6241825757o#1",
@@ -68,18 +103,18 @@
       "publishedAt": "2026-09-22T23:36:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o#1",
-      "title": "Eleven injured in shooting outside Turkish school",
-      "description": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T10:42:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#1",
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:58:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo#1",
-      "title": "Top South African policeman charged with sexual offences",
-      "description": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T16:54:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#1",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T19:47:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo#1",
@@ -89,32 +124,11 @@
       "publishedAt": "2026-09-22T15:17:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo#1",
-      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "description": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T16:57:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq986214den3o#1",
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "description": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T14:16:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo#1",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:39:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#2",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:49:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro#2",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T22:04:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o#2",
@@ -124,25 +138,11 @@
       "publishedAt": "2026-09-22T16:42:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo#2",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T14:23:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o#2",
-      "title": "What is the White House pool and why is it in a row with Trump?",
-      "description": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T19:25:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o#2",
-      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
-      "description": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T23:32:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#2",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:49:22Z"
     }
   ]
 }
