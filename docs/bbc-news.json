@@ -2,56 +2,63 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-24T11:50:03.304947Z",
+  "updatedAt": "2026-09-24T17:14:04.050404Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#0",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T16:42:56Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo#0",
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T07:10:58Z"
+      "publishedAt": "2026-09-24T15:42:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo#0",
-      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-      "description": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T03:52:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#0",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T14:08:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#0",
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
       "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T11:16:29Z"
+      "publishedAt": "2026-09-24T16:00:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o#0",
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "description": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T10:29:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo#0",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T15:37:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo#0",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T09:28:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#0",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T14:37:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo#1",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T16:36:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o#1",
       "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
       "description": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
       "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T06:47:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo#0",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T18:15:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o#1",
@@ -59,6 +66,13 @@
       "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
       "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T10:11:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo#1",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T18:15:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o#1",
@@ -110,13 +124,6 @@
       "publishedAt": "2026-09-23T05:02:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo#1",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "description": "One of those killed is believed to be a pregnant woman, police said.",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T14:02:55Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo#2",
       "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
       "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
@@ -136,13 +143,6 @@
       "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
       "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T00:50:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo#2",
-      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-      "description": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
-      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T23:58:50Z"
     }
   ]
 }
