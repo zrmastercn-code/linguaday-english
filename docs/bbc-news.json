@@ -2,49 +2,77 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-24T17:14:04.050404Z",
+  "updatedAt": "2026-09-24T21:32:51.705226Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo#0",
+      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "description": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\".",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T21:21:47Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#0",
       "title": "White House restores access to media outlets banned by Trump after judge's order",
       "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T16:42:56Z"
+      "publishedAt": "2026-09-24T17:49:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo#0",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T15:42:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o#0",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T18:06:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#0",
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T14:08:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o#0",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T19:02:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#0",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T16:00:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o#0",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T19:18:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o#0",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T19:32:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o#1",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T17:55:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo#1",
       "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T15:37:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#1",
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
       "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T14:37:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#1",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T16:00:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo#1",
@@ -52,6 +80,13 @@
       "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
       "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T16:36:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo#1",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T15:42:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o#1",
@@ -108,41 +143,6 @@
       "description": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
       "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T18:51:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo#1",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T15:37:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o#1",
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T05:02:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo#2",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T22:01:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po#2",
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "description": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
-      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T00:15:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o#2",
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T00:50:24Z"
     }
   ]
 }
