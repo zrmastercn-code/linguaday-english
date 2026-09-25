@@ -2,21 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-24T21:32:51.705226Z",
+  "updatedAt": "2026-09-25T05:00:46.818465Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo#0",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T03:57:09Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo#0",
-      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
-      "description": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\".",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T21:21:47Z"
+      "publishedAt": "2026-09-25T00:44:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#0",
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T17:49:20Z"
+      "publishedAt": "2026-09-25T01:10:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmq8j904212po#0",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T23:17:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o#0",
@@ -33,14 +47,14 @@
       "publishedAt": "2026-09-24T19:02:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o#1",
       "title": "Priest killed and four injured in knife attack at Polish abbey",
       "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
       "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T19:18:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o#1",
       "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
       "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
       "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
@@ -129,20 +143,6 @@
       "description": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
       "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T21:16:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o#1",
-      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-      "description": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
-      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T12:22:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm98626n260yo#1",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "description": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T18:51:12Z"
     }
   ]
 }
