@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-26T21:12:38.451505Z",
+  "updatedAt": "2026-09-26T23:38:46.666999Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#0",
       "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T18:17:12Z"
+      "publishedAt": "2026-09-26T22:15:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro#0",
@@ -26,13 +26,6 @@
       "publishedAt": "2026-09-26T12:47:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo#0",
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "description": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T15:12:25Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko#0",
       "title": "German town bans 'stumbling stone' memorials to Nazi victims",
       "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
@@ -41,24 +34,38 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo#0",
-      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T17:47:09Z"
+      "publishedAt": "2026-09-26T22:04:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo#0",
+      "id": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo#0",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T19:59:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo#0",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "description": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T21:13:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo#1",
       "title": "Bangkok roads submerged as flood disaster declared",
       "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-26T07:21:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o#1",
-      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
-      "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T18:30:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo#1",
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "description": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T15:12:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo#1",
@@ -68,18 +75,18 @@
       "publishedAt": "2026-09-26T15:46:40Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o#1",
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T18:30:04Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cxq633770y16o#1",
       "title": "White House bars CNN from travelling with Trump on Air Force One",
       "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-26T19:16:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro#1",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T01:24:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko#1",
@@ -136,13 +143,6 @@
       "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
       "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-25T22:12:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro#2",
-      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
-      "description": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T20:06:39Z"
     }
   ]
 }
