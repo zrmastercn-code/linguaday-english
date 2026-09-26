@@ -2,28 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-26T05:02:31.802258Z",
+  "updatedAt": "2026-09-26T11:28:15.163914Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#0",
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "description": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T04:14:30Z"
+      "publishedAt": "2026-09-26T05:03:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw62jje658dlo#0",
       "title": "OpenAI bots meddled with multiple US government agency sites",
-      "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
       "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-26T02:50:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#0",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T20:47:49Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o#0",
+      "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+      "description": "Local media report the property included a holiday rental, with US tourists and a UK national among the missing.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T10:18:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo#0",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T07:21:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko#0",
@@ -33,13 +40,6 @@
       "publishedAt": "2026-09-25T23:20:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo#0",
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T23:05:40Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro#0",
       "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
       "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
@@ -47,18 +47,39 @@
       "publishedAt": "2026-09-26T01:24:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmq8j904212po#0",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "description": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T15:06:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#0",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T20:47:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwddvv44091vo#1",
-      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-      "description": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
-      "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T17:59:03Z"
+      "id": "https://www.bbc.co.uk/news/articles/cxq633770y16o#1",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T05:09:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo#1",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T03:22:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro#1",
+      "title": "Republic of Ireland news conference delayed before controversial Israel game",
+      "description": "The Republic of Ireland delay the pre-match news conference planned for Sunday's Uefa Nations League game against Israel in Hungary - a fixture campaigners have called on them to boycott.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T10:44:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo#1",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T23:05:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo#1",
@@ -68,81 +89,60 @@
       "publishedAt": "2026-09-25T19:13:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo#1",
-      "title": "Trump's plans for massive arch move ahead",
-      "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T18:27:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwddvv44091vo#1",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "description": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
+      "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T17:59:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo#1",
-      "title": "Students strike across Germany in protest against military service",
-      "description": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T15:36:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo#2",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T22:12:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o#1",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T13:23:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro#2",
+      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+      "description": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T20:06:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo#1",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T03:57:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo#2",
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "description": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T23:08:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm0reew1591zo#1",
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "description": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T15:29:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo#2",
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+      "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T23:42:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4g53547wygo#1",
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T10:51:28Z"
+      "id": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo#3",
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "description": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T18:41:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no#1",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "description": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T17:13:55Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o#3",
+      "title": "Bangkok declares disaster as heavy rains spark flooding",
+      "description": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
+      "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T06:28:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o#1",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T09:48:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo#1",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T11:44:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo#1",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T14:24:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o#1",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T19:32:59Z"
+      "id": "https://www.bbc.co.uk/news/videos/cq14d142p08do#3",
+      "title": "Thousands turn out to greet Pope in France",
+      "description": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
+      "link": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T15:44:55Z"
     }
   ]
 }
