@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-25T21:37:06.616727Z",
+  "updatedAt": "2026-09-26T05:02:31.802258Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#0",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "description": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T04:14:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw62jje658dlo#0",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T02:50:56Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#0",
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
@@ -12,11 +26,25 @@
       "publishedAt": "2026-09-25T20:47:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o#0",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T13:56:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko#0",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "description": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T23:20:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo#0",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T23:05:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro#0",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T01:24:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmq8j904212po#0",
@@ -26,28 +54,35 @@
       "publishedAt": "2026-09-25T15:06:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwddvv44091vo#1",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "description": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
+      "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T17:59:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo#1",
       "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "description": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
       "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-25T19:13:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo#1",
       "title": "Trump's plans for massive arch move ahead",
       "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
       "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-25T18:27:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo#1",
       "title": "Students strike across Germany in protest against military service",
       "description": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
       "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-25T15:36:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o#1",
       "title": "Man shot during 2024 Trump campaign rally in Butler dies",
       "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
       "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
@@ -108,41 +143,6 @@
       "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
       "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T19:32:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#1",
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T18:36:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o#1",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T19:02:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o#1",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T19:18:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o#1",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T17:55:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#1",
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T14:37:34Z"
     }
   ]
 }
