@@ -2,21 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-27T21:22:35.955539Z",
+  "updatedAt": "2026-09-28T05:27:51.842957Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#0",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T07:44:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#0",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T14:09:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw98005ndz7no#0",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T21:16:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo#0",
@@ -33,18 +26,18 @@
       "publishedAt": "2026-09-27T17:05:26Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#0",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T14:09:22Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo#0",
       "title": "Four killed in helicopter crash near Montreal",
       "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T02:43:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo#0",
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T12:34:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o#0",
@@ -54,11 +47,32 @@
       "publishedAt": "2026-09-27T15:56:25Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo#0",
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T16:02:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#1",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T07:44:11Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o#1",
       "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
       "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T19:47:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo#1",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T23:37:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo#1",
@@ -73,13 +87,6 @@
       "description": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
       "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T16:35:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo#1",
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
-      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T16:02:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko#1",
@@ -110,18 +117,18 @@
       "publishedAt": "2026-09-26T12:47:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo#1",
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "description": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T15:12:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo#2",
+      "title": "Why some Indian civil servants become heroes for doing their jobs",
+      "description": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+      "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T23:01:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo#1",
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T15:46:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno#2",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T23:27:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo#2",
@@ -136,13 +143,6 @@
       "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
       "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-26T22:02:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo#2",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T22:12:48Z"
     }
   ]
 }
