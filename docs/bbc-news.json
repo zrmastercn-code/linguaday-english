@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-28T05:27:51.842957Z",
+  "updatedAt": "2026-09-28T14:00:38.035106Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cw98005ndz7no#0",
@@ -12,6 +12,34 @@
       "publishedAt": "2026-09-27T21:16:31Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo#0",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "description": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T07:52:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o#0",
+      "title": "Mexico's Pacific coast braces for Hurricane Polo",
+      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T11:05:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo#0",
+      "title": "Plan for controversial Sydney data centre scrapped after push-back",
+      "description": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T12:47:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#0",
+      "title": "Two mass shootings in South Africa leave 28 dead",
+      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T06:46:03Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo#0",
       "title": "Embattled Serbian president resigns, paving way for early elections",
       "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
@@ -19,35 +47,42 @@
       "publishedAt": "2026-09-27T20:04:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o#0",
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T17:05:26Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo#0",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T23:37:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#0",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T14:09:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo#0",
-      "title": "Four killed in helicopter crash near Montreal",
-      "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T02:43:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o#1",
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T15:56:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo#1",
+      "title": "Four killed in helicopter crash near Montreal",
+      "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T02:43:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o#1",
+      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T19:47:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o#1",
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
+      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T17:05:26Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo#1",
       "title": "Switzerland rejects stricter interpretation of its neutrality",
       "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
       "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
@@ -59,20 +94,6 @@
       "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
       "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T07:44:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o#1",
-      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-      "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T19:47:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo#1",
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T23:37:26Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo#1",
@@ -96,27 +117,6 @@
       "publishedAt": "2026-09-26T15:48:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo#1",
-      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "description": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T21:13:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo#1",
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T04:45:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o#1",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T12:47:25Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo#2",
       "title": "Why some Indian civil servants become heroes for doing their jobs",
       "description": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
@@ -125,7 +125,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno#2",
-      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
       "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T23:27:22Z"
