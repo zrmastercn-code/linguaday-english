@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-29T18:06:08.145395Z",
+  "updatedAt": "2026-09-29T22:18:20.287076Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do#0",
@@ -26,11 +26,11 @@
       "publishedAt": "2026-09-29T12:39:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro#0",
-      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-      "description": "The suspect, 24, was arrested before the alleged cyber attack took place.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T15:40:10Z"
+      "id": "https://www.bbc.co.uk/news/articles/c862epne7glyo#0",
+      "title": "More than 400 detained as France student protests escalate",
+      "description": "Students have been protesting conditions and resources in high schools since last week.",
+      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T21:55:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c674kkjllw17o#0",
@@ -40,11 +40,32 @@
       "publishedAt": "2026-09-29T17:14:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro#0",
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "description": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T15:40:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo#0",
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "description": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T19:36:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o#1",
       "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
       "description": "The company that runs the Eiffel Tower said the removal of female staff during the visit earlier this month was \"unacceptable\".",
       "link": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-29T16:56:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8046wd93l44o#1",
+      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+      "description": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
+      "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T17:31:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o#1",
@@ -54,18 +75,11 @@
       "publishedAt": "2026-09-29T14:50:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo#1",
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "description": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T13:15:51Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro#1",
       "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
       "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
       "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T14:25:12Z"
+      "publishedAt": "2026-09-29T21:09:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro#1",
@@ -73,6 +87,13 @@
       "description": "The defendant could face jail or a fine after the image sparked a search operation in the city’s largest reservoir.",
       "link": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-29T13:08:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo#1",
+      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+      "description": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+      "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T22:13:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o#1",
@@ -86,7 +107,7 @@
       "title": "Trump rules out joint US-China venture to develop AI",
       "description": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
       "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T16:09:26Z"
+      "publishedAt": "2026-09-29T21:45:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo#1",
@@ -122,27 +143,6 @@
       "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
       "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-29T17:48:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo#1",
-      "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
-      "description": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
-      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T02:36:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c6lymekx0repo#2",
-      "title": "Are Trump's US government funded ads illegal?",
-      "description": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
-      "link": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T01:12:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo#2",
-      "title": "The Frenemy: How Australia navigates superpower rivalry",
-      "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
-      "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T18:37:15Z"
     }
   ]
 }
