@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-28T21:14:49.472548Z",
+  "updatedAt": "2026-09-29T01:02:21.886904Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cw98005ndz7no#0",
@@ -12,11 +12,32 @@
       "publishedAt": "2026-09-27T21:16:31Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cred737qdv2no#0",
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T20:50:03Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o#0",
       "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
       "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
       "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-28T14:57:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o#0",
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "description": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T21:46:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo#0",
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "description": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T22:27:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o#0",
@@ -26,13 +47,6 @@
       "publishedAt": "2026-09-28T17:26:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo#0",
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "description": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T17:15:00Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o#0",
       "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
       "description": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
@@ -40,14 +54,21 @@
       "publishedAt": "2026-09-28T15:39:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo#1",
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "description": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T17:15:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo#1",
       "title": "Stand-up comic released after being convicted of insulting Erdoğan",
       "description": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
       "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-28T20:23:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o#1",
       "title": "Four bodies found after avalanche hits Himalayan climbing group",
       "description": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
       "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
@@ -65,7 +86,7 @@
       "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
       "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
       "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T18:11:07Z"
+      "publishedAt": "2026-09-29T00:38:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o#1",
@@ -76,10 +97,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o#1",
-      "title": "Mexico's Pacific coast braces for Hurricane Polo",
-      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "description": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
       "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T11:05:49Z"
+      "publishedAt": "2026-09-28T23:43:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo#1",
@@ -122,27 +143,6 @@
       "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T19:47:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo#1",
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
-      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T16:02:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#1",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T07:44:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo#1",
-      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T23:04:08Z"
     }
   ]
 }
