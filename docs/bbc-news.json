@@ -2,14 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-09-30T20:03:35.132915Z",
+  "updatedAt": "2026-10-01T00:34:21.549060Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno#0",
       "title": "What we know about stabbing on Flydubai flight to Israel",
-      "description": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T17:51:49Z"
+      "publishedAt": "2026-09-30T21:36:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo#0",
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T23:10:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o#0",
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "description": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T00:19:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o#0",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T00:08:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo#0",
@@ -19,28 +40,28 @@
       "publishedAt": "2026-09-30T17:14:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo#0",
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T17:11:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno#0",
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T23:10:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw20vxxn876no#0",
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T15:29:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo#1",
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T22:01:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o#1",
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
       "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T14:53:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#1",
       "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
       "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
       "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
@@ -117,32 +138,11 @@
       "publishedAt": "2026-09-30T05:01:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o#1",
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T05:24:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c862epne7glyo#1",
-      "title": "Dozens hurt and hundreds arrested in wave of French school protests",
-      "description": "Students have been protesting against conditions and resources in secondary schools since last week.",
-      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T13:18:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o#1",
-      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-      "description": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea.",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T04:21:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko#2",
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T04:01:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o#2",
+      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+      "description": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T23:25:23Z"
     }
   ]
 }
