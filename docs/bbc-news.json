@@ -2,42 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-01T18:26:20.117160Z",
+  "updatedAt": "2026-10-02T00:49:13.338774Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o#0",
-      "title": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
-      "description": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
       "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T16:45:35Z"
+      "publishedAt": "2026-10-01T22:28:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#0",
       "title": "What happened in the failed execution of Christa Pike - and what next?",
       "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T17:31:06Z"
+      "publishedAt": "2026-10-01T22:52:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#0",
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
       "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T18:19:14Z"
+      "publishedAt": "2026-10-01T19:59:24Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo#0",
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "description": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
+      "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T18:09:03Z"
+      "publishedAt": "2026-10-01T19:38:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0",
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T11:37:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#0",
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T20:30:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o#0",
@@ -47,11 +47,11 @@
       "publishedAt": "2026-10-01T14:05:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#0",
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T17:32:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T11:37:46Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o#1",
@@ -65,7 +65,7 @@
       "title": "Fires break out at French schools as students protest nationwide",
       "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
       "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T18:22:29Z"
+      "publishedAt": "2026-10-01T19:19:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo#1",
