@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-02T17:53:17.261601Z",
+  "updatedAt": "2026-10-02T22:16:34.161950Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#0",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T20:25:19Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#0",
       "title": "Riot police clash with students as education protests rage in France",
-      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T17:43:10Z"
+      "publishedAt": "2026-10-02T21:13:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o#0",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T20:32:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o#0",
@@ -19,18 +33,18 @@
       "publishedAt": "2026-10-02T17:44:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T09:08:06Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo#0",
       "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
       "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
       "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T15:26:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T09:08:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo#0",
@@ -40,11 +54,11 @@
       "publishedAt": "2026-10-02T15:30:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o#0",
-      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T14:01:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#1",
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T21:00:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm1dld14weero#1",
@@ -129,20 +143,6 @@
       "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-01T11:37:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o#1",
-      "title": "Japan raises permanent residency fee by 20 times",
-      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T02:57:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo#1",
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
-      "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T12:13:28Z"
     }
   ]
 }
