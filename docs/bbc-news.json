@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-02T00:49:13.338774Z",
+  "updatedAt": "2026-10-02T09:49:28.970741Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T09:08:06Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o#0",
       "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
@@ -12,42 +19,91 @@
       "publishedAt": "2026-10-01T22:28:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#0",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T22:52:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr1585y0y90go#0",
+      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+      "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T02:49:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm1dld14weero#0",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T03:09:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo#0",
+      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T05:53:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#1",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T08:20:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#1",
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
       "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-01T19:59:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo#0",
+      "id": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o#1",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T08:01:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro#1",
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+      "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T04:21:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo#1",
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-01T19:38:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#0",
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T20:30:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o#1",
       "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
       "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
       "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-01T14:05:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o#1",
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
+      "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T16:31:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#1",
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T20:30:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo#1",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T15:05:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#1",
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
@@ -61,25 +117,11 @@
       "publishedAt": "2026-10-01T02:57:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o#1",
-      "title": "Fires break out at French schools as students protest nationwide",
-      "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T19:19:00Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo#1",
       "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
       "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
       "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-01T12:13:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o#1",
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-      "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T16:31:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o#1",
@@ -89,60 +131,18 @@
       "publishedAt": "2026-10-01T05:24:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o#1",
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T00:08:23Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#2",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T02:11:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo#1",
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T15:05:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno#1",
-      "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
-      "description": "Victims often have to navigate both university and local law enforcement processes to find justice.",
-      "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T11:40:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno#1",
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T23:10:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo#1",
-      "title": "California bans child marriage, a practice still legal in 32 US states",
-      "description": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T00:57:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#1",
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T07:04:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po#2",
-      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
-      "description": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m).",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T13:57:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo#2",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T15:04:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o#2",
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "description": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T23:42:33Z"
     }
   ]
 }
