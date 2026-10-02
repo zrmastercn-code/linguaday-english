@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-02T09:49:28.970741Z",
+  "updatedAt": "2026-10-02T17:53:17.261601Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#0",
+      "title": "Riot police clash with students as education protests rage in France",
+      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T17:43:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o#0",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T17:44:08Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
@@ -12,28 +26,35 @@
       "publishedAt": "2026-10-02T09:08:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o#0",
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T22:28:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo#0",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T15:26:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr1585y0y90go#0",
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
-      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T02:49:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo#0",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T15:30:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm1dld14weero#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o#0",
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T14:01:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm1dld14weero#1",
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
       "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
       "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T03:09:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo#1",
       "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
       "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
       "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
@@ -58,7 +79,7 @@
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
       "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T08:01:10Z"
+      "publishedAt": "2026-10-02T16:08:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro#1",
@@ -122,27 +143,6 @@
       "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
       "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-01T12:13:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o#1",
-      "title": "K-pop star convicted of violating military service law",
-      "description": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T05:24:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#2",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T02:11:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o#2",
-      "title": "Spain and China are cosying up - to the anger of many in the EU",
-      "description": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T23:42:33Z"
     }
   ]
 }
