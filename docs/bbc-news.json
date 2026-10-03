@@ -2,28 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-03T11:42:48.402907Z",
+  "updatedAt": "2026-10-03T16:20:02.359447Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T11:20:21Z"
+      "publishedAt": "2026-10-03T14:27:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko#0",
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
       "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T09:53:16Z"
+      "publishedAt": "2026-10-03T16:16:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2kej47095no#0",
       "title": "Protesters across Spain demand action over housing crisis",
-      "description": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+      "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T11:35:48Z"
+      "publishedAt": "2026-10-03T13:34:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#0",
@@ -33,11 +33,18 @@
       "publishedAt": "2026-10-03T04:38:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o#0",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T20:32:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cme3x85013llo#0",
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T15:56:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo#0",
+      "title": "Why has Brazil accused the US of election interference?",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T13:52:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo#0",
@@ -47,11 +54,18 @@
       "publishedAt": "2026-10-02T23:16:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo#0",
+      "id": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo#1",
       "title": "Kim wins Asian Games gold to secure military exemption",
       "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
       "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T08:51:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o#1",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T20:32:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o#1",
@@ -129,20 +143,6 @@
       "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
       "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T16:08:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro#1",
-      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-      "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
-      "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T04:21:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo#1",
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T19:38:30Z"
     }
   ]
 }
