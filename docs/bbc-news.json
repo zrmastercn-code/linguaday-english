@@ -2,8 +2,29 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-03T05:22:30.349386Z",
+  "updatedAt": "2026-10-03T11:42:48.402907Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T11:20:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko#0",
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T09:53:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2kej47095no#0",
+      "title": "Protesters across Spain demand action over housing crisis",
+      "description": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T11:35:48Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#0",
       "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -19,34 +40,6 @@
       "publishedAt": "2026-10-02T20:32:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#0",
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T02:23:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#0",
-      "title": "Riot police clash with students as education protests rage in France",
-      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T21:13:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo#0",
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T15:30:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo#0",
-      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T23:06:00Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo#0",
       "title": "Women given shorts at Oktoberfest to prevent upskirting",
       "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
@@ -54,18 +47,39 @@
       "publishedAt": "2026-10-02T23:16:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo#1",
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T15:26:37Z"
+      "id": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo#0",
+      "title": "Kim wins Asian Games gold to secure military exemption",
+      "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T08:51:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#1",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T09:08:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o#1",
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T10:58:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#1",
+      "title": "Riot police clash with students as education protests rage in France",
+      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T21:13:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#1",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T02:23:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo#1",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T23:06:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#1",
@@ -87,6 +101,13 @@
       "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
       "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T05:53:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#1",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T09:08:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#1",
@@ -122,27 +143,6 @@
       "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-01T19:38:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o#1",
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T14:05:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o#1",
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-      "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T16:31:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#1",
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T20:30:47Z"
     }
   ]
 }
