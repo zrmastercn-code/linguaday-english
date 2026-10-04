@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-04T18:39:09.062575Z",
+  "updatedAt": "2026-10-04T23:57:36.975466Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#0",
@@ -26,6 +26,13 @@
       "publishedAt": "2026-10-04T16:51:30Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ck1l34ed592no#0",
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T23:45:53Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo#0",
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
@@ -40,18 +47,18 @@
       "publishedAt": "2026-10-04T16:24:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o#0",
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T17:01:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do#1",
       "title": "US Marine arrested over murder of woman in Okinawa, Japan",
       "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
       "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-04T14:36:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o#0",
-      "title": "Indian police accused of sexual harassment against journalists at protest",
-      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T17:01:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o#1",
@@ -62,10 +69,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo#1",
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
       "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
       "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T11:03:20Z"
+      "publishedAt": "2026-10-04T20:14:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2kej47095no#1",
@@ -76,10 +83,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cme3x85013llo#1",
-      "title": "Debris found from plane that went missing off US coast",
+      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
       "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T03:49:06Z"
+      "publishedAt": "2026-10-04T23:29:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o#1",
@@ -136,13 +143,6 @@
       "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
       "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T12:26:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo#3",
-      "title": "Newly released video shows Luigi Mangione’s arrest",
-      "description": "The bodycam footage also shows a police officer finding a gun in Mangione's backpack, days after the killing of UnitedHealthcare CEO Brian Thompson.",
-      "link": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T20:37:34Z"
     }
   ]
 }
