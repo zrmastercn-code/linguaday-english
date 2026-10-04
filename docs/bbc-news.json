@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-04T05:57:42.620083Z",
+  "updatedAt": "2026-10-04T12:25:42.017403Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#0",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T12:09:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o#0",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T06:19:17Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo#0",
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
@@ -19,20 +33,6 @@
       "publishedAt": "2026-10-04T00:11:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T04:57:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko#0",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T16:16:49Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm2kej47095no#0",
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
@@ -40,11 +40,11 @@
       "publishedAt": "2026-10-04T03:42:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#0",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T04:38:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo#0",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T11:03:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cme3x85013llo#1",
@@ -54,11 +54,11 @@
       "publishedAt": "2026-10-04T03:49:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo#1",
-      "title": "Why has Brazil accused the US of election interference?",
-      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T13:52:13Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo#1",
+      "title": "US father and son arrested after 'gas station heroin' deaths",
+      "description": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T22:39:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o#1",
@@ -66,6 +66,13 @@
       "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
       "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T10:58:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#1",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T04:38:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#1",
@@ -82,67 +89,60 @@
       "publishedAt": "2026-10-03T08:51:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm1dld14weero#1",
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T03:09:13Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o#2",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T23:30:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#1",
-      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-      "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T21:00:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo#2",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T23:37:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo#1",
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T23:16:03Z"
+      "id": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#2",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T23:37:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo#1",
-      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T23:06:00Z"
+      "id": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo#2",
+      "title": "Joker persona helps Cong 'feel the fear' in opponents",
+      "description": "Wang Cong dismisses critics who say she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
+      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T07:07:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo#1",
-      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-      "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T05:53:51Z"
+      "id": "https://www.bbc.co.uk/news/videos/c69qzvggzppro#3",
+      "title": "Rare tornado whips through small Australian town",
+      "description": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T04:15:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#1",
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T02:23:07Z"
+      "id": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo#3",
+      "title": "Why has Brazil accused the US of election interference?",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T13:52:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#1",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T09:08:06Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo#3",
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T12:26:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#1",
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T08:20:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#1",
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T19:59:24Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo#3",
+      "title": "Newly released video shows Luigi Mangione’s arrest",
+      "description": "The bodycam footage also shows a police officer finding a gun in Mangione's backpack, days after the killing of UnitedHealthcare CEO Brian Thompson.",
+      "link": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T20:37:34Z"
     }
   ]
 }
