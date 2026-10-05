@@ -2,63 +2,98 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-05T05:45:24.971339Z",
+  "updatedAt": "2026-10-05T14:45:34.358422Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyve191dlko#0",
-      "title": "US air force removes all bombers from British military base RAF Fairford",
-      "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T04:58:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo#0",
+      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+      "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T13:16:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1l34ed592no#0",
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "id": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o#0",
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T10:18:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o#0",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "description": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T11:34:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o#0",
+      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+      "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T14:30:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o#0",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T11:04:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o#0",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "description": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T08:22:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go#0",
+      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+      "description": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T12:59:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1l34ed592no#1",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-05T03:16:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo#0",
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T04:51:24Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o#1",
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+      "description": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T12:08:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo#0",
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T03:37:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o#0",
-      "title": "France closes up to 500 schools Monday over student protests",
-      "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T04:49:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o#1",
       "title": "All six passengers presumed dead after plane went missing off US coast",
       "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-05T04:00:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo#0",
-      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "id": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo#1",
+      "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
       "description": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
       "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T05:28:46Z"
+      "publishedAt": "2026-10-05T10:23:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#1",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T12:09:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo#1",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T08:29:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo#1",
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T10:03:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo#1",
@@ -68,32 +103,18 @@
       "publishedAt": "2026-10-04T22:11:33Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#1",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T12:09:04Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o#1",
       "title": "Yemen's government announces all-out war to reclaim land from Houthis",
       "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
       "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-04T16:51:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo#1",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T13:33:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo#1",
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T14:25:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o#1",
-      "title": "Indian police accused of sexually harassing journalists at protest",
-      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T17:01:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o#1",
@@ -103,46 +124,25 @@
       "publishedAt": "2026-10-04T16:24:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o#2",
-      "title": "Why Canada is wargaming a (long shot) US invasion",
-      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T23:30:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5pve834grpno#2",
+      "title": "How India became dangerously addicted to Chinese imports",
+      "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T01:42:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo#2",
-      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
-      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T23:37:46Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo#2",
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T08:08:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#2",
-      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-      "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
-      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T23:37:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c69qzvggzppro#3",
-      "title": "Rare tornado whips through small Australian town",
-      "description": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
-      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T04:15:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo#3",
-      "title": "Why has Brazil accused the US of election interference?",
-      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T13:52:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo#3",
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T12:26:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo#2",
+      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+      "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
+      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T11:10:28Z"
     }
   ]
 }
