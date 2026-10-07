@@ -2,45 +2,45 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-07T13:28:45.991499Z",
+  "updatedAt": "2026-10-07T20:38:33.907345Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko#0",
       "title": "France halts use of stun grenades after boy's hand blown off in student protests",
       "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
       "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T12:16:58Z"
+      "publishedAt": "2026-10-07T17:47:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko#0",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "description": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T10:12:36Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o#0",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T16:00:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o#0",
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "description": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T05:02:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko#0",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T19:30:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o#0",
       "title": "Trump to speak to Putin about plague lab worker's death in Russia",
       "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
       "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T12:58:03Z"
+      "publishedAt": "2026-10-07T18:27:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo#0",
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
-      "description": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "description": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
       "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T13:02:17Z"
+      "publishedAt": "2026-10-07T18:12:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o#0",
+      "id": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o#1",
       "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
       "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
       "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
@@ -75,27 +75,6 @@
       "publishedAt": "2026-10-07T07:37:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo#1",
-      "title": "California pair charged with abusing at least 14 surrogate-born children",
-      "description": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
-      "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T09:38:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crpdgvx82831o#1",
-      "title": "India's opposition leader dragged on to bus as police break up protest",
-      "description": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T07:45:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq9868z88rexo#1",
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
-      "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T23:07:44Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o#1",
       "title": "What is pneumonic plague and how does it spread?",
       "description": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
@@ -103,8 +82,15 @@
       "publishedAt": "2026-10-06T15:35:22Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo#1",
+      "title": "California pair charged with abusing at least 14 surrogate-born children",
+      "description": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T09:38:00Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#2",
-      "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+      "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
       "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-07T10:01:47Z"
@@ -143,6 +129,20 @@
       "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
       "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T23:42:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cwm26078pkepo#3",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T21:22:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c8e36y796enno#3",
+      "title": "Watch: How Russia responded to US after plague researcher death",
+      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T13:32:42Z"
     }
   ]
 }
