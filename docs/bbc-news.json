@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-07T06:04:07.171611Z",
+  "updatedAt": "2026-10-07T13:28:45.991499Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko#0",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T12:16:58Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko#0",
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "description": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
       "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T00:56:59Z"
+      "publishedAt": "2026-10-07T10:12:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o#0",
@@ -19,67 +26,88 @@
       "publishedAt": "2026-10-07T05:02:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o#0",
-      "title": "What is pneumonic plague and how does it spread?",
-      "description": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T15:35:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o#0",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T12:58:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo#0",
-      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-      "description": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T19:53:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo#0",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+      "description": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T13:02:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq9868z88rexo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o#0",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T09:49:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#1",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T11:51:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o#1",
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "description": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T12:46:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o#1",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "description": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T12:09:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo#1",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "description": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+      "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T07:37:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo#1",
+      "title": "California pair charged with abusing at least 14 surrogate-born children",
+      "description": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T09:38:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crpdgvx82831o#1",
+      "title": "India's opposition leader dragged on to bus as police break up protest",
+      "description": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T07:45:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq9868z88rexo#1",
       "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
       "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
       "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T23:07:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o#0",
-      "title": "Former Australian bishop jailed for sexually abusing young men",
-      "description": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T04:22:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o#1",
+      "title": "What is pneumonic plague and how does it spread?",
+      "description": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T15:35:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o#1",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T18:03:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego#1",
-      "title": "Pornhub returns to Australia but only for adults with Apple devices",
-      "description": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T04:39:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o#1",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T10:05:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#1",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T11:24:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#1",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T20:15:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#2",
+      "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+      "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T10:01:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck054zm1701qo#2",
@@ -97,7 +125,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo#2",
-      "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
       "description": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
       "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T20:40:01Z"
@@ -110,39 +138,11 @@
       "publishedAt": "2026-10-06T18:42:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o#2",
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "description": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T09:48:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cwm26078pkepo#3",
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
-      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T21:22:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c8e36y796enno#3",
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
-      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T13:32:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o#3",
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T09:03:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo#3",
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T04:51:24Z"
+      "id": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo#3",
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T23:42:35Z"
     }
   ]
 }
