@@ -2,8 +2,22 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-08T18:52:11.111375Z",
+  "updatedAt": "2026-10-09T01:14:06.415522Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo#0",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T23:11:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#0",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "description": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T23:35:57Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c875pwq134l3o#0",
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
@@ -19,39 +33,67 @@
       "publishedAt": "2026-10-08T15:02:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o#0",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T18:17:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o#0",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T19:10:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo#0",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T14:33:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo#1",
       "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
       "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
       "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T17:38:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo#0",
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T11:31:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o#0",
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T12:32:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo#1",
       "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
       "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T17:16:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo#1",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T20:38:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo#1",
       "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
       "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T12:04:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o#1",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T12:32:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo#1",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T11:31:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no#1",
@@ -61,13 +103,6 @@
       "publishedAt": "2026-10-08T16:24:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o#1",
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T18:17:28Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo#1",
       "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
       "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
@@ -75,18 +110,18 @@
       "publishedAt": "2026-10-08T12:11:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo#1",
-      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "description": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T14:10:58Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo#1",
       "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
       "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
       "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T16:23:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo#1",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "description": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T14:10:58Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo#1",
@@ -108,41 +143,6 @@
       "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
       "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T07:15:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o#1",
-      "title": "France's school protests: What lies behind the anger",
-      "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T03:38:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo#1",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T16:54:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo#1",
-      "title": "Bear kills man in home attack near Mongolian capital",
-      "description": "Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T11:52:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo#1",
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T03:02:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o#1",
-      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-      "description": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T23:18:40Z"
     }
   ]
 }
