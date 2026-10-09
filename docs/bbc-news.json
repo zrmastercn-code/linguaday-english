@@ -2,56 +2,112 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-09T10:37:40.216152Z",
+  "updatedAt": "2026-10-09T18:22:37.393559Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo#0",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T17:43:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o#0",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "description": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T17:37:10Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#0",
       "title": "Firing squad execution to be livestreamed, Pentagon says",
       "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T09:29:52Z"
+      "publishedAt": "2026-10-09T16:29:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo#0",
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T09:43:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro#0",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T17:14:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko#0",
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "description": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T09:09:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo#0",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T16:32:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o#1",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T15:24:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo#1",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "description": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T17:36:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo#1",
       "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
       "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T23:11:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko#0",
-      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
-      "description": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T09:09:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o#0",
-      "title": "ICE agent shoots man in New York City",
-      "description": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
-      "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T04:26:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6vg98lw017po#1",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "description": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T11:35:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#1",
       "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
       "description": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
       "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T10:07:04Z"
+      "publishedAt": "2026-10-09T13:50:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do#1",
-      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-      "description": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T04:53:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o#1",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "description": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T10:54:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo#1",
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "description": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T11:44:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o#1",
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "description": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T14:25:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo#1",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T08:28:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo#1",
@@ -68,13 +124,6 @@
       "publishedAt": "2026-10-09T09:30:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo#1",
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T08:28:57Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o#1",
       "title": "Adidas sues Australian label White Fox over four stripes design",
       "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
@@ -82,67 +131,18 @@
       "publishedAt": "2026-10-09T03:36:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo#1",
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T14:33:23Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo#2",
+      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T09:43:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo#1",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T17:38:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo#1",
-      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-      "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T12:04:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o#1",
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T12:32:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo#1",
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T17:16:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo#1",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T20:38:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo#1",
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T11:31:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no#1",
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "description": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T16:24:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo#1",
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T12:11:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do#2",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "description": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T04:53:50Z"
     }
   ]
 }
