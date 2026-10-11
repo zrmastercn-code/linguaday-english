@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-10T21:46:56.875604Z",
+  "updatedAt": "2026-10-11T05:51:08.431408Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo#0",
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
       "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T19:28:28Z"
+      "publishedAt": "2026-10-11T01:41:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "description": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T03:57:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o#0",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T22:13:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o#0",
@@ -17,13 +31,6 @@
       "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T20:51:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T21:27:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o#0",
@@ -37,7 +44,7 @@
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
       "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T19:08:17Z"
+      "publishedAt": "2026-10-10T23:19:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo#0",
@@ -47,7 +54,14 @@
       "publishedAt": "2026-10-10T18:22:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#1",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T12:28:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#1",
       "title": "Woman injures three people in third Poland school knife attack in a week",
       "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
       "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
@@ -73,13 +87,6 @@
       "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
       "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T10:06:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#1",
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T12:28:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo#1",
@@ -131,18 +138,11 @@
       "publishedAt": "2026-10-09T17:14:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo#2",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T22:30:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o#2",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
-      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T04:51:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o#2",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T23:31:35Z"
     }
   ]
 }
