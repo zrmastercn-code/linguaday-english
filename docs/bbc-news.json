@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-11T05:51:08.431408Z",
+  "updatedAt": "2026-10-11T12:54:44.734881Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo#0",
@@ -12,46 +12,60 @@
       "publishedAt": "2026-10-11T01:41:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "description": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T03:57:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#0",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T12:52:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o#0",
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T22:13:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o#0",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T12:03:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o#0",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T20:51:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/c84g179n2393o#0",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T11:11:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro#0",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T05:05:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o#0",
+      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "description": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T12:08:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo#1",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T18:22:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o#1",
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T17:44:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#0",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T23:19:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo#0",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T18:22:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o#1",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T20:51:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#1",
@@ -73,13 +87,6 @@
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T15:23:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo#1",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T12:29:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#1",
@@ -136,13 +143,6 @@
       "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
       "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-09T17:14:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o#2",
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T23:31:35Z"
     }
   ]
 }
