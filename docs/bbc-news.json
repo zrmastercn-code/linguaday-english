@@ -2,56 +2,84 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-12T00:34:48.160308Z",
+  "updatedAt": "2026-10-12T10:55:12.018823Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o#0",
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T21:36:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0",
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T05:00:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#0",
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T22:45:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo#0",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "description": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:18:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#0",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T10:28:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o#0",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "description": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:13:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do#0",
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "description": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:13:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0",
+      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "description": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:48:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo#1",
+      "title": "Indian opposition leaders march to top court to demand election chief resign",
+      "description": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T06:42:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo#1",
+      "title": "Pupil arrested after two teachers shot at French school",
+      "description": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T10:33:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo#1",
+      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "description": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
+      "link": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:33:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo#1",
+      "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+      "description": "Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T10:04:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o#1",
       "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-11T17:27:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0",
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "description": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T21:12:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o#0",
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T12:03:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#0",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T14:38:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o#0",
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T19:08:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go#1",
@@ -68,60 +96,18 @@
       "publishedAt": "2026-10-11T15:32:23Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#1",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T14:38:10Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#1",
       "title": "Pope Leo to have surgery after lump found on lung",
       "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
       "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-11T13:38:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro#1",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T05:05:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo#1",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T18:22:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c84g179n2393o#1",
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T11:11:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o#1",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T17:44:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#1",
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T12:28:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#1",
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T14:58:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo#1",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T15:23:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o#2",
@@ -140,9 +126,23 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o#2",
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and civilian resistance.",
       "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T22:13:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o#2",
+      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+      "description": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T09:17:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o#2",
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T04:51:57Z"
     }
   ]
 }
