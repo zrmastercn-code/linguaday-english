@@ -2,49 +2,98 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-13T16:57:49.882002Z",
+  "updatedAt": "2026-10-13T22:47:47.282678Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#0",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T20:46:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#0",
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T21:42:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o#0",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T15:52:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T22:29:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo#0",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T19:51:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o#0",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T18:25:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo#0",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T19:23:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#1",
+      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+      "description": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T17:10:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#1",
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
       "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T05:02:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#0",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "description": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T15:38:03Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko#1",
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
+      "description": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T17:36:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn045en7d88o#0",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T08:03:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo#0",
+      "id": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo#1",
       "title": "Watch: Emergency calls from botched Christa Pike execution released",
       "description": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
       "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T12:03:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmn045en7d88o#1",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T08:03:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#1",
       "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
       "description": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
       "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T14:51:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#0",
-      "title": "Pope admitted to hospital for surgery to remove lump on his lung",
-      "description": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T16:21:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po#1",
@@ -54,67 +103,25 @@
       "publishedAt": "2026-10-13T12:13:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o#1",
-      "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-      "description": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T13:23:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o#2",
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "description": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T22:02:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno#1",
-      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-      "description": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
-      "link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T11:18:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o#2",
+      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "description": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T22:01:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo#1",
-      "title": "Ex-president named leader of new DR Congo rebel coalition",
-      "description": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T13:40:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo#1",
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T21:20:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o#1",
-      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "description": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T07:31:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo#1",
-      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-      "description": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-      "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T04:04:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko#1",
-      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "description": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T16:46:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#1",
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T05:00:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvp8glg97393o#1",
-      "title": "Immigration agents search congresswoman Ilhan Omar's home",
-      "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T10:37:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo#2",
+      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "description": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+      "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T22:07:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko#2",
@@ -131,18 +138,11 @@
       "publishedAt": "2026-10-12T22:30:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo#2",
-      "title": "Boardroom feud tests trusted Indian business empire",
-      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T23:10:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o#2",
-      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-      "description": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T05:02:57Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo#3",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "description": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T22:00:20Z"
     }
   ]
 }
