@@ -2,21 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-12T21:17:10.945807Z",
+  "updatedAt": "2026-10-13T06:49:16.318446Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#0",
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T05:02:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn045en7d88o#0",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T06:26:05Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo#0",
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
       "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T17:32:13Z"
+      "publishedAt": "2026-10-12T21:20:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo#0",
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T20:17:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#0",
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "description": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T02:26:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0",
@@ -26,25 +40,53 @@
       "publishedAt": "2026-10-12T05:00:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#0",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T20:54:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo#0",
+      "title": "The island where locals say data centres are taking their water",
+      "description": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T22:30:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko#0",
+      "id": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo#0",
+      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
+      "description": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
+      "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T04:04:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko#1",
       "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
       "description": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-12T16:46:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvp8glg97393o#0",
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "id": "https://www.bbc.co.uk/news/articles/cvp8glg97393o#1",
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
       "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T17:09:55Z"
+      "publishedAt": "2026-10-12T22:05:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#1",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "description": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T01:50:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no#1",
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "description": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T21:01:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#1",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T04:30:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo#1",
@@ -101,48 +143,6 @@
       "description": "Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-12T10:04:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o#1",
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T17:27:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go#1",
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T15:18:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o#1",
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T15:32:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#1",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T14:38:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#1",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T13:38:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o#2",
-      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-      "description": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T21:07:25Z"
     }
   ]
 }
