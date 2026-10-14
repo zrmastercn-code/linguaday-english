@@ -2,105 +2,126 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-14T11:57:14.942134Z",
+  "updatedAt": "2026-10-14T17:14:18.802089Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do#0",
-      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
       "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T11:32:07Z"
+      "publishedAt": "2026-10-14T13:11:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#0",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "description": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T11:17:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo#0",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T15:12:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#0",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T15:26:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo#0",
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "description": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "description": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
       "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T09:32:54Z"
+      "publishedAt": "2026-10-14T13:41:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#0",
-      "title": "Saudi employee charged with planting recording device in OpenAI office",
-      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T21:42:49Z"
+      "id": "https://www.bbc.co.uk/news/articles/crje5we583qwo#0",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T13:35:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx23y3d970vo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o#0",
+      "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+      "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T16:47:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo#0",
+      "title": "Kenya confirms second Ebola case as relative of country's first victim",
+      "description": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T16:23:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o#1",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "description": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T14:18:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crkg7q97z078o#1",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "description": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T15:34:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx23y3d970vo#1",
       "title": "Turkish police raid opposition TV station, halting live broadcasts",
       "description": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
       "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T10:50:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o#0",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T15:52:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T05:00:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
-      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
-      "description": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T11:33:24Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo#1",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "description": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T11:24:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo#1",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T19:23:28Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#1",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T21:42:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo#1",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T10:08:26Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o#1",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "description": "It comes as the prime minister meets President Zelensky at Downing Street.",
+      "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T15:56:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo#1",
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "description": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T23:31:10Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo#2",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T15:54:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1",
-      "title": "Lena Dunham's Girls to return for limited HBO run",
-      "description": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
-      "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T02:09:30Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo#2",
+      "title": "Are the European Women's World Cup play-offs working?",
+      "description": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T13:25:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo#1",
-      "title": "Russia arrests Japanese journalist on spying charges",
-      "description": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T08:00:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o#1",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T11:08:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#1",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "description": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T17:10:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o#2",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "description": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T23:26:54Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o#2",
@@ -117,32 +138,11 @@
       "publishedAt": "2026-10-13T22:01:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo#2",
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "description": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
-      "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T22:07:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo#2",
-      "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
-      "description": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
-      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T00:59:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko#2",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T13:27:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cmx280x092x7o#3",
-      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
-      "description": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
-      "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T09:25:03Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o#2",
+      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+      "description": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
+      "link": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T04:21:25Z"
     }
   ]
 }
