@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-14T17:14:18.802089Z",
+  "updatedAt": "2026-10-14T21:43:13.226709Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do#0",
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T13:11:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo#0",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T20:55:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#0",
+      "title": "Student protesters attack government buildings in Tirana",
+      "description": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T20:29:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo#0",
@@ -40,18 +47,18 @@
       "publishedAt": "2026-10-14T13:35:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o#0",
-      "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+      "id": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo#0",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "description": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T17:23:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o#1",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
       "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
       "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T16:47:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo#0",
-      "title": "Kenya confirms second Ebola case as relative of country's first victim",
-      "description": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T16:23:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o#1",
@@ -103,6 +110,13 @@
       "publishedAt": "2026-10-14T15:56:57Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo#2",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T19:52:04Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo#2",
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
@@ -129,20 +143,6 @@
       "description": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T22:02:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o#2",
-      "title": "Who's to blame for the toxic haze choking South East Asia?",
-      "description": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T22:01:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o#2",
-      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-      "description": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
-      "link": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T04:21:25Z"
     }
   ]
 }
