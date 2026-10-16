@@ -2,56 +2,84 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-16T11:28:38.019508Z",
+  "updatedAt": "2026-10-16T16:41:56.590749Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#0",
-      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "description": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T10:36:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvx284w16z1po#0",
+      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T16:00:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o#0",
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T08:27:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:31:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0",
+      "id": "https://www.bbc.co.uk/news/articles/c58jz174w89ro#0",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T15:59:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#0",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:36:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo#0",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T11:44:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo#0",
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:19:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o#1",
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:21:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#1",
       "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
       "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
       "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T05:00:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c58jz174w89ro#0",
-      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-      "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T10:37:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko#1",
+      "title": "Albanian protests turn violent: What we know",
+      "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:33:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo#1",
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:57:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#1",
       "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
       "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
       "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T08:45:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o#0",
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T10:28:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o#0",
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T22:37:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cked326llddgo#1",
@@ -73,6 +101,13 @@
       "description": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
       "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-15T23:27:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o#1",
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T22:37:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o#1",
@@ -108,41 +143,6 @@
       "description": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
       "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-15T08:41:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po#1",
-      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-      "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T16:15:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmq8n513x523o#1",
-      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-      "description": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T22:46:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo#1",
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-      "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T10:05:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o#1",
-      "title": "Obama says drift towards extremism 'not inevitable'",
-      "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
-      "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T10:51:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo#1",
-      "title": "Brazil's Congress approves shorter working week in win for Lula",
-      "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T10:05:17Z"
     }
   ]
 }
