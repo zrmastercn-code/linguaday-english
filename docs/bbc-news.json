@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-16T21:12:41.724333Z",
+  "updatedAt": "2026-10-16T23:38:05.800772Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvx284w16z1po#0",
@@ -12,11 +12,25 @@
       "publishedAt": "2026-10-16T16:00:30Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#0",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T23:07:38Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
       "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T14:31:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#0",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T23:07:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o#0",
@@ -30,7 +44,7 @@
       "title": "Pope pictured for first time since surgery and cancer diagnosis",
       "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T14:36:39Z"
+      "publishedAt": "2026-10-16T23:20:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo#0",
@@ -40,18 +54,18 @@
       "publishedAt": "2026-10-16T11:44:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o#0",
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T14:21:32Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#1",
       "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
       "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
       "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T05:00:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o#1",
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:21:32Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko#1",
@@ -129,20 +143,6 @@
       "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
       "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-15T14:51:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo#1",
-      "title": "White House defends new press secretary over her legal credentials",
-      "description": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T08:41:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po#1",
-      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-      "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T16:15:06Z"
     }
   ]
 }
