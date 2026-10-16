@@ -2,11 +2,11 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-16T16:41:56.590749Z",
+  "updatedAt": "2026-10-16T21:12:41.724333Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cvx284w16z1po#0",
-      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T16:00:30Z"
@@ -19,11 +19,11 @@
       "publishedAt": "2026-10-16T14:31:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c58jz174w89ro#0",
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T15:59:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o#0",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "description": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T19:33:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#0",
@@ -40,14 +40,7 @@
       "publishedAt": "2026-10-16T11:44:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo#0",
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T14:19:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o#1",
+      "id": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o#0",
       "title": "Dad fined after son, 2, died in Cyprus hotel fall",
       "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
       "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
@@ -143,6 +136,13 @@
       "description": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
       "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-15T08:41:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po#1",
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T16:15:06Z"
     }
   ]
 }
