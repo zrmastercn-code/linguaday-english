@@ -2,28 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-17T04:31:29.600229Z",
+  "updatedAt": "2026-10-17T10:48:27.569098Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T02:33:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T09:42:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#0",
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T01:19:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T02:48:36Z"
+      "publishedAt": "2026-10-17T09:58:17Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo#0",
@@ -40,6 +33,13 @@
       "publishedAt": "2026-10-16T16:00:30Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T02:33:09Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
@@ -48,10 +48,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o#0",
-      "title": "Katie Zacharia leaving her White House role less than five days on the job",
-      "description": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "title": "Katie Zacharia leaving White House role less than five days into job",
+      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
       "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T21:05:05Z"
+      "publishedAt": "2026-10-17T09:14:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo#1",
+      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "description": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T05:01:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do#1",
@@ -68,11 +75,11 @@
       "publishedAt": "2026-10-16T23:07:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#1",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T23:20:37Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o#1",
+      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T00:38:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o#1",
@@ -110,39 +117,32 @@
       "publishedAt": "2026-10-16T14:33:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo#1",
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T14:57:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko#2",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "description": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T01:18:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#1",
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T08:45:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo#2",
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T18:11:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cked326llddgo#1",
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T15:26:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o#2",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T00:41:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo#1",
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T17:47:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo#1",
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "description": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T23:27:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo#2",
+      "title": "What we learned from heated US midterm Senate debates",
+      "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T19:09:37Z"
     }
   ]
 }
