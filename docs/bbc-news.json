@@ -2,15 +2,8 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-18T20:47:02.498547Z",
+  "updatedAt": "2026-10-18T23:15:44.641105Z",
   "items": [
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no#0",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T12:07:31Z"
-    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o#0",
       "title": "Macron calls for 'calm and order' after riots across France",
@@ -23,7 +16,21 @@
       "title": "What we know so far about deadly fire at Canadian military base",
       "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
       "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T19:42:37Z"
+      "publishedAt": "2026-10-18T21:37:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo#0",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T22:10:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c84g166kz003o#0",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T21:00:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o#0",
@@ -33,18 +40,25 @@
       "publishedAt": "2026-10-18T15:46:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o#0",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T05:04:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo#0",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T19:53:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-18T12:16:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo#1",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T13:47:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#1",
@@ -59,13 +73,6 @@
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-17T20:53:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo#1",
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T13:47:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko#1",
@@ -103,25 +110,11 @@
       "publishedAt": "2026-10-17T13:51:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo#1",
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T03:11:10Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#1",
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
       "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
       "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-17T02:33:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o#1",
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T09:14:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo#2",
@@ -143,6 +136,13 @@
       "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T18:11:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o#2",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T00:41:58Z"
     }
   ]
 }
