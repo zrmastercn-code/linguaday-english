@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-18T11:10:47.412834Z",
+  "updatedAt": "2026-10-18T15:54:04.980217Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no#0",
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T10:53:54Z"
+      "publishedAt": "2026-10-18T12:07:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo#0",
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T22:09:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o#0",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T15:46:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o#0",
@@ -30,14 +30,7 @@
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T23:52:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo#0",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T08:52:41Z"
+      "publishedAt": "2026-10-18T12:16:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
@@ -52,6 +45,13 @@
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-17T20:53:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo#1",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T13:47:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko#1",
@@ -110,6 +110,13 @@
       "publishedAt": "2026-10-17T09:14:10Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo#2",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T22:09:50Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko#2",
       "title": "The uncertain future of Canada's 30 rescued belugas",
       "description": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
@@ -136,13 +143,6 @@
       "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T23:07:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo#2",
-      "title": "What we learned from heated US midterm Senate debates",
-      "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
-      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T19:09:37Z"
     }
   ]
 }
