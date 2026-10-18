@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-18T15:54:04.980217Z",
+  "updatedAt": "2026-10-18T20:47:02.498547Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no#0",
@@ -10,6 +10,20 @@
       "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-18T12:07:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o#0",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T20:33:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do#0",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T19:42:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o#0",
@@ -33,14 +47,14 @@
       "publishedAt": "2026-10-18T12:16:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#1",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-18T01:10:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crwydey50xeno#0",
+      "id": "https://www.bbc.co.uk/news/articles/crwydey50xeno#1",
       "title": "Anti-government protesters battle with police in Albania",
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
@@ -129,20 +143,6 @@
       "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T18:11:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o#2",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T00:41:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#2",
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T23:07:18Z"
     }
   ]
 }
