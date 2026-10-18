@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-17T23:09:04.161305Z",
+  "updatedAt": "2026-10-18T04:38:14.141411Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo#0",
@@ -12,18 +12,25 @@
       "publishedAt": "2026-10-17T20:52:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T19:19:19Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T18:38:57Z"
+      "publishedAt": "2026-10-17T23:52:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo#0",
+      "title": "Deadly fire breaks out at Canada military base",
+      "description": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T04:00:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T01:10:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crwydey50xeno#0",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-10-17T22:09:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#1",
       "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
       "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-17T00:41:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#2",
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T23:07:18Z"
     }
   ]
 }
