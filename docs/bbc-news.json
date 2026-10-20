@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-20T00:23:04.422052Z",
+  "updatedAt": "2026-10-20T08:36:13.307405Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo#0",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T21:14:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo#0",
+      "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
+      "description": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T06:35:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o#0",
@@ -19,25 +19,46 @@
       "publishedAt": "2026-10-19T20:49:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o#0",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T02:45:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo#0",
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T03:10:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o#1",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T19:45:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo#1",
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
       "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T17:18:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o#1",
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "description": "The two top tennis pros married in 2021 and have one child together.",
       "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T21:02:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo#0",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T23:08:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro#1",
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "description": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T16:46:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#1",
@@ -61,18 +82,18 @@
       "publishedAt": "2026-10-19T16:20:51Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo#1",
+      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
+      "description": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T16:16:51Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo#1",
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "description": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
       "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T14:13:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo#1",
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "description": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T16:16:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o#1",
@@ -86,7 +107,7 @@
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
       "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
       "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T18:22:48Z"
+      "publishedAt": "2026-10-20T01:52:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#1",
@@ -122,27 +143,6 @@
       "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
       "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T08:17:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo#1",
-      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-      "description": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T07:35:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo#2",
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "description": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T16:32:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o#2",
-      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-      "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T23:30:03Z"
     }
   ]
 }
