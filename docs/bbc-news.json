@@ -2,35 +2,77 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-20T08:36:13.307405Z",
+  "updatedAt": "2026-10-20T14:19:36.588955Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo#0",
-      "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
-      "description": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
+      "id": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo#0",
+      "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
+      "description": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T13:51:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno#0",
+      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T12:08:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno#0",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T11:25:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo#0",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T11:45:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo#0",
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T13:23:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo#0",
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T08:53:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo#1",
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T03:10:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo#1",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T06:35:57Z"
+      "publishedAt": "2026-10-20T12:45:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o#0",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T20:49:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o#1",
       "title": "Seventh day of violent clashes between Albanian protesters and police",
       "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
       "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T02:45:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo#0",
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T03:10:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvrly550780po#1",
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "description": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
+      "link": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T11:09:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o#1",
@@ -38,13 +80,6 @@
       "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T19:45:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo#1",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T17:18:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o#1",
@@ -56,14 +91,14 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro#1",
       "title": "Vinted blocks French looters listing stolen goods for sale",
-      "description": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "description": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
       "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T16:46:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#1",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+      "description": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T21:12:30Z"
     },
@@ -76,10 +111,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#1",
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
       "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T16:20:51Z"
+      "publishedAt": "2026-10-20T14:09:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo#1",
@@ -108,41 +143,6 @@
       "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
       "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T01:52:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#1",
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T09:11:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o#1",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "description": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T14:06:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo#1",
-      "title": "Italy plans tougher security measures after violent protests",
-      "description": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T11:23:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo#1",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T23:20:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmde83w13p00o#1",
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T08:17:19Z"
     }
   ]
 }
