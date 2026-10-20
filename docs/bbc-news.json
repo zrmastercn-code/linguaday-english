@@ -2,21 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-19T20:36:07.121451Z",
+  "updatedAt": "2026-10-20T00:23:04.422052Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0",
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T14:09:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo#0",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T21:14:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o#0",
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T20:13:27Z"
+      "publishedAt": "2026-10-19T20:49:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo#0",
@@ -26,21 +26,28 @@
       "publishedAt": "2026-10-19T17:18:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "id": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o#0",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "description": "The two top tennis pros married in 2021 and have one child together.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T21:02:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo#0",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T23:08:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#1",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "description": "The Saudi government did not immediately respond to BBC requests for comment.",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T16:22:12Z"
+      "publishedAt": "2026-10-19T21:12:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo#0",
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T13:44:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3lylj78777do#0",
+      "id": "https://www.bbc.co.uk/news/articles/c3lylj78777do#1",
       "title": "Exiled critic of Rwandan president found beheaded",
       "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
       "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
@@ -124,25 +131,18 @@
       "publishedAt": "2026-10-19T07:35:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo#2",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T00:06:25Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo#2",
       "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "description": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "description": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
       "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T16:32:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o#2",
-      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "description": "France is used to protests but the violence and damage seen across the country is shocking many people.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T15:21:03Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o#2",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T23:30:03Z"
     }
   ]
 }
