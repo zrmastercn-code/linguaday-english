@@ -2,28 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-21T11:54:15.627943Z",
+  "updatedAt": "2026-10-21T17:15:13.195062Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o#0",
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "description": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T11:39:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o#0",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "description": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T16:38:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro#0",
-      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
-      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T20:00:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o#0",
-      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T06:50:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo#0",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T14:04:28Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o#0",
@@ -47,18 +40,39 @@
       "publishedAt": "2026-10-21T05:46:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#0",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "description": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T08:31:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0",
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T16:58:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo#1",
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "description": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T12:39:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo#1",
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T17:30:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#1",
-      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-      "description": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T08:31:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro#1",
+      "title": "Trump and Zelensky at loggerheads despite new optimism",
+      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T20:00:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo#1",
@@ -129,20 +143,6 @@
       "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
       "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T02:45:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o#1",
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "description": "The two top tennis pros married in 2021 and have one child together.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T21:02:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro#1",
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "description": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T16:46:35Z"
     }
   ]
 }
