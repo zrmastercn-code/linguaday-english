@@ -2,21 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-20T23:54:53.156124Z",
+  "updatedAt": "2026-10-21T04:53:19.962708Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o#0",
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
       "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T21:27:39Z"
+      "publishedAt": "2026-10-21T03:59:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno#0",
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T12:08:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o#0",
+      "title": "France is divided over who to blame for weekend riots and what to learn from them",
+      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T01:22:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#0",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T23:24:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno#0",
@@ -33,25 +40,18 @@
       "publishedAt": "2026-10-20T20:00:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo#0",
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T16:59:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo#0",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T22:22:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o#0",
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T19:30:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo#0",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T11:45:49Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo#0",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T17:30:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo#1",
@@ -61,11 +61,18 @@
       "publishedAt": "2026-10-20T15:58:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo#1",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T17:30:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o#1",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T19:30:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo#1",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T11:45:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo#1",
@@ -87,6 +94,13 @@
       "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
       "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T13:23:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro#1",
+      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+      "description": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T19:08:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o#1",
@@ -129,20 +143,6 @@
       "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
       "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T13:42:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#1",
-      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-      "description": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T14:09:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo#1",
-      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
-      "description": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T16:16:51Z"
     }
   ]
 }
