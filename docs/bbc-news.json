@@ -2,21 +2,49 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-21T21:44:55.151635Z",
+  "updatedAt": "2026-10-22T04:53:01.731056Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T19:54:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T03:48:50Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o#0",
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T21:27:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo#0",
       "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
       "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T19:58:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o#0",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T01:07:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o#0",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:54:58Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo#0",
@@ -26,32 +54,60 @@
       "publishedAt": "2026-10-21T14:04:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo#1",
+      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T04:02:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn06g29522lo#1",
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T03:05:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx287g8714lo#1",
+      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+      "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:20:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo#1",
       "title": "Pope does not need further treatment after lung cancer surgery",
       "description": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
       "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T20:09:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo#1",
       "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
       "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
       "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T18:10:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o#1",
+      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+      "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T20:19:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck20rver1j31o#1",
       "title": "Family of prison officer killed by IRA receives state apology",
       "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
       "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T16:58:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o#0",
-      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-      "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T20:19:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o#1",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "description": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:59:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo#1",
@@ -65,7 +121,7 @@
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T19:54:16Z"
+      "publishedAt": "2026-10-21T21:49:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo#1",
@@ -87,62 +143,6 @@
       "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T08:42:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#1",
-      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-      "description": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T08:31:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo#1",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T17:30:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro#1",
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T20:00:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo#1",
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T22:22:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo#1",
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "description": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T15:58:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o#1",
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T19:30:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo#1",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T11:45:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo#1",
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T03:10:39Z"
     }
   ]
 }
