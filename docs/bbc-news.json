@@ -2,68 +2,103 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-22T04:53:01.731056Z",
+  "updatedAt": "2026-10-22T11:57:16.595780Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0",
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T19:54:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo#0",
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T09:47:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T03:48:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#0",
+      "title": "At least four dead after storm brings flooding to southern France",
+      "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T11:23:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o#0",
+      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "description": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T10:17:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo#0",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "description": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T11:13:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr3wv99614deo#0",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T10:16:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#0",
+      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "description": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T09:14:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#1",
+      "title": "First human case of Shamonda virus detected in France, officials say",
+      "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T11:04:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o#1",
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
       "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T21:27:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo#0",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T19:58:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo#1",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "description": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T09:27:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o#0",
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T01:07:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o#0",
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T22:54:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo#1",
       "title": "Macron accuses foreign leaders of exploiting French riots",
       "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T14:04:28Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo#1",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T21:49:07Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo#1",
-      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
       "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
       "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T04:02:29Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o#1",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:54:58Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmn06g29522lo#1",
       "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+      "description": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
       "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T03:05:28Z"
     },
@@ -108,41 +143,6 @@
       "description": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
       "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T22:59:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo#1",
-      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-      "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T05:46:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo#1",
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T21:49:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo#1",
-      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-      "description": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-      "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T19:29:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c674p0xepljeo#1",
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "description": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
-      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T18:22:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#1",
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T08:42:49Z"
     }
   ]
 }
