@@ -2,42 +2,84 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-23T04:55:18.312776Z",
+  "updatedAt": "2026-10-23T11:43:10.994423Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#0",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "description": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T11:01:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "description": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:26:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o#0",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "description": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T08:45:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#0",
+      "title": "At least one dead and four injured in Paris suburb shooting",
+      "description": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T11:09:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo#0",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:14:37Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo#0",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T23:16:16Z"
+      "publishedAt": "2026-10-23T10:23:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#0",
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T21:42:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo#0",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:14:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o#1",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "description": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T05:16:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o#1",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T01:38:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#1",
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T15:56:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo#0",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-      "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T22:27:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o#0",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T01:38:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo#1",
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "description": "This is President Peter Mutharika's fifth visit to South Africa this year.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:36:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o#1",
@@ -47,6 +89,13 @@
       "publishedAt": "2026-10-22T17:12:51Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo#1",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+      "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T22:27:53Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego#1",
       "title": "Crowd of 50 beats foreigner to death in South Africa",
       "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
@@ -54,95 +103,46 @@
       "publishedAt": "2026-10-22T16:15:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo#1",
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T17:07:03Z"
+      "id": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o#2",
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
+      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T11:30:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#1",
-      "title": "At least four dead after storm brings flooding to southern France",
-      "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T11:23:16Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo#2",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
+      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T05:05:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go#1",
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "description": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T17:01:47Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o#2",
+      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+      "description": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
+      "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T20:48:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o#1",
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T19:25:26Z"
+      "id": "https://www.bbc.co.uk/news/videos/c9146p1vx888o#2",
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "description": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T17:49:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o#1",
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "description": "The teacher said she could not help children because she was badly injured by the attacker.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T14:09:54Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do#2",
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "description": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
+      "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T15:11:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo#1",
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T19:27:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cky83vwnyglno#1",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T18:26:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o#1",
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "description": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T17:21:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo#1",
-      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-      "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
-      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T09:47:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#1",
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "description": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T13:46:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o#1",
-      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
-      "description": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
-      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T13:36:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do#1",
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T14:08:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr3wv99614deo#1",
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T10:16:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o#3",
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "description": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T09:23:53Z"
     }
   ]
 }
