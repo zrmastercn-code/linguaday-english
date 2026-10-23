@@ -2,56 +2,91 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-23T11:43:10.994423Z",
+  "updatedAt": "2026-10-23T17:11:28.098654Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#0",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "description": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T11:01:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#0",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T16:17:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o#0",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T16:33:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "description": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T10:26:06Z"
+      "publishedAt": "2026-10-23T15:37:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o#0",
-      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "description": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
-      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T08:45:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo#0",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T16:59:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#0",
-      "title": "At least one dead and four injured in Paris suburb shooting",
-      "description": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T11:09:36Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#0",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "description": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T16:19:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o#0",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "description": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T15:30:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o#0",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "description": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T12:17:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po#1",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "description": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T14:18:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo#1",
       "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
       "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
       "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T10:14:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo#0",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T10:23:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo#1",
       "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
       "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
       "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T10:14:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o#1",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "description": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T08:45:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o#1",
+      "title": "US justice department investigating Corey Lewandowski over DHS role",
+      "description": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T14:58:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o#1",
@@ -59,6 +94,13 @@
       "description": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T05:16:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo#1",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:23:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o#1",
@@ -101,48 +143,6 @@
       "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
       "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T16:15:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o#2",
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
-      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T11:30:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo#2",
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
-      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T05:05:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o#2",
-      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-      "description": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
-      "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T20:48:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c9146p1vx888o#2",
-      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "description": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
-      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T17:49:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do#2",
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "description": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T15:11:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o#3",
-      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-      "description": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T09:23:53Z"
     }
   ]
 }
