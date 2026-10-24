@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-24T11:05:52.782409Z",
+  "updatedAt": "2026-10-24T15:59:19.470719Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go#0",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T12:12:40Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#0",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T10:22:34Z"
+      "publishedAt": "2026-10-24T15:21:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo#0",
@@ -19,6 +26,13 @@
       "publishedAt": "2026-10-23T22:47:07Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o#0",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "description": "The children were subsequently rescued from the water, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:45:47Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm1dwz311476o#0",
       "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
       "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
@@ -26,25 +40,39 @@
       "publishedAt": "2026-10-23T23:08:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#0",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T00:36:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo#0",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:46:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#1",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T14:45:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv0ld9571511o#1",
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:38:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno#1",
       "title": "Australian MP's condition improves after alleged car attack",
       "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T01:55:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo#0",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T09:46:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#1",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T00:36:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o#1",
@@ -115,34 +143,6 @@
       "description": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
       "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T15:30:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo#2",
-      "title": "Who actually controls Ukraine's access to Starlink?",
-      "description": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
-      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T22:24:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o#2",
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T11:30:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo#2",
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
-      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T05:05:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o#2",
-      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-      "description": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
-      "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T20:48:56Z"
     }
   ]
 }
