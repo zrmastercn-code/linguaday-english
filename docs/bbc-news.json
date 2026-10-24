@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-24T15:59:19.470719Z",
+  "updatedAt": "2026-10-24T20:52:45.734472Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go#0",
@@ -10,6 +10,13 @@
       "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T12:12:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T17:21:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#0",
@@ -28,30 +35,16 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o#0",
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "description": "The children were subsequently rescued from the water, police say.",
+      "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
       "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T09:45:47Z"
+      "publishedAt": "2026-10-24T17:11:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm1dwz311476o#0",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T23:08:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo#0",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T09:46:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#1",
+      "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#0",
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T14:45:30Z"
+      "publishedAt": "2026-10-24T19:12:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cv0ld9571511o#1",
@@ -61,11 +54,25 @@
       "publishedAt": "2026-10-24T09:38:28Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo#1",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:46:53Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno#1",
       "title": "Australian MP's condition improves after alleged car attack",
       "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T01:55:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm1dwz311476o#1",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T23:08:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#1",
@@ -76,10 +83,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o#1",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "description": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
+      "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T09:44:01Z"
+      "publishedAt": "2026-10-24T17:25:46Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c678pv4krx37o#1",
@@ -108,13 +115,6 @@
       "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
       "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T19:46:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#1",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T15:37:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo#1",
