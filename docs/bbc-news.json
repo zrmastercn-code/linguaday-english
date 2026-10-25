@@ -2,28 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-25T16:26:02.345239Z",
+  "updatedAt": "2026-10-25T20:53:55.948881Z",
   "items": [
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T05:15:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#0",
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T16:05:15Z"
-    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#0",
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T09:00:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#0",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T18:29:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#0",
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "description": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T19:55:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#0",
@@ -33,11 +33,11 @@
       "publishedAt": "2026-10-25T15:32:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo#0",
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T10:55:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T05:15:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo#0",
@@ -47,11 +47,18 @@
       "publishedAt": "2026-10-25T14:39:47Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo#1",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T10:55:33Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#1",
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
       "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T03:20:16Z"
+      "publishedAt": "2026-10-25T19:14:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo#1",
@@ -136,13 +143,6 @@
       "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T17:25:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c678pv4krx37o#1",
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "description": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T18:49:14Z"
     }
   ]
 }
