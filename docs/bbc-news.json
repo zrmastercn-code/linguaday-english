@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-25T20:53:55.948881Z",
+  "updatedAt": "2026-10-25T23:17:34.808983Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#0",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T09:00:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:54:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#0",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:11:13Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#0",
@@ -19,11 +26,11 @@
       "publishedAt": "2026-10-25T18:29:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#0",
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "description": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T19:55:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#0",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T09:00:00Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#0",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-10-25T05:15:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo#1",
       "title": "Gabon says access to social media restored after eight-month ban",
       "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T00:36:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o#1",
-      "title": "Two rescued after Nairobi building collapse with five still missing",
-      "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
-      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:25:46Z"
     }
   ]
 }
