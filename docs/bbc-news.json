@@ -2,15 +2,8 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-25T11:35:51.634435Z",
+  "updatedAt": "2026-10-25T16:26:02.345239Z",
   "items": [
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0",
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T10:38:15Z"
-    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -19,11 +12,11 @@
       "publishedAt": "2026-10-25T05:15:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o#0",
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T11:00:26Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#0",
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T16:05:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#0",
@@ -33,32 +26,32 @@
       "publishedAt": "2026-10-25T09:00:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#0",
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T03:20:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#0",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T15:32:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#0",
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T15:21:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#0",
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:12:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo#1",
+      "id": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo#0",
       "title": "El Salvador president says bodies found in Haiti are not those of hostages",
       "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
       "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T10:55:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo#0",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T14:39:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#1",
+      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T03:20:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo#1",
@@ -68,11 +61,25 @@
       "publishedAt": "2026-10-25T02:27:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o#1",
-      "title": "Mum who died trying to save sons was hero, husband says",
-      "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:11:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T10:38:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#1",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T19:12:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#1",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T15:21:44Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo#1",
@@ -136,13 +143,6 @@
       "description": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
       "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T18:49:14Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck20rery78lro#1",
-      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-      "description": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T05:31:01Z"
     }
   ]
 }
