@@ -2,14 +2,49 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-26T13:08:42.107391Z",
+  "updatedAt": "2026-10-26T20:30:45.877911Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo#0",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T20:00:30Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T12:52:16Z"
+      "publishedAt": "2026-10-26T14:34:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo#0",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T19:27:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#0",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T16:27:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o#0",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T15:46:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo#0",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:13:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#0",
@@ -19,81 +54,74 @@
       "publishedAt": "2026-10-26T05:20:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo#1",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T19:16:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko#1",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "description": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T17:00:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o#1",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:27:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o#1",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "description": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T16:31:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo#1",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "description": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:16:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o#1",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "description": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T15:45:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go#1",
       "title": "Australian murderer loses bid to eat Vegemite in prison",
       "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
       "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T04:05:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o#0",
-      "title": "Nurse killed in Ebola attack in DR Congo",
-      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T12:57:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#1",
       "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
       "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
       "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T06:16:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#0",
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T23:33:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o#1",
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:54:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#1",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T22:11:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o#1",
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T14:34:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#1",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T15:32:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo#1",
-      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
-      "description": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T00:07:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#1",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T09:00:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#1",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T05:15:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo#1",
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T14:39:47Z"
+      "id": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo#2",
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "description": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T18:00:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo#2",
@@ -115,34 +143,6 @@
       "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
       "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T22:05:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#2",
-      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
-      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:37:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#2",
-      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T15:56:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o#3",
-      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-      "description": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
-      "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T11:39:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo#3",
-      "title": "Five ways Trump has changed immigration in the US",
-      "description": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
-      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T11:29:02Z"
     }
   ]
 }
