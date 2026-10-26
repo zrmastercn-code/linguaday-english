@@ -2,45 +2,87 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-26T04:51:28.499173Z",
+  "updatedAt": "2026-10-26T13:08:42.107391Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T01:07:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#0",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T22:11:13Z"
+      "publishedAt": "2026-10-26T12:52:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#0",
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T03:05:22Z"
+      "publishedAt": "2026-10-26T05:20:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#0",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T09:00:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go#0",
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T04:05:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#0",
+      "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o#0",
+      "title": "Nurse killed in Ebola attack in DR Congo",
+      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T12:57:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#0",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T06:16:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#0",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T23:33:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#1",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:11:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o#1",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T14:34:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#1",
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T15:32:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
+      "id": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo#1",
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "description": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T00:07:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#1",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T09:00:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#1",
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
       "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
@@ -54,95 +96,53 @@
       "publishedAt": "2026-10-25T14:39:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo#1",
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T10:55:33Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo#2",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T02:53:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#1",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T19:14:27Z"
+      "id": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo#2",
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "description": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
+      "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T09:31:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo#1",
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "description": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T02:27:15Z"
+      "id": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo#2",
+      "title": "Why Israel's election is one of the most important in its history",
+      "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:05:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1",
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T10:38:15Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#2",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T19:37:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#1",
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:12:51Z"
+      "id": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#2",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T15:56:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#1",
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T15:21:44Z"
+      "id": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o#3",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "description": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T11:39:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo#1",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T09:46:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno#1",
-      "title": "Australian MP's condition improves after alleged car attack",
-      "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T01:55:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo#1",
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
-      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T23:02:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cv0ld9571511o#1",
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T09:38:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo#1",
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "description": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T22:47:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm1dwz311476o#1",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T23:08:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#1",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T00:36:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo#3",
+      "title": "Five ways Trump has changed immigration in the US",
+      "description": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T11:29:02Z"
     }
   ]
 }
