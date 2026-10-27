@@ -2,56 +2,63 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-27T00:28:17.585167Z",
+  "updatedAt": "2026-10-27T09:03:22.500937Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo#0",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T21:02:47Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "description": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T05:45:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:34:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o#0",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "description": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T01:46:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo#0",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T19:27:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#0",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "description": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T08:01:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#0",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:27:17Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T02:40:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o#0",
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T15:46:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#0",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "description": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T02:01:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo#0",
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:13:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo#0",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "description": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T05:05:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#0",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T05:20:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo#0",
+      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+      "description": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T07:15:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o#1",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "description": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T04:43:56Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo#1",
@@ -61,60 +68,53 @@
       "publishedAt": "2026-10-26T21:31:53Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko#1",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "description": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T17:00:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo#1",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T19:27:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o#1",
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:27:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#1",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:34:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o#1",
-      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-      "description": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:31:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#1",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T16:27:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo#1",
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "description": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
-      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:16:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o#1",
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "description": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T18:46:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o#1",
-      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-      "description": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T15:45:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o#1",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T15:46:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go#1",
-      "title": "Australian murderer loses bid to eat Vegemite in prison",
-      "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T04:05:28Z"
+      "id": "https://www.bbc.co.uk/news/videos/c574p31l1l2no#2",
+      "title": "Why it could take time for a new Israeli government to form",
+      "description": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+      "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T08:37:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#1",
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T06:16:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o#1",
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:54:40Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o#2",
+      "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
+      "description": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
+      "link": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T07:22:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo#2",
@@ -138,11 +138,11 @@
       "publishedAt": "2026-10-26T09:31:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo#2",
-      "title": "Why Israel's election is one of the most important in its history",
-      "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
-      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T22:05:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o#3",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "description": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T00:31:11Z"
     }
   ]
 }
