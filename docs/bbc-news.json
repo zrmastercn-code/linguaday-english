@@ -2,8 +2,29 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-28T12:59:29.202065Z",
+  "updatedAt": "2026-10-28T20:17:59.761305Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#0",
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "description": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T18:42:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T16:59:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T14:30:31Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwj342k62exyo#0",
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -26,9 +47,9 @@
       "publishedAt": "2026-10-28T10:18:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmly073ql392o#0",
-      "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
-      "description": "No official reason has been given for postponing next month’s hearing to May 2027, family says.",
+      "id": "https://www.bbc.co.uk/news/articles/cmly073ql392o#1",
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "description": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
       "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-28T08:28:39Z"
     },
@@ -75,18 +96,32 @@
       "publishedAt": "2026-10-27T21:09:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro#1",
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T02:20:25Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#2",
+      "title": "How did Flávio Bolsonaro end up in Miami?",
+      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T18:51:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#2",
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T04:22:59Z"
+      "id": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo#2",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T16:45:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c893zeknlvnno#2",
+      "title": "Israel's election result is messy - here's why",
+      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T14:26:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o#2",
+      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+      "description": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
+      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T17:34:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro#2",
@@ -103,46 +138,11 @@
       "publishedAt": "2026-10-27T17:11:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo#2",
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T10:17:36Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#3",
       "title": "What we know so far about deadly Spain train crash",
       "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
       "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T12:14:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo#3",
-      "title": "China's families are now supporting more old people than kids",
-      "description": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T23:16:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo#3",
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
-      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T01:01:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o#3",
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "description": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T10:35:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o#3",
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "description": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
-      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T21:46:43Z"
+      "publishedAt": "2026-10-28T15:36:11Z"
     }
   ]
 }
