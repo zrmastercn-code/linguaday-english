@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-27T22:16:57.323090Z",
+  "updatedAt": "2026-10-28T05:46:18.796601Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo#0",
@@ -48,10 +48,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro#1",
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-      "description": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
       "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T21:12:39Z"
+      "publishedAt": "2026-10-28T02:20:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#1",
@@ -131,18 +131,18 @@
       "publishedAt": "2026-10-27T11:23:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo#2",
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:11:27Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#2",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T04:22:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo#2",
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T10:17:36Z"
+      "id": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro#2",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "description": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T20:42:38Z"
     }
   ]
 }
