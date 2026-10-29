@@ -2,56 +2,91 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-29T10:01:31.353417Z",
+  "updatedAt": "2026-10-29T18:29:25.390054Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0",
-      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T08:38:54Z"
+      "publishedAt": "2026-10-29T11:07:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#0",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T01:14:01Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko#0",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T14:17:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o#0",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T14:58:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o#0",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T13:25:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o#0",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T13:44:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#0",
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T17:02:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "description": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T20:24:39Z"
+      "publishedAt": "2026-10-29T15:47:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c63djl148n3eo#0",
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "description": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T19:15:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo#1",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "description": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T12:49:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo#0",
-      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-      "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-      "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T23:11:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo#1",
       "title": "Details of thousands of US immigration agents leaked in major hack",
       "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
       "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-29T01:30:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no#1",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T16:26:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#1",
       "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
       "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
       "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-28T21:16:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo#1",
+      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+      "description": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T11:25:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o#1",
@@ -68,11 +103,11 @@
       "publishedAt": "2026-10-29T08:23:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c678prm55gzzo#1",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T22:08:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro#1",
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "description": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T09:17:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o#1",
@@ -82,6 +117,20 @@
       "publishedAt": "2026-10-29T03:15:35Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c63djl148n3eo#1",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T19:15:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c678prm55gzzo#1",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T22:08:52Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo#1",
       "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
       "description": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
@@ -89,60 +138,11 @@
       "publishedAt": "2026-10-29T07:54:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwj342k62exyo#1",
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T10:31:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#1",
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T10:17:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#1",
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "description": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T10:18:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmly073ql392o#1",
-      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-      "description": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T08:28:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#1",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T22:11:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o#2",
-      "title": "Watch: King dances in the streets of the Bahamas capital",
-      "description": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
-      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T20:44:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo#2",
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T16:45:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c893zeknlvnno#2",
-      "title": "Israel's election result is messy - here's why",
-      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T14:26:24Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo#2",
+      "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
+      "description": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
+      "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T14:49:25Z"
     }
   ]
 }
