@@ -2,21 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-28T20:17:59.761305Z",
+  "updatedAt": "2026-10-29T00:59:45.936157Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo#0",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T21:38:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o#0",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T21:24:41Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#0",
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "description": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T18:42:45Z"
+      "publishedAt": "2026-10-28T23:21:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T16:59:47Z"
+      "publishedAt": "2026-10-28T20:24:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
@@ -26,6 +40,13 @@
       "publishedAt": "2026-10-28T14:30:31Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c678prm55gzzo#0",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T22:08:52Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cwj342k62exyo#0",
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
@@ -33,14 +54,21 @@
       "publishedAt": "2026-10-28T10:31:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#1",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T21:16:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#1",
       "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
       "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-28T10:17:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#1",
       "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
       "description": "The energy minister described it as a \"major milestone\" for the East African nation.",
       "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
@@ -96,11 +124,11 @@
       "publishedAt": "2026-10-27T21:09:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#2",
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T18:51:05Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o#2",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "description": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T20:44:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo#2",
@@ -115,34 +143,6 @@
       "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
       "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-28T14:26:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o#2",
-      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-      "description": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T17:34:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro#2",
-      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "description": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
-      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T20:42:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo#2",
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:11:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#3",
-      "title": "What we know so far about deadly Spain train crash",
-      "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T15:36:11Z"
     }
   ]
 }
