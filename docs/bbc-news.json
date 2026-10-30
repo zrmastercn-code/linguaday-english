@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-29T18:29:25.390054Z",
+  "updatedAt": "2026-10-30T01:03:23.266951Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo#0",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T20:21:54Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0",
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-29T11:07:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo#0",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T20:05:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko#0",
@@ -33,13 +47,6 @@
       "publishedAt": "2026-10-29T13:25:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o#0",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T13:44:39Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#0",
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
@@ -47,11 +54,11 @@
       "publishedAt": "2026-10-29T17:02:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "description": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T15:47:20Z"
+      "id": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o#1",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T13:44:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo#1",
@@ -72,7 +79,7 @@
       "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
       "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T16:26:02Z"
+      "publishedAt": "2026-10-29T21:31:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#1",
@@ -136,13 +143,6 @@
       "description": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
       "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-29T07:54:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo#2",
-      "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
-      "description": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
-      "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T14:49:25Z"
     }
   ]
 }
