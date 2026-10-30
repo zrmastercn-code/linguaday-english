@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-30T18:01:28.845860Z",
+  "updatedAt": "2026-10-30T22:23:53.832184Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo#0",
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T17:39:43Z"
+      "publishedAt": "2026-10-30T21:13:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#0",
@@ -26,11 +26,25 @@
       "publishedAt": "2026-10-30T16:26:11Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#0",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T22:20:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#0",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T20:52:01Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmewepdr109do#0",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T11:23:06Z"
+      "publishedAt": "2026-10-30T20:41:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo#0",
@@ -40,25 +54,25 @@
       "publishedAt": "2026-10-30T15:03:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo#1",
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
       "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T14:48:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#1",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T17:47:01Z"
+      "publishedAt": "2026-10-30T20:34:46Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1",
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T17:25:20Z"
+      "publishedAt": "2026-10-30T22:11:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo#1",
@@ -68,18 +82,18 @@
       "publishedAt": "2026-10-30T17:00:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo#1",
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:17:11Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#1",
       "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
       "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T01:35:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo#1",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T15:17:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1",
@@ -93,7 +107,7 @@
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T13:46:16Z"
+      "publishedAt": "2026-10-30T20:55:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#1",
@@ -129,20 +143,6 @@
       "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T12:04:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo#1",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "description": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T03:24:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo#1",
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
-      "description": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T00:17:28Z"
     }
   ]
 }
