@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-30T22:23:53.832184Z",
+  "updatedAt": "2026-10-31T05:48:07.085757Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#0",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T00:40:43Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo#0",
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -12,11 +19,25 @@
       "publishedAt": "2026-10-30T21:13:14Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#0",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T17:07:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#0",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T02:12:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#0",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T01:11:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo#0",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T05:44:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo#0",
@@ -26,32 +47,39 @@
       "publishedAt": "2026-10-30T16:26:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#0",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T22:20:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo#0",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T01:27:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#0",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T20:52:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmewepdr109do#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmewepdr109do#1",
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T20:41:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo#0",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:03:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmly016ep243o#1",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T02:39:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#1",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T17:07:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T22:11:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo#1",
@@ -68,11 +96,11 @@
       "publishedAt": "2026-10-30T20:34:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T22:11:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo#1",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T15:03:39Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo#1",
@@ -105,9 +133,9 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T20:55:18Z"
+      "publishedAt": "2026-10-31T00:29:58Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#1",
@@ -115,34 +143,6 @@
       "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
       "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T15:06:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo#1",
-      "title": "China denies allegations of spy operation targeting Nvidia CEO",
-      "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T12:20:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o#1",
-      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-      "description": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T07:53:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o#1",
-      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-      "description": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T12:36:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#1",
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T12:04:02Z"
     }
   ]
 }
