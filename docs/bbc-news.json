@@ -2,28 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-31T12:37:26.988991Z",
+  "updatedAt": "2026-10-31T19:19:09.477810Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo#0",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-      "description": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T12:05:04Z"
+      "publishedAt": "2026-10-31T17:53:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#0",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T12:21:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#0",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T16:32:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#0",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T02:12:19Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#0",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T15:16:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#0",
@@ -33,6 +33,13 @@
       "publishedAt": "2026-10-31T01:11:43Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o#0",
+      "title": "Ethiopian PM puts ministers through military training",
+      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T14:28:15Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo#0",
       "title": "Spain train disaster clouds Sánchez chances of re-election",
       "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
@@ -40,18 +47,25 @@
       "publishedAt": "2026-10-31T05:44:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#0",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T22:11:52Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo#0",
       "title": "Global nature talks reach deal but money remains an issue",
       "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
       "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T01:27:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#1",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T12:21:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T22:11:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmewepdr109do#1",
@@ -117,32 +131,18 @@
       "publishedAt": "2026-10-30T01:35:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo#1",
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:17:11Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmze42el49d9o#2",
+      "title": "Watch: Blood donors get a Halloween fright in Thailand",
+      "description": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T12:50:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1",
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T06:02:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T00:29:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#1",
-      "title": "Six dead after helicopter crashes in northern Indian state",
-      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:06:05Z"
+      "id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo#2",
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T09:16:14Z"
     }
   ]
 }
