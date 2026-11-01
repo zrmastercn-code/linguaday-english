@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-10-31T19:19:09.477810Z",
+  "updatedAt": "2026-11-01T00:08:56.253060Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#0",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T19:22:26Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo#0",
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -12,11 +19,18 @@
       "publishedAt": "2026-10-31T17:53:35Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#0",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T21:29:01Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#0",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T16:32:08Z"
+      "publishedAt": "2026-10-31T22:11:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#0",
@@ -24,13 +38,6 @@
       "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T15:16:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#0",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:11:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o#0",
@@ -47,18 +54,18 @@
       "publishedAt": "2026-10-31T05:44:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo#1",
       "title": "Global nature talks reach deal but money remains an issue",
       "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
       "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T01:27:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#1",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T12:21:25Z"
+      "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#1",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T01:11:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1",
@@ -110,25 +117,18 @@
       "publishedAt": "2026-10-30T20:34:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo#1",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:03:39Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#2",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T21:29:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo#1",
-      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-      "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T17:00:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#1",
-      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-      "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T01:35:40Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo#2",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
+      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T16:55:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cmze42el49d9o#2",
