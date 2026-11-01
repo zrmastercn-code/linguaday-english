@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-01T06:11:46.715996Z",
+  "updatedAt": "2026-11-01T13:29:18.040870Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#0",
       "title": "Shops looted as German cost of living protests turn violent",
-      "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T01:59:57Z"
+      "publishedAt": "2026-11-01T11:57:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo#0",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:41:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T07:00:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#0",
@@ -30,14 +44,7 @@
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T22:11:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0",
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T00:12:07Z"
+      "publishedAt": "2026-11-01T13:11:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c893z699q401o#0",
@@ -47,18 +54,18 @@
       "publishedAt": "2026-11-01T00:55:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o#0",
-      "title": "Ethiopian PM puts ministers through military training",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T14:28:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8qln1539y37o#1",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:27:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#1",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T21:29:01Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:46:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#1",
@@ -66,6 +73,13 @@
       "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T15:16:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o#1",
+      "title": "Ethiopian PM puts ministers through military training",
+      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T14:28:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo#1",
@@ -96,25 +110,11 @@
       "publishedAt": "2026-10-30T22:11:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmewepdr109do#1",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T20:41:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmly016ep243o#1",
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T02:39:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo#1",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T21:13:14Z"
+      "id": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo#2",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "description": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T05:26:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#2",
@@ -131,18 +131,18 @@
       "publishedAt": "2026-10-31T16:55:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cmze42el49d9o#2",
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "description": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T12:50:45Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo#2",
       "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
       "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
       "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T09:16:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o#2",
+      "title": "What's at stake for Trump in the US midterms?",
+      "description": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T10:19:48Z"
     }
   ]
 }
