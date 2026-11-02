@@ -2,49 +2,105 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-02T11:14:59.179266Z",
+  "updatedAt": "2026-11-02T21:43:25.895456Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o#0",
-      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-      "description": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-      "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T04:40:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro#0",
-      "title": "Trump makes final campaign push in final weekend before election",
-      "description": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T04:04:28Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T21:10:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o#0",
-      "title": "Nine killed as small jet crashes on Florida street",
-      "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T09:10:19Z"
+      "publishedAt": "2026-11-02T19:58:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#0",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T17:38:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#0",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T17:33:19Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo#0",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T19:12:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#0",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T20:08:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#1",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T17:29:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo#1",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T19:33:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#1",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "description": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T18:34:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo#1",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "description": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T10:48:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o#1",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T14:35:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#1",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T12:22:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#1",
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
       "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-02T07:42:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#0",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T11:10:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#0",
+      "id": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#1",
       "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "description": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
+      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
       "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T08:55:27Z"
+      "publishedAt": "2026-11-02T12:05:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq78pypg0800o#1",
@@ -87,62 +143,6 @@
       "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-01T17:05:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1",
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T11:57:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#1",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T07:00:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#1",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T13:11:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo#1",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T00:41:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8qln1539y37o#1",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T00:27:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T00:46:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#1",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T15:16:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o#2",
-      "title": "North Carolina voters weigh up Trump's track record on cost of living",
-      "description": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
-      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T22:25:51Z"
     }
   ]
 }
