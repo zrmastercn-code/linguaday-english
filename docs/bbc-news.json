@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-01T19:42:35.796578Z",
+  "updatedAt": "2026-11-02T00:46:50.837938Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#0",
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T11:57:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#0",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "description": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T22:38:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#0",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T21:55:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:02:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#0",
@@ -17,6 +31,13 @@
       "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-01T17:06:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o#0",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:15:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#0",
@@ -33,21 +54,21 @@
       "publishedAt": "2026-11-01T17:56:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T19:17:34Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T11:57:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#1",
       "title": "India's opposition holds mega rally seeking election chief's resignation",
       "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-01T07:00:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#1",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
@@ -110,20 +131,6 @@
       "publishedAt": "2026-10-31T01:27:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#1",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:11:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T22:11:52Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo#2",
       "title": "Peaceful protests in Germany spiral into violence and looting",
       "description": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
@@ -136,13 +143,6 @@
       "description": "The supermodel and TV host provided a gory new shock at her New York event.",
       "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-01T05:26:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#2",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T21:29:01Z"
     }
   ]
 }
