@@ -2,21 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-02T21:43:25.895456Z",
+  "updatedAt": "2026-11-03T06:52:07.258417Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0",
+      "title": "US strikes Iran ahead of midterm elections",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T03:39:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#0",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T03:32:36Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
       "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T21:10:04Z"
+      "publishedAt": "2026-11-03T01:56:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po#0",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T00:07:05Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o#0",
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:58:34Z"
+      "publishedAt": "2026-11-03T00:08:14Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#0",
@@ -33,14 +54,28 @@
       "publishedAt": "2026-11-02T17:33:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo#1",
       "title": "Legal challenge to Australia's social media ban to start in High Court",
       "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
       "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:12:59Z"
+      "publishedAt": "2026-11-02T23:37:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T06:22:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo#1",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "description": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T03:30:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#1",
       "title": "Man guilty of stealing cash from farm owned by South African president",
       "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
       "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
@@ -58,7 +93,7 @@
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
       "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:33:10Z"
+      "publishedAt": "2026-11-03T03:00:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#1",
@@ -89,13 +124,6 @@
       "publishedAt": "2026-11-02T12:22:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#1",
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T07:42:33Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#1",
       "title": "Uganda begins withdrawing troops from Somalia after 20 years",
       "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
@@ -115,34 +143,6 @@
       "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
       "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-02T00:15:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o#1",
-      "title": "Popular Australian children's author jailed over child exploitation offences",
-      "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T08:03:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#1",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T17:06:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#1",
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T17:56:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#1",
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T17:05:18Z"
     }
   ]
 }
