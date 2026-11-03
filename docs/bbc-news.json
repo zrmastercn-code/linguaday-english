@@ -2,21 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-03T17:05:23.956219Z",
+  "updatedAt": "2026-11-03T23:25:38.363815Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T11:33:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T22:45:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#0",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T09:09:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#0",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T20:42:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#0",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T16:19:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no#0",
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "description": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T21:53:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no#0",
@@ -26,13 +40,6 @@
       "publishedAt": "2026-11-03T14:56:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o#0",
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "description": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T11:51:08Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0",
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
       "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
@@ -40,11 +47,39 @@
       "publishedAt": "2026-11-03T13:55:47Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c65ynez5y599o#1",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T16:57:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#1",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T11:33:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o#1",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "description": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T11:51:08Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cw62ye1030njo#1",
       "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
       "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
       "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T16:20:59Z"
+      "publishedAt": "2026-11-03T17:07:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#1",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T09:09:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxg5jln586pno#1",
@@ -52,6 +87,13 @@
       "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
       "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-03T12:09:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo#1",
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "description": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T15:05:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#1",
@@ -101,48 +143,6 @@
       "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
       "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-02T17:33:19Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo#1",
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "description": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T07:53:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T08:33:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#1",
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T20:08:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#2",
-      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
-      "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T00:09:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#2",
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:49:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro#2",
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T17:34:58Z"
     }
   ]
 }
