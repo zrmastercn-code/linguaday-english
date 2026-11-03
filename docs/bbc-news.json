@@ -2,52 +2,101 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-03T06:52:07.258417Z",
+  "updatedAt": "2026-11-03T17:05:23.956219Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0",
-      "title": "US strikes Iran ahead of midterm elections",
+      "title": "US strikes Iranian island ahead of midterm elections",
       "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
       "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T03:39:08Z"
+      "publishedAt": "2026-11-03T11:33:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#0",
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T03:32:36Z"
+      "id": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#0",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T09:09:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T01:56:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no#0",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T14:56:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o#0",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "description": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T11:51:08Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T13:55:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw62ye1030njo#1",
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T16:20:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxg5jln586pno#1",
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
+      "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T12:09:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#1",
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "description": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T07:15:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po#1",
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
       "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
       "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-03T00:07:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o#0",
-      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T00:08:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#1",
+      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T13:26:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#0",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T17:38:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#1",
+      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+      "description": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T13:44:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo#1",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T13:28:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#1",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T03:32:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#1",
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
       "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
       "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
@@ -55,24 +104,17 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo#1",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "title": "Major test for Australia's social media ban begins in High Court",
+      "description": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
       "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T23:37:31Z"
+      "publishedAt": "2026-11-03T07:53:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1",
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
       "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T06:22:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo#1",
-      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
-      "description": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T03:30:16Z"
+      "publishedAt": "2026-11-03T08:33:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#1",
@@ -82,67 +124,25 @@
       "publishedAt": "2026-11-02T20:08:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#1",
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T17:29:49Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#2",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T00:09:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo#1",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T03:00:36Z"
+      "id": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#2",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T19:49:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#1",
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "description": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T18:34:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo#1",
-      "title": "Five arrested after South African farmer shot and tortured",
-      "description": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T10:48:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o#1",
-      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-      "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T14:35:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#1",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T12:22:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#1",
-      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T12:05:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq78pypg0800o#1",
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T03:58:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o#1",
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T00:15:30Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro#2",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T17:34:58Z"
     }
   ]
 }
