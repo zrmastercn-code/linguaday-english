@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-04T17:17:21.480326Z",
+  "updatedAt": "2026-11-04T23:42:03.063917Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o#0",
@@ -10,6 +10,20 @@
       "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
       "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T13:33:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo#0",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T18:01:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c98rz6penv86o#0",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:48:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#0",
@@ -33,46 +47,11 @@
       "publishedAt": "2026-11-04T16:18:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#0",
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "description": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T15:01:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#0",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "description": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T16:59:15Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c699z8792n7ro#1",
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
       "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T07:39:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#1",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:21:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo#1",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:47:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo#1",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "description": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T12:34:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1",
@@ -82,18 +61,39 @@
       "publishedAt": "2026-11-04T15:28:18Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#1",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "description": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T16:59:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo#1",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T11:47:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#1",
+      "title": "Nadal set to join Real Madrid board of directors",
+      "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T13:21:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo#1",
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "description": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T12:34:33Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo#1",
       "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
       "description": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
       "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T11:46:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego#1",
-      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-      "description": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T15:18:03Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo#2",
