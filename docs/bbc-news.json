@@ -2,28 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-04T23:42:03.063917Z",
+  "updatedAt": "2026-11-05T06:52:03.758722Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o#0",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:33:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o#0",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T03:47:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo#0",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T18:01:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo#0",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "description": "Democrats can vote legislation through. But Trump still has veto power.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T18:01:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c98rz6penv86o#0",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T22:48:43Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo#0",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T06:35:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#0",
@@ -33,6 +33,13 @@
       "publishedAt": "2026-11-04T16:26:15Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#0",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T23:12:47Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#0",
       "title": "'Most difficult days of my life' for keeper Owono",
       "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
@@ -40,18 +47,32 @@
       "publishedAt": "2026-11-04T16:40:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo#1",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "description": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T02:09:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o#1",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "description": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T23:50:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c98rz6penv86o#1",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:48:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo#1",
       "title": "Israel's president begins consultations with parties after election deadlock",
       "description": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
       "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T16:18:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c699z8792n7ro#1",
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T07:39:38Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1",
@@ -68,13 +89,6 @@
       "publishedAt": "2026-11-04T16:59:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo#1",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:47:44Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#1",
       "title": "Nadal set to join Real Madrid board of directors",
       "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
@@ -82,18 +96,11 @@
       "publishedAt": "2026-11-04T13:21:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo#1",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "description": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T12:34:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo#1",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "description": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:46:09Z"
+      "id": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o#2",
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "description": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+      "link": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:34:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo#2",
@@ -108,13 +115,6 @@
       "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-03T00:09:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#2",
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:49:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro#2",
