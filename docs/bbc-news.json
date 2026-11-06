@@ -2,21 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-05T23:39:36.218875Z",
+  "updatedAt": "2026-11-06T06:52:03.373289Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo#0",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T23:21:34Z"
+      "publishedAt": "2026-11-06T06:00:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo#0",
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T17:39:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o#0",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T02:08:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o#0",
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T00:02:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo#0",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T04:29:25Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo#0",
@@ -26,13 +40,6 @@
       "publishedAt": "2026-11-05T23:09:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#0",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T17:59:53Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo#0",
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
       "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
@@ -40,18 +47,39 @@
       "publishedAt": "2026-11-05T17:40:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko#0",
+      "id": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o#0",
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "description": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T19:08:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo#1",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T17:39:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#1",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T17:59:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o#1",
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "description": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T01:28:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko#1",
       "title": "Eight killed in series of shootings in western Turkey",
       "description": "Victims are found in several locations in three separate vehicles, according to local reports.",
       "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-05T19:32:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo#1",
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "description": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T19:58:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o#1",
@@ -59,27 +87,6 @@
       "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
       "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-05T19:08:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o#1",
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "description": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T11:21:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo#1",
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "description": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T02:09:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cky93z5y0171o#1",
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "description": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T00:59:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo#2",
@@ -117,32 +124,25 @@
       "publishedAt": "2026-11-03T00:09:13Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o#3",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "description": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T06:00:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o#3",
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "description": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T06:01:13Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo#3",
       "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
       "description": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
       "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-05T23:16:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o#3",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T03:47:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo#3",
-      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
-      "description": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T00:32:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#3",
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-      "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T14:29:40Z"
     }
   ]
 }
