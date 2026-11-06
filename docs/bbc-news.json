@@ -2,28 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-06T16:47:32.080687Z",
+  "updatedAt": "2026-11-06T23:12:03.551334Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#0",
       "title": "AI stocks climb after trillions wiped from market values",
       "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:23:16Z"
+      "publishedAt": "2026-11-06T21:06:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o#0",
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T02:08:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo#0",
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T09:19:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#0",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:12:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#0",
@@ -33,6 +26,13 @@
       "publishedAt": "2026-11-06T15:33:52Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo#0",
+      "title": "New wave of bomb threats hit European airlines",
+      "description": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:25:35Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o#0",
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
@@ -40,11 +40,18 @@
       "publishedAt": "2026-11-06T14:46:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo#0",
-      "title": "New wave of bomb threats hit European airlines",
-      "description": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:25:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o#0",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T17:44:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko#1",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:30:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo#1",
@@ -61,6 +68,13 @@
       "publishedAt": "2026-11-06T00:02:57Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#1",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "description": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:51:01Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo#1",
       "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
       "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
@@ -72,7 +86,7 @@
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T09:57:04Z"
+      "publishedAt": "2026-11-06T21:49:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c977ppnezep6o#1",
@@ -100,7 +114,7 @@
       "title": "Nigerian court rules opposition candidate cannot stand in elections",
       "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T22:00:33Z"
+      "publishedAt": "2026-11-06T17:35:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o#1",
@@ -117,32 +131,18 @@
       "publishedAt": "2026-11-05T17:40:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#1",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T17:59:53Z"
+      "id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo#2",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:02:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o#1",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "description": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T01:28:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko#1",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "description": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T19:32:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o#1",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T07:56:19Z"
+      "id": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo#2",
+      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
+      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T18:22:46Z"
     }
   ]
 }
