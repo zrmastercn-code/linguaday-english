@@ -2,49 +2,49 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-07T06:02:39.667989Z",
+  "updatedAt": "2026-11-07T13:07:13.116528Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#0",
+      "id": "https://www.bbc.co.uk/news/articles/crp3gg2z171go#0",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T23:24:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T07:20:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po#0",
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:49:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo#0",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T06:59:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#1",
       "title": "AI stocks climb after trillions wiped from market values",
       "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T21:06:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#0",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:12:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#0",
-      "title": "Two dead after bus crashes in France, officials say",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:33:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo#1",
       "title": "New wave of bomb threats hit European airlines",
       "description": "No link has been established between the threats against the airlines and those against the media outlets.",
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T15:25:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
-      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T03:25:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o#1",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T14:46:03Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o#1",
@@ -54,11 +54,18 @@
       "publishedAt": "2026-11-06T17:44:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go#1",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:46:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o#1",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:46:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#1",
+      "title": "Two dead after bus crashes in France, officials say",
+      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:33:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko#1",
@@ -68,18 +75,18 @@
       "publishedAt": "2026-11-06T15:30:42Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go#1",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T23:46:08Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo#1",
       "title": "Russian extremist group denies sending hoax bomb threats",
       "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T12:51:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o#1",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T00:02:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#1",
@@ -103,46 +110,39 @@
       "publishedAt": "2026-11-06T21:49:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c977ppnezep6o#1",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "description": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T08:18:10Z"
+      "id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo#2",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:02:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro#1",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "description": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T07:33:41Z"
+      "id": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo#2",
+      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
+      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T18:22:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo#1",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "description": "California has historically had the largest population of people on death row in the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T23:09:33Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo#2",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T10:33:21Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o#1",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T17:35:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/cx5ynly549njo#3",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T01:27:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o#1",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "description": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:46:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo#1",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T17:40:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#3",
+      "title": "Four things we learned this week about 2028 White House race",
+      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:23:28Z"
     }
   ]
 }
