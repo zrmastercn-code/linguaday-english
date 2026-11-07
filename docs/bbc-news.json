@@ -2,8 +2,43 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-07T13:07:13.116528Z",
+  "updatedAt": "2026-11-07T19:26:47.397866Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
+      "title": "What we know about Krakow mass shooting so far",
+      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:22:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o#0",
+      "title": "No clear winner after tight New Zealand general election",
+      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T15:56:28Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:14:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:09:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#0",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T15:19:35Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/crp3gg2z171go#0",
       "title": "With Stephen Miller pick, Trump readies for a battle",
@@ -12,25 +47,46 @@
       "publishedAt": "2026-11-06T23:24:15Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1",
+      "title": "Paraguay's former president charged after bank collapse",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T07:20:00Z"
+      "publishedAt": "2026-11-07T19:17:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po#0",
-      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo#1",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T06:59:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o#1",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T16:50:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po#1",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T12:49:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo#0",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:59:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo#1",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T07:27:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro#1",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "description": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T08:15:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#1",
@@ -61,53 +117,11 @@
       "publishedAt": "2026-11-06T14:46:03Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#1",
-      "title": "Two dead after bus crashes in France, officials say",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:33:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko#1",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:30:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go#1",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:46:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo#1",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T12:51:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#1",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "description": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:51:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo#1",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T14:57:08Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o#1",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T21:49:50Z"
+      "id": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o#2",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:58:41Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo#2",
@@ -124,25 +138,11 @@
       "publishedAt": "2026-11-05T18:22:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo#2",
-      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T10:33:21Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cx5ynly549njo#3",
       "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
       "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
       "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T01:27:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#3",
-      "title": "Four things we learned this week about 2028 White House race",
-      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T12:23:28Z"
     }
   ]
 }
