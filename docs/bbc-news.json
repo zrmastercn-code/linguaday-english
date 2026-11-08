@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-07T19:26:47.397866Z",
+  "updatedAt": "2026-11-08T00:40:06.344821Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
-      "title": "What we know about Krakow mass shooting so far",
-      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "title": "What we know so far after Krakow gun attack",
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T18:22:11Z"
+      "publishedAt": "2026-11-07T22:58:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T22:19:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o#0",
@@ -21,7 +28,7 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T18:14:38Z"
     },
@@ -40,7 +47,7 @@
       "publishedAt": "2026-11-07T15:19:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crp3gg2z171go#0",
+      "id": "https://www.bbc.co.uk/news/articles/crp3gg2z171go#1",
       "title": "With Stephen Miller pick, Trump readies for a battle",
       "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
       "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
       "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-05T18:22:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx5ynly549njo#3",
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T01:27:47Z"
     }
   ]
 }
