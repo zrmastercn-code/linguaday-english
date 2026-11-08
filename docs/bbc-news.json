@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-08T17:56:31.883418Z",
+  "updatedAt": "2026-11-08T22:09:16.737216Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "description": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T13:40:24Z"
+      "publishedAt": "2026-11-08T18:22:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T19:58:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro#0",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-11-07T21:36:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1",
+      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
       "title": "Paraguay's former president charged after bank collapse",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -126,7 +133,7 @@
     {
       "id": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o#2",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "description": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
       "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T16:05:57Z"
     },
@@ -136,13 +143,6 @@
       "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
       "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T09:29:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o#2",
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T17:58:41Z"
     }
   ]
 }
