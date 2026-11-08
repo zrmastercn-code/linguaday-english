@@ -2,14 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-08T10:27:02.584287Z",
+  "updatedAt": "2026-11-08T17:56:31.883418Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
-      "title": "What we know so far after Krakow gun attack",
-      "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T07:52:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "description": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T13:40:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro#0",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T14:42:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo#0",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T13:37:50Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0",
@@ -24,27 +38,6 @@
       "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T21:36:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T22:19:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T18:14:38Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#0",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T15:19:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1",
@@ -75,11 +68,25 @@
       "publishedAt": "2026-11-07T12:49:36Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#1",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:14:38Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo#1",
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
       "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T07:27:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#1",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T15:19:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro#1",
@@ -117,6 +124,13 @@
       "publishedAt": "2026-11-06T14:46:03Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o#2",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T16:05:57Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo#2",
       "title": "How the deadly shooting in Krakow unfolded",
       "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
@@ -129,20 +143,6 @@
       "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
       "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T17:58:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo#2",
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:02:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo#2",
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T18:22:46Z"
     }
   ]
 }
