@@ -2,14 +2,21 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-08T22:09:16.737216Z",
+  "updatedAt": "2026-11-09T06:39:13.056247Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq62y01r2313o#0",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T06:00:26Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T18:22:53Z"
+      "publishedAt": "2026-11-08T23:34:18Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0",
@@ -19,6 +26,20 @@
       "publishedAt": "2026-11-08T19:58:02Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo#0",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T05:30:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#0",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T02:50:13Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro#0",
       "title": "Homes and temples glow across India to mark Diwali",
       "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
@@ -26,39 +47,32 @@
       "publishedAt": "2026-11-08T14:42:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo#0",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T13:37:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo#1",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T21:37:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T04:03:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#1",
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T21:36:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo#1",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T13:37:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1",
       "title": "Paraguay's former president charged after bank collapse",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T19:17:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo#1",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:59:48Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o#1",
@@ -110,25 +124,11 @@
       "publishedAt": "2026-11-06T21:06:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo#1",
-      "title": "New wave of bomb threats hit European airlines",
-      "description": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:25:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o#1",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T17:44:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o#1",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T14:46:03Z"
+      "id": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o#2",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "description": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T22:05:12Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o#2",
