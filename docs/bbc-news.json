@@ -2,84 +2,70 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-10T14:56:20.183011Z",
+  "updatedAt": "2026-11-10T21:18:41.894200Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#0",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T08:23:21Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro#0",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:53:33Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o#0",
-      "title": "First day of Ukraine peace talks 'very productive', US says",
-      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T14:36:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo#0",
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T08:39:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o#0",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T01:49:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo#0",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T14:29:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#0",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:33:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#0",
-      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
       "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T12:25:48Z"
+      "publishedAt": "2026-11-10T17:03:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo#1",
-      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-      "description": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T14:46:50Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko#0",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "description": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T19:26:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#1",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:45:13Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo#0",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:46:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go#1",
-      "title": "California police investigate after 27 fall ill at half-marathon running event",
-      "description": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:22:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o#0",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:04:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o#1",
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "description": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T11:25:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o#1",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T15:21:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo#1",
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "description": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T11:23:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o#1",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T17:29:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go#1",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T21:06:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o#1",
@@ -89,60 +75,74 @@
       "publishedAt": "2026-11-10T13:23:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o#1",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T09:40:31Z"
+      "id": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o#1",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "description": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+      "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:43:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o#1",
-      "title": "Oxford museum returns ancestral Naga skulls to India",
-      "description": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T06:23:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck78p827y642o#1",
+      "title": "Arrests made after visit from former US President Biden",
+      "description": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:07:56Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmp3g37l566po#1",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "description": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T05:22:39Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo#1",
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "description": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T16:07:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#1",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T01:55:22Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o#1",
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "description": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:36:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#1",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T20:42:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo#1",
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T16:19:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo#1",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "description": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T23:28:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o#1",
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "description": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T11:25:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo#1",
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "description": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T21:48:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo#1",
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T08:39:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo#1",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T17:06:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o#1",
+      "title": "'Cruise for life' ship seized in Singapore",
+      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T01:49:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#1",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T08:23:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#1",
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T13:45:13Z"
     }
   ]
 }
