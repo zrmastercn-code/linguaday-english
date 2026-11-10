@@ -2,56 +2,98 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-09T19:50:57.112430Z",
+  "updatedAt": "2026-11-10T03:35:18.453945Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#0",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "description": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T16:55:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#0",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T01:44:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo#0",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T18:11:11Z"
+      "publishedAt": "2026-11-09T19:58:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o#0",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "description": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T17:47:29Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o#0",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T00:09:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#0",
-      "title": "Turkey steel factory blast kills at least 16 people",
-      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T18:04:01Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo#0",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T00:14:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#0",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T20:20:08Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro#0",
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T19:39:33Z"
+      "publishedAt": "2026-11-10T01:38:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#0",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T01:55:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go#1",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T18:08:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#1",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T20:42:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo#1",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "description": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T23:28:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo#1",
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "description": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T21:48:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo#1",
       "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
       "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-09T17:06:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go#0",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T18:08:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o#1",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "description": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T17:47:29Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go#1",
@@ -82,25 +124,18 @@
       "publishedAt": "2026-11-09T02:50:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo#1",
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T05:30:37Z"
+      "id": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo#2",
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "description": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T22:46:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#1",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T10:41:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo#1",
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "description": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T08:49:17Z"
+      "id": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o#2",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "description": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+      "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T19:09:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po#2",
@@ -108,41 +143,6 @@
       "description": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
       "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-09T16:59:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c80404zyr53wo#2",
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "description": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T14:50:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#2",
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T07:10:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o#2",
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "description": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
-      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T22:05:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o#2",
-      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "description": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
-      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T16:05:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq62y01r2313o#3",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T06:00:26Z"
     }
   ]
 }
