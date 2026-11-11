@@ -2,147 +2,147 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-11T06:29:09.824689Z",
+  "updatedAt": "2026-11-11T17:11:31.529200Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#0",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "description": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T14:06:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o#0",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T15:05:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#0",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:45:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#0",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T12:30:29Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
       "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T01:01:20Z"
+      "publishedAt": "2026-11-11T16:59:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo#0",
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:20:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/c933gn6710lyo#0",
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T14:56:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#0",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "id": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T13:24:29Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o#1",
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:19:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#1",
+      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+      "description": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T12:53:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o#1",
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T13:25:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o#1",
+      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "description": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T11:34:50Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#1",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:38:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#1",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
       "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T03:26:42Z"
+      "publishedAt": "2026-11-11T11:47:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro#0",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T02:41:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#1",
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "description": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T12:14:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo#0",
+      "id": "https://www.bbc.co.uk/news/videos/cm894wg251pzo#2",
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
+      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T09:28:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o#2",
+      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+      "description": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
+      "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:31:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o#2",
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:03:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o#2",
+      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
+      "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:35:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo#3",
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T00:18:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#0",
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "description": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T02:47:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o#0",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:04:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o#1",
-      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-      "description": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T03:44:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko#1",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "description": "Supporters of Sheikh Hasina want her to return from exile in India.",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T19:26:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#1",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T17:03:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo#1",
-      "title": "Spain's king and queen attend memorial service for rail crash victims",
-      "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:46:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#1",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:33:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o#1",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T15:21:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o#1",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T21:21:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go#1",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T22:52:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o#1",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "description": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:23:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o#1",
-      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-      "description": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
-      "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:43:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck78p827y642o#1",
-      "title": "Arrests made after visit from former US President Biden",
-      "description": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
-      "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:07:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo#1",
-      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-      "description": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T16:07:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o#1",
-      "title": "US federal authorities could have prevented Epstein crimes, report finds",
-      "description": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:36:58Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o#3",
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
+      "description": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T21:17:00Z"
     }
   ]
 }
