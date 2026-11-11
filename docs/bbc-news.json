@@ -2,42 +2,49 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-10T21:18:41.894200Z",
+  "updatedAt": "2026-11-11T06:29:09.824689Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T01:01:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo#0",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:20:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#0",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T03:26:42Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro#0",
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:53:33Z"
+      "publishedAt": "2026-11-11T02:41:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#0",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:33:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo#0",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:18:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#0",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T17:03:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko#0",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "description": "Supporters of Sheikh Hasina want her to return from exile in India.",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T19:26:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo#0",
-      "title": "Spain's king and queen attend memorial service for rail crash victims",
-      "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:46:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#0",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "description": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T02:47:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o#0",
@@ -45,6 +52,41 @@
       "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
       "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-10T18:04:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o#1",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "description": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T03:44:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko#1",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "description": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T19:26:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#1",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T17:03:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo#1",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:46:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#1",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:33:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o#1",
@@ -58,14 +100,14 @@
       "title": "First day of Ukraine peace talks constructive, Zelensky says",
       "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T17:29:36Z"
+      "publishedAt": "2026-11-10T21:21:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go#1",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T21:06:04Z"
+      "publishedAt": "2026-11-10T22:52:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o#1",
@@ -101,48 +143,6 @@
       "description": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-10T20:36:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo#1",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T16:19:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o#1",
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "description": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T11:25:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo#1",
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T08:39:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o#1",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T01:49:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#1",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T08:23:21Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#1",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:45:13Z"
     }
   ]
 }
