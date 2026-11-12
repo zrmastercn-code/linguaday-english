@@ -2,45 +2,87 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-12T00:46:07.859506Z",
+  "updatedAt": "2026-11-12T11:18:57.262183Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o#0",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T07:59:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo#0",
+      "title": "New York building collapse kills at least two, officials say",
+      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T10:40:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T10:02:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#0",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T09:43:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0",
+      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+      "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T10:08:38Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo#0",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "description": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T07:45:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo#1",
+      "title": "British woman missing from cruise ship in Atlantic",
+      "description": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T10:13:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#1",
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
       "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T22:07:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T23:52:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo#1",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "description": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T02:40:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o#0",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T18:04:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go#0",
-      "title": "New York building collapse kills one person and injures 12",
-      "description": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
-      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T22:55:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#0",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#1",
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "description": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
       "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:38:07Z"
+      "publishedAt": "2026-11-12T08:46:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c933gn6710lyo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o#1",
+      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+      "description": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T04:03:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c933gn6710lyo#1",
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
       "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
       "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
@@ -96,53 +138,11 @@
       "publishedAt": "2026-11-11T13:25:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o#1",
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T00:19:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o#1",
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "description": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T11:34:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#1",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:59:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#1",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T11:47:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#1",
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "description": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T12:14:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm894wg251pzo#2",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T09:28:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o#2",
-      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
-      "description": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
-      "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:31:17Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo#2",
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T21:43:35Z"
     }
   ]
 }
