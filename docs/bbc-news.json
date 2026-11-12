@@ -2,42 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-11T17:11:31.529200Z",
+  "updatedAt": "2026-11-12T00:46:07.859506Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#0",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "description": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T14:06:27Z"
+      "publishedAt": "2026-11-11T22:07:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T23:52:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o#0",
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
       "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
       "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T15:05:11Z"
+      "publishedAt": "2026-11-11T18:04:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#0",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:45:11Z"
+      "id": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go#0",
+      "title": "New York building collapse kills one person and injures 12",
+      "description": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T22:55:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#0",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T12:30:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:59:34Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#0",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:38:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c933gn6710lyo#0",
@@ -47,18 +47,32 @@
       "publishedAt": "2026-11-11T14:56:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#1",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T18:38:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o#1",
+      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+      "description": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T18:10:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#1",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:45:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#1",
       "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
       "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
       "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T13:24:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o#1",
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T00:19:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#1",
@@ -68,11 +82,25 @@
       "publishedAt": "2026-11-11T12:53:11Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cmglr260z7eko#1",
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "description": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T20:00:54Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o#1",
       "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
       "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
       "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T13:25:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o#1",
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:19:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o#1",
@@ -82,11 +110,11 @@
       "publishedAt": "2026-11-11T11:34:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#1",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:38:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#1",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:59:34Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#1",
@@ -115,34 +143,6 @@
       "description": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
       "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-10T20:31:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o#2",
-      "title": "Why are these purple flowers shutting down streets in Sydney?",
-      "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
-      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:03:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o#2",
-      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
-      "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
-      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:35:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo#3",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T00:18:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o#3",
-      "title": "Why does Australia want Brits to swap Sydney for the outback?",
-      "description": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T21:17:00Z"
     }
   ]
 }
