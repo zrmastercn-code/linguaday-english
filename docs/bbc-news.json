@@ -2,49 +2,77 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-12T11:18:57.262183Z",
+  "updatedAt": "2026-11-12T19:57:30.365057Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o#0",
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T07:59:33Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T18:28:59Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo#0",
-      "title": "New York building collapse kills at least two, officials say",
-      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T10:40:49Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo#0",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T13:02:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr894w453e90o#0",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T19:23:02Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T10:02:32Z"
+      "publishedAt": "2026-11-12T12:56:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno#1",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "description": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T18:47:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo#1",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T15:18:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#1",
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T09:43:11Z"
+      "publishedAt": "2026-11-12T16:54:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0",
-      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T10:08:38Z"
+      "id": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko#1",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "description": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T11:07:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo#1",
       "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
       "description": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
       "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T07:45:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno#1",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T13:58:49Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo#1",
@@ -115,34 +143,6 @@
       "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
       "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T13:24:29Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#1",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "description": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T12:53:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmglr260z7eko#1",
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "description": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-      "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T20:00:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o#1",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T13:25:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo#2",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T21:43:35Z"
     }
   ]
 }
