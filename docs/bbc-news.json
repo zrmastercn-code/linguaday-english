@@ -2,49 +2,49 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-13T01:51:06.867059Z",
+  "updatedAt": "2026-11-13T11:03:34.600830Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0",
+      "title": "What we know about the global Microsoft outage",
+      "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T10:53:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o#0",
+      "title": "Watch: How Microsoft services went down around the world",
+      "description": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T07:18:17Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T23:34:05Z"
+      "publishedAt": "2026-11-13T03:57:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0",
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T21:00:42Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo#0",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T02:01:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o#0",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T00:20:24Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o#0",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T02:48:29Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#0",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T20:09:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr894w453e90o#0",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T19:23:02Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo#1",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T01:03:59Z"
+      "id": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo#0",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T07:01:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno#1",
@@ -54,95 +54,95 @@
       "publishedAt": "2026-11-12T18:47:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#1",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T12:56:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#1",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T20:09:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo#1",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T15:18:20Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo#1",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T03:02:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#1",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T16:54:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr894w453e90o#1",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T19:23:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko#1",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "description": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T11:07:19Z"
+      "id": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro#2",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "description": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T02:24:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo#1",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "description": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T07:45:52Z"
+      "id": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go#2",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "description": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T23:42:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno#1",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T13:58:49Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo#2",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T13:02:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo#1",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "description": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T21:27:21Z"
+      "id": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo#2",
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T21:43:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#1",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T22:07:37Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm894wg251pzo#2",
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
+      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T09:28:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo#1",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "description": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T02:40:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#3",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+      "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T08:20:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#1",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "description": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T08:46:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o#3",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T00:20:24Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o#1",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "description": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T04:03:13Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo#3",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T17:11:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c933gn6710lyo#1",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T14:56:11Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo#3",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "description": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T19:33:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#1",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T18:38:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmde1y19g19do#3",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T14:12:55Z"
     }
   ]
 }
