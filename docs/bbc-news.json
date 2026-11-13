@@ -2,21 +2,35 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-12T19:57:30.365057Z",
+  "updatedAt": "2026-11-13T01:51:06.867059Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0",
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T18:28:59Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T23:34:05Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo#0",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T13:02:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T21:00:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o#0",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T00:20:24Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#0",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T20:09:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr894w453e90o#0",
@@ -26,18 +40,25 @@
       "publishedAt": "2026-11-12T19:23:02Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T12:56:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo#1",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T01:03:59Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno#1",
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "description": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T18:47:35Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#1",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T12:56:55Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo#1",
@@ -76,10 +97,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo#1",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "description": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "description": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
       "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T10:13:35Z"
+      "publishedAt": "2026-11-12T21:27:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#1",
@@ -122,27 +143,6 @@
       "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T18:38:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o#1",
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "description": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T18:10:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#1",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:45:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#1",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T13:24:29Z"
     }
   ]
 }
