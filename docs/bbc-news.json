@@ -2,105 +2,91 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-14T10:30:38.260565Z",
+  "updatedAt": "2026-11-14T18:08:04.186550Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno#0",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T17:16:36Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo#0",
       "title": "What we know about the ground stop and what to do if you're affected",
       "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T07:42:11Z"
+      "publishedAt": "2026-11-14T14:20:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#0",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T15:15:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#0",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T16:29:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo#0",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "description": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T17:56:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo#0",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T14:18:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo#0",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T18:00:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#1",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T15:53:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo#1",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T15:42:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo#1",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T10:42:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo#1",
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T23:40:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#0",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T05:52:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o#1",
       "title": "Microsoft says services fully restored after day-long global outage",
       "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-14T06:42:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo#0",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T00:01:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq39glwprknjo#0",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T16:40:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro#1",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T19:53:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o#1",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "description": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T17:54:33Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo#1",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T18:34:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go#1",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "description": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T15:42:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy4930jq749o#1",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T19:03:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo#1",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "description": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T13:11:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#1",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T11:38:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo#1",
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T07:01:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o#2",
@@ -111,10 +97,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o#2",
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-      "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T21:15:24Z"
+      "publishedAt": "2026-11-14T11:30:10Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo#2",
@@ -143,6 +129,20 @@
       "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
       "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T13:02:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo#3",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T00:03:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo#3",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T00:03:52Z"
     }
   ]
 }
