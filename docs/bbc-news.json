@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-14T01:27:27.276925Z",
+  "updatedAt": "2026-11-14T10:30:38.260565Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo#0",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T07:42:11Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo#0",
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
@@ -12,25 +19,18 @@
       "publishedAt": "2026-11-13T23:40:45Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#0",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T05:52:31Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o#0",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T21:14:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T18:36:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cqzjr903n01po#0",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T11:43:27Z"
+      "publishedAt": "2026-11-14T06:42:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo#0",
@@ -52,6 +52,13 @@
       "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T19:53:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o#1",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "description": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T17:54:33Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo#1",
@@ -96,11 +103,11 @@
       "publishedAt": "2026-11-13T07:01:43Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo#1",
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "description": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T15:16:50Z"
+      "id": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o#2",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T01:47:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o#2",
@@ -136,13 +143,6 @@
       "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
       "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T13:02:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo#2",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T21:43:35Z"
     }
   ]
 }
