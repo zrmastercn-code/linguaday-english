@@ -2,8 +2,15 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-14T22:28:08.674113Z",
+  "updatedAt": "2026-11-15T06:38:48.199313Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#0",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T22:37:25Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno#0",
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -12,11 +19,18 @@
       "publishedAt": "2026-11-14T19:12:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#0",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "description": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T20:41:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo#0",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T02:49:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o#0",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "description": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T03:21:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#0",
@@ -40,14 +54,14 @@
       "publishedAt": "2026-11-14T18:17:58Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo#1",
       "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
       "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
       "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-14T18:00:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#1",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
@@ -73,20 +87,6 @@
       "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
       "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-14T10:42:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo#1",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T20:23:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o#1",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T06:42:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o#2",
@@ -131,18 +131,18 @@
       "publishedAt": "2026-11-12T13:02:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo#3",
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T20:03:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo#3",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T00:06:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo#3",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T00:03:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o#3",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T00:06:55Z"
     }
   ]
 }
