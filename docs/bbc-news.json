@@ -2,56 +2,98 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-15T06:38:48.199313Z",
+  "updatedAt": "2026-11-15T16:23:35.117996Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo#0",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T13:42:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo#0",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "description": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T11:06:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o#0",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T13:37:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo#0",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T14:56:21Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo#0",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T08:17:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o#0",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T14:33:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o#0",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "description": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T09:26:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o#1",
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T15:57:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo#1",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T09:57:25Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#1",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-14T22:37:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno#0",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T19:12:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo#0",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T02:49:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o#0",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "description": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T03:21:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#0",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T18:28:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo#0",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T22:09:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo#1",
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
       "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-14T18:17:58Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno#1",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T07:10:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#1",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T18:28:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo#1",
@@ -68,11 +110,11 @@
       "publishedAt": "2026-11-14T15:53:55Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo#1",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T00:03:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo#1",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T10:42:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo#1",
@@ -82,18 +124,11 @@
       "publishedAt": "2026-11-14T15:42:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo#1",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T10:42:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o#2",
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T01:47:36Z"
+      "id": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo#2",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T22:09:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o#2",
@@ -108,41 +143,6 @@
       "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
       "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T15:09:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro#2",
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "description": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
-      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T02:24:11Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go#2",
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "description": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T23:42:52Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo#2",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T13:02:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo#3",
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T00:06:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o#3",
-      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T00:06:55Z"
     }
   ]
 }
