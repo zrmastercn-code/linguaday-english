@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-15T22:51:30.355397Z",
+  "updatedAt": "2026-11-16T06:35:11.403456Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o#0",
@@ -12,81 +12,88 @@
       "publishedAt": "2026-11-15T19:32:39Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o#0",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T13:37:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo#0",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T18:38:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo#0",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T03:08:31Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo#0",
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T22:24:20Z"
+      "publishedAt": "2026-11-16T01:47:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o#0",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "description": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T03:09:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo#0",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "description": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T03:21:56Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c60evn992jq8o#0",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "description": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:00:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo#0",
+      "title": "Canada bars Russia from Junior World Championships",
+      "description": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:01:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo#1",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "description": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T05:06:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o#1",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T13:37:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo#1",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T18:38:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c65y131w1534o#1",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "description": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:57:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o#1",
       "title": "Czechs rally against plan to switch funding of public media",
       "description": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-15T21:03:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo#0",
-      "title": "Police ban protests near 10 schools and five universities in Paris",
-      "description": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T22:28:54Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo#0",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "description": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T11:06:32Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o#1",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "description": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T16:15:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o#1",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "description": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T19:20:53Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo#1",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T13:42:58Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o#1",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T15:57:03Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo#1",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "description": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T19:31:48Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo#2",
+      "title": "Watch: New York teen reunites with cat missing after building collapse",
+      "description": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+      "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T04:36:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo#2",
@@ -110,6 +117,13 @@
       "publishedAt": "2026-11-13T15:09:40Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o#3",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "description": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:13:14Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo#3",
       "title": "Judo champion shakes up French presidential race with surprise candidacy",
       "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
@@ -129,20 +143,6 @@
       "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-15T14:57:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo#3",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T00:03:56Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo#3",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T23:11:51Z"
     }
   ]
 }
