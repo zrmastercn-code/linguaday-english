@@ -2,91 +2,98 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-17T03:55:52.554545Z",
+  "updatedAt": "2026-11-17T16:04:01.537389Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw987343352go#0",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T23:20:45Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#0",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T13:01:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo#0",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T21:40:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#0",
+      "title": "How the attack on Crimean Bridge unfolded",
+      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:38:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T02:37:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#0",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:36:11Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o#0",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T14:58:12Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmn504nq5033o#0",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:17:32Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o#0",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "description": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T17:18:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o#0",
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T09:27:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo#0",
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T20:33:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#0",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:59:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go#0",
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "description": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T19:30:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o#1",
+      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+      "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:17:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo#1",
-      "title": "Two mass shootings in South Africa leave 17 dead",
-      "description": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-      "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T10:57:48Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo#1",
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "description": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:58:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o#1",
-      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "description": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-      "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T13:40:56Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko#1",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T01:26:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o#1",
-      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-      "description": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-      "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T14:48:55Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo#1",
+      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+      "description": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T07:01:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvde1klewg88o#1",
-      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "description": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
-      "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T12:42:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po#1",
+      "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+      "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:19:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqp83nk673reo#1",
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "description": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T14:22:36Z"
+      "id": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o#2",
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "description": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T06:23:51Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo#2",
+      "title": "Will President Trump meet Kim Jong Un?",
+      "description": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T10:13:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo#2",
@@ -103,46 +110,39 @@
       "publishedAt": "2026-11-16T04:36:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo#2",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T18:38:11Z"
+      "id": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o#2",
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "description": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+      "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T21:12:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo#2",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T22:09:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo#3",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T14:25:45Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o#3",
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "description": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
-      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T00:13:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo#3",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T05:59:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c574290jvk8wo#3",
-      "title": "Robert Pattinson: How the Twilight star became 007",
-      "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-      "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T15:02:41Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo#3",
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:49:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no#3",
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "description": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T00:41:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#3",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T15:40:16Z"
+      "id": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo#3",
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+      "description": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T02:38:08Z"
     }
   ]
 }
