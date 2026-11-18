@@ -2,77 +2,63 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-18T11:47:49.277665Z",
+  "updatedAt": "2026-11-18T20:35:23.620561Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#0",
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "description": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T23:02:12Z"
+      "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#0",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:00:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T01:18:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o#0",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:00:04Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o#0",
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "description": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T04:57:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo#0",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T16:10:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#0",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T10:23:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno#0",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T20:14:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#0",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T21:24:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o#0",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T20:07:08Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq7825234lgmo#0",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T17:19:57Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o#0",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "description": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T13:04:48Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo#0",
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T07:48:18Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#0",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:34:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#1",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T20:30:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o#1",
-      "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-      "description": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-      "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T05:11:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo#1",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T21:04:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo#1",
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "description": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T15:39:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o#1",
@@ -82,67 +68,81 @@
       "publishedAt": "2026-11-18T09:27:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#1",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T22:46:30Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmy49873dn95o#1",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:34:23Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqlykve012d1o#1",
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T18:20:36Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o#1",
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "description": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T16:33:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo#1",
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T21:06:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#1",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T10:23:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o#1",
-      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T09:27:44Z"
+      "id": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#1",
+      "title": "Bancroft sandpaper claims heap pressure on Cummins",
+      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T11:12:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn504nq5033o#1",
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T11:17:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o#1",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "description": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T09:28:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo#1",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T17:37:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#1",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T01:18:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo#2",
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T15:54:15Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#1",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T03:07:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o#2",
-      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-      "description": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T06:23:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o#1",
+      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+      "description": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T02:29:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo#2",
-      "title": "Will President Trump meet Kim Jong Un?",
-      "description": "President Trump says he would be keen to meet the North Korea leader in China.",
-      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T10:13:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o#1",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "description": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T04:57:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo#1",
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "description": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+      "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T02:00:37Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#1",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T21:24:35Z"
     }
   ]
 }
