@@ -2,14 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-17T16:04:01.537389Z",
+  "updatedAt": "2026-11-18T00:58:28.137665Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#0",
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T13:01:11Z"
+      "publishedAt": "2026-11-17T21:24:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#0",
@@ -19,39 +19,102 @@
       "publishedAt": "2026-11-17T15:38:10Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T00:28:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo#0",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T22:44:15Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq7825234lgmo#0",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T17:19:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo#0",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T21:06:11Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#0",
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
       "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T15:36:11Z"
+      "publishedAt": "2026-11-17T20:30:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn504nq5033o#0",
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T11:17:32Z"
+      "id": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo#1",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T21:04:00Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#1",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T22:46:30Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqlykve012d1o#1",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T18:20:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no#1",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T20:25:46Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o#1",
       "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
       "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
       "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T09:27:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmn504nq5033o#1",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:17:32Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo#1",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T17:37:04Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#1",
       "title": "UK sanctions firms over Israeli West Bank settlements",
       "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
       "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T15:59:47Z"
+      "publishedAt": "2026-11-17T18:27:27Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o#1",
-      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
       "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
       "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T15:17:49Z"
+      "publishedAt": "2026-11-17T18:58:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo#1",
@@ -61,25 +124,11 @@
       "publishedAt": "2026-11-17T11:58:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko#1",
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T01:26:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo#1",
-      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-      "description": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T07:01:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po#1",
-      "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-      "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T15:19:19Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo#2",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:54:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o#2",
@@ -94,55 +143,6 @@
       "description": "President Trump says he would be keen to meet the North Korea leader in China.",
       "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T10:13:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo#2",
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-      "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T15:08:59Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo#2",
-      "title": "New York teen reunites with cat missing after building collapse",
-      "description": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-      "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T04:36:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o#2",
-      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-      "description": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
-      "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T21:12:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo#3",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T14:25:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo#3",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T05:59:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo#3",
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T11:49:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo#3",
-      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-      "description": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T02:38:08Z"
     }
   ]
 }
