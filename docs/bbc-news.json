@@ -2,35 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-18T00:58:28.137665Z",
+  "updatedAt": "2026-11-18T11:47:49.277665Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#0",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "description": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T23:02:12Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T01:18:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o#0",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "description": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T04:57:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#0",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T10:23:57Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#0",
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T21:24:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#0",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T15:38:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T00:28:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo#0",
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
-      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T22:44:15Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq7825234lgmo#0",
@@ -40,18 +47,25 @@
       "publishedAt": "2026-11-17T17:19:57Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo#0",
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T21:06:11Z"
+      "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo#0",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T07:48:18Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#1",
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
       "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T20:30:20Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o#1",
+      "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+      "description": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+      "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T05:11:42Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo#1",
@@ -59,6 +73,13 @@
       "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
       "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T21:04:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o#1",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "description": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+      "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T09:27:51Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#1",
@@ -75,11 +96,11 @@
       "publishedAt": "2026-11-17T18:20:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no#1",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T20:25:46Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo#1",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T21:06:11Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o#1",
@@ -101,27 +122,6 @@
       "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
       "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T17:37:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#1",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T18:27:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o#1",
-      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-      "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T18:58:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo#1",
-      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-      "description": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T11:58:16Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo#2",
