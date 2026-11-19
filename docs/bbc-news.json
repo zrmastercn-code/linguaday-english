@@ -2,28 +2,42 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-19T11:44:20.233962Z",
+  "updatedAt": "2026-11-19T20:40:39.801182Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o#0",
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T04:42:52Z"
+      "id": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo#0",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T20:07:02Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o#0",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T17:38:22Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go#0",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T19:16:21Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c58j484089ewo#0",
-      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-      "description": "Some local media report that at least four bodies have been recovered.",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "description": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
       "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T09:02:52Z"
+      "publishedAt": "2026-11-19T15:52:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo#0",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T10:48:04Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#0",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "description": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:07:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo#0",
@@ -33,39 +47,46 @@
       "publishedAt": "2026-11-19T00:49:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#0",
-      "title": "Crimean Bridge attacked again, Russia says",
-      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T07:32:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo#1",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "description": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:31:23Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo#1",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "description": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T17:23:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o#1",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "description": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T12:56:30Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c920xgxp5785o#1",
       "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
       "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T09:21:54Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo#1",
-      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-      "description": "Several African stars feature",
-      "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T10:32:10Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#1",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:00:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cm702q0lg50po#1",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "description": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+      "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T11:44:57Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno#1",
       "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
       "description": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T11:07:37Z"
+      "publishedAt": "2026-11-19T17:03:23Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o#1",
@@ -73,6 +94,13 @@
       "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T02:59:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#1",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:00:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o#1",
@@ -115,34 +143,6 @@
       "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T21:13:06Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o#1",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "description": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T16:33:16Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#1",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T10:23:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#1",
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T11:12:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o#1",
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "description": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T09:28:35Z"
     }
   ]
 }
