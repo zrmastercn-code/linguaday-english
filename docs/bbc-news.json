@@ -2,35 +2,28 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-19T02:35:35.323438Z",
+  "updatedAt": "2026-11-19T11:44:20.233962Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#0",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:00:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o#0",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T04:42:52Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o#0",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:00:04Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o#0",
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "description": "No state has ever been found guilty by an international court of committing genocide.",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T23:04:06Z"
+      "id": "https://www.bbc.co.uk/news/articles/c58j484089ewo#0",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "description": "Some local media report that at least four bodies have been recovered.",
+      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T09:02:52Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo#0",
-      "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
-      "description": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T02:20:15Z"
+      "publishedAt": "2026-11-19T10:48:04Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo#0",
@@ -40,25 +33,46 @@
       "publishedAt": "2026-11-19T00:49:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno#0",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#0",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T07:32:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c920xgxp5785o#1",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T09:21:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo#1",
+      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+      "description": "Several African stars feature",
+      "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T10:32:10Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#1",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:00:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno#1",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "description": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T22:34:56Z"
+      "publishedAt": "2026-11-19T11:07:37Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o#1",
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T01:56:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#1",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T01:05:03Z"
+      "publishedAt": "2026-11-19T02:59:06Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o#1",
@@ -129,20 +143,6 @@
       "description": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
       "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T09:28:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#1",
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T01:18:18Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#1",
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T03:07:22Z"
     }
   ]
 }
