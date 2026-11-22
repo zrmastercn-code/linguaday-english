@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-21T19:19:03.745763Z",
+  "updatedAt": "2026-11-22T01:21:53.703881Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#0",
@@ -16,56 +16,49 @@
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T18:22:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#0",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:42:47Z"
+      "publishedAt": "2026-11-21T19:20:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o#0",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T14:54:24Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#0",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T16:35:15Z"
+      "publishedAt": "2026-11-21T22:19:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o#0",
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T13:15:21Z"
+      "publishedAt": "2026-11-21T23:31:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#0",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:37:09Z"
+      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#0",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:10:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#1",
+      "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#0",
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
       "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T10:26:36Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o#1",
+      "id": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o#0",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
       "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T04:34:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do#1",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "description": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T22:01:19Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o#1",
@@ -73,6 +66,20 @@
       "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T09:40:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#1",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T22:37:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#1",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T22:42:47Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o#1",
@@ -136,13 +143,6 @@
       "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
       "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T21:43:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o#2",
-      "title": "Cost of living protests sweep across Europe",
-      "description": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-      "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T16:45:34Z"
     }
   ]
 }
