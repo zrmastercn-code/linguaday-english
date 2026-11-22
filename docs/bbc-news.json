@@ -2,8 +2,43 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-22T01:21:53.703881Z",
+  "updatedAt": "2026-11-22T11:29:44.282667Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no#0",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:20:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#0",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T11:25:14Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o#0",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T01:25:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo#0",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "description": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:05:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo#0",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:12:41Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#0",
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -12,42 +47,14 @@
       "publishedAt": "2026-11-21T13:17:38Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#0",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:20:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o#0",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T22:19:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o#0",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T23:31:17Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#1",
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T00:10:44Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#0",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T10:26:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o#1",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
       "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
@@ -66,6 +73,13 @@
       "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T09:40:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#1",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T10:26:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#1",
@@ -117,13 +131,6 @@
       "publishedAt": "2026-11-20T20:54:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo#1",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T19:27:49Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko#2",
       "title": "US declassifies more UFO footage filmed in the Middle East",
       "description": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
@@ -136,13 +143,6 @@
       "description": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
       "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T18:48:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo#2",
-      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-      "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T21:43:22Z"
     }
   ]
 }
