@@ -2,19 +2,19 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-22T19:43:47.657828Z",
+  "updatedAt": "2026-11-23T01:45:53.541731Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#0",
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T18:17:59Z"
+      "publishedAt": "2026-11-23T00:50:35Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo#0",
       "title": "What's next after no deal at COP31 climate talks?",
-      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T18:57:24Z"
     },
@@ -23,14 +23,14 @@
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T19:26:54Z"
+      "publishedAt": "2026-11-22T20:28:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o#0",
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
       "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:57:43Z"
+      "publishedAt": "2026-11-22T22:37:43Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#0",
@@ -54,6 +54,13 @@
       "publishedAt": "2026-11-22T14:05:20Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno#1",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T01:23:43Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo#1",
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
@@ -65,14 +72,7 @@
       "title": "Miley Cyrus marries Maxx Morando in California ceremony",
       "description": "The couple have been together for four years and were engaged in 2025.",
       "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T08:46:28Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo#1",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T07:12:41Z"
+      "publishedAt": "2026-11-22T21:22:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o#1",
@@ -80,6 +80,13 @@
       "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T01:25:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo#1",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T00:33:36Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#1",
@@ -136,13 +143,6 @@
       "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T22:42:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o#1",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T23:08:57Z"
     }
   ]
 }
