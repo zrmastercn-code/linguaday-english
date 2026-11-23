@@ -2,56 +2,77 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-23T01:45:53.541731Z",
+  "updatedAt": "2026-11-23T12:52:39.922859Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#0",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T00:50:35Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo#0",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T18:57:24Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#0",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T20:28:09Z"
+      "publishedAt": "2026-11-23T11:40:01Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o#0",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T22:37:43Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#0",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T05:15:06Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#0",
+      "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#0",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T11:57:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go#0",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T05:33:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o#0",
+      "title": "Flights and train services cancelled in Belgium due to strike",
+      "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T12:27:34Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o#0",
+      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "description": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T12:33:44Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo#0",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "description": "The couple have been together for four years and were engaged in 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T21:22:40Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro#1",
+      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "description": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T08:53:01Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#1",
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T17:18:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no#1",
       "title": "South Korea education minister resigns over exam cheating scandal",
       "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
       "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T09:20:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo#0",
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T14:05:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno#1",
@@ -68,11 +89,11 @@
       "publishedAt": "2026-11-22T18:29:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo#1",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "description": "The couple have been together for four years and were engaged in 2025.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T21:22:40Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo#1",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T14:05:20Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o#1",
@@ -122,27 +143,6 @@
       "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T09:40:55Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#1",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T10:26:36Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#1",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:37:09Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#1",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:42:47Z"
     }
   ]
 }
