@@ -2,70 +2,91 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-24T02:14:06.822326Z",
+  "updatedAt": "2026-11-24T13:47:53.213701Z",
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo#0",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T23:16:08Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o#0",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T10:53:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#0",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T15:41:23Z"
+      "id": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o#0",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T07:26:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo#0",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T20:48:35Z"
+      "id": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#0",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T10:58:51Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#0",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T21:24:47Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "description": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T05:33:07Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o#0",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "description": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T12:12:48Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm78270l4z7no#0",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T11:10:57Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do#1",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T11:45:52Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o#1",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T10:48:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo#1",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T12:45:43Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o#1",
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
       "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
       "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-23T18:04:20Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cky970n83rvjo#0",
-      "title": "What failure of COP31 reveals about a divided world",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T17:24:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#0",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T17:07:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko#1",
-      "title": "India pledges $1.6bn to Nepal in reset of ties",
-      "description": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T13:39:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq7820xjm49po#1",
-      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-      "description": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
-      "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T12:43:40Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo#1",
-      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-      "description": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T14:55:14Z"
+      "id": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo#1",
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "description": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T06:23:01Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o#1",
@@ -75,74 +96,53 @@
       "publishedAt": "2026-11-23T17:14:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o#1",
-      "title": "Flights cancelled in Belgium due to cost-of-living strike",
-      "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T13:34:02Z"
+      "id": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o#1",
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T00:23:25Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o#1",
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "description": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T14:54:03Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo#1",
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "description": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T21:03:34Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo#1",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "description": "The couple have been together for four years and were engaged in 2025.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T21:22:40Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo#2",
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T09:09:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro#1",
-      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-      "description": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T08:53:01Z"
+      "id": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo#2",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T01:21:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o#1",
-      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
-      "description": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T14:26:33Z"
+      "id": "https://www.bbc.co.uk/news/videos/crd910g5x882o#2",
+      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+      "description": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+      "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T22:59:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go#1",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T05:33:17Z"
+      "id": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo#2",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T18:49:19Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no#1",
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T09:20:45Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno#1",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T13:02:05Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#1",
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:18:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo#1",
-      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-      "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T18:29:46Z"
+      "id": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo#2",
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "description": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T11:34:10Z"
     }
   ]
 }
