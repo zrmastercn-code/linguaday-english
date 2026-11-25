@@ -2,56 +2,112 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-24T23:54:43.311570Z",
+  "updatedAt": "2026-11-25T08:40:17.731999Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#0",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T00:56:51Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo#0",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T21:19:42Z"
+      "publishedAt": "2026-11-25T03:44:07Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o#0",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T16:49:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo#0",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "description": "The verdict follows a months-long trial in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T02:59:27Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T06:00:36Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o#0",
+      "title": "The rising cost of putting food on the table in India",
+      "description": "India's food inflation is broadening, squeezing household budgets.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T01:02:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crwy4egxn592o#0",
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "description": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T01:40:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o#0",
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "description": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T06:36:00Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o#1",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "description": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T23:03:59Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o#1",
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "description": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T07:26:54Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o#1",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "description": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T23:05:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o#1",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T15:35:53Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#1",
       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T18:07:46Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo#0",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "description": "The verdict follows a months-long trial in New York.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T22:24:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#1",
       "title": "Land mine casualties soar in Syria, two years after war",
       "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
       "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T15:17:28Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o#1",
       "title": "Nigerian monarch, 92, suspended after sexual assault claims",
       "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
       "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T19:10:31Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o#0",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T15:35:53Z"
+      "id": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o#1",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T16:49:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#1",
@@ -82,67 +138,11 @@
       "publishedAt": "2026-11-23T21:24:47Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o#1",
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T17:04:00Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do#1",
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T11:45:52Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o#1",
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
       "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T19:27:23Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo#1",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T12:45:43Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o#1",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T18:04:20Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo#1",
-      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "description": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
-      "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T06:23:01Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o#1",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "description": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T17:14:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o#1",
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T00:23:25Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo#2",
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T09:09:41Z"
     }
   ]
 }
