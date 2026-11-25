@@ -2,147 +2,147 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-25T08:40:17.731999Z",
+  "updatedAt": "2026-11-25T19:19:31.720751Z",
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#0",
+      "title": "US announces new tariffs on host of countries including China",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T16:21:34Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#0",
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
       "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
       "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T00:56:51Z"
+      "publishedAt": "2026-11-25T12:21:49Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo#0",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T03:44:07Z"
+      "id": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#0",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T00:54:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo#0",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "description": "The verdict follows a months-long trial in New York.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T02:59:27Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
+      "title": "US stocks fall further as fears over AI intensify",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T17:48:09Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
-      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
-      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
       "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T06:00:36Z"
+      "publishedAt": "2026-11-25T17:30:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o#0",
-      "title": "The rising cost of putting food on the table in India",
-      "description": "India's food inflation is broadening, squeezing household budgets.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T01:02:13Z"
+      "id": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo#0",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "description": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T14:06:13Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crwy4egxn592o#0",
+      "id": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo#1",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "description": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T14:46:41Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo#1",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "description": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T10:03:42Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo#1",
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "description": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T18:41:33Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo#1",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "description": "The verdict follows a months-long trial in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T10:52:09Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo#1",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "description": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T15:41:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crwy4egxn592o#1",
       "title": "Thomas Markle charged in US for possessing child sex abuse images",
       "description": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
       "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T01:40:42Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o#0",
-      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-      "description": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T06:36:00Z"
+      "id": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo#1",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "description": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T07:08:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o#1",
-      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-      "description": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T23:03:59Z"
+      "id": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo#1",
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "description": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T12:24:12Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o#1",
-      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-      "description": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T07:26:54Z"
+      "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o#1",
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T15:42:50Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o#1",
-      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-      "description": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T23:05:11Z"
+      "id": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo#2",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "description": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T03:28:37Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o#1",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T15:35:53Z"
+      "id": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o#2",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+      "description": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "link": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T22:07:30Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#1",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T18:07:46Z"
+      "id": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo#2",
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T09:09:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#1",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T15:17:28Z"
+      "id": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo#2",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T01:21:41Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o#1",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T19:10:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o#1",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T16:49:07Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#1",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T10:58:51Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o#1",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T07:26:27Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm78270l4z7no#1",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T11:10:57Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#1",
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T21:24:47Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o#1",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T19:27:23Z"
+      "id": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo#2",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T18:49:19Z"
     }
   ]
 }
