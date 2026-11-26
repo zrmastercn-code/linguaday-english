@@ -2,35 +2,14 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-25T19:19:31.720751Z",
+  "updatedAt": "2026-11-26T03:35:48.241755Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#0",
       "title": "US announces new tariffs on host of countries including China",
       "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T16:21:34Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#0",
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T12:21:49Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#0",
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T00:54:13Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
-      "title": "US stocks fall further as fears over AI intensify",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T17:48:09Z"
+      "publishedAt": "2026-11-26T03:01:40Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
@@ -40,7 +19,91 @@
       "publishedAt": "2026-11-25T17:30:16Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#0",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T22:18:06Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro#0",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "description": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T00:22:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o#0",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T19:47:39Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
+      "title": "US stocks fall further as fears over AI intensify",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T21:43:18Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko#0",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T00:23:05Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckn806qq760po#1",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "description": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T01:22:55Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq772vk664yvo#1",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T16:42:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo#1",
+      "title": "Macy's postpones Thanksgiving parade due to weather",
+      "description": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T23:57:03Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o#1",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "description": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T23:18:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o#1",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "description": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T21:51:17Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#1",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T00:54:13Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#1",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T12:21:49Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo#1",
       "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
       "description": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
       "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
@@ -75,74 +138,11 @@
       "publishedAt": "2026-11-25T10:52:09Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo#1",
-      "title": "Canadian astronaut welcomes baby girl from space station",
-      "description": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T15:41:39Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crwy4egxn592o#1",
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "description": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T01:40:42Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo#1",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "description": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T07:08:22Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo#1",
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "description": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T12:24:12Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o#1",
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T15:42:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo#2",
-      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-      "description": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
-      "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T03:28:37Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o#2",
-      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
-      "description": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
-      "link": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T22:07:30Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo#2",
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T09:09:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo#2",
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T01:21:41Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo#2",
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T18:49:19Z"
+      "id": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo#2",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "description": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T19:38:05Z"
     }
   ]
 }
