@@ -2,8 +2,29 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-26T16:57:21.824270Z",
+  "updatedAt": "2026-11-27T01:45:13.802834Z",
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#0",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T22:49:27Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T00:52:11Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cq808d704m22o#0",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T19:26:16Z"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#0",
       "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
@@ -23,7 +44,7 @@
       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
       "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
       "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T15:17:18Z"
+      "publishedAt": "2026-11-26T22:01:22Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o#0",
@@ -33,25 +54,18 @@
       "publishedAt": "2026-11-26T14:44:26Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
-      "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-      "description": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T15:57:26Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo#1",
       "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
       "description": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
       "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-26T14:35:22Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o#0",
-      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
+      "id": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o#1",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
       "description": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
       "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T16:39:30Z"
+      "publishedAt": "2026-11-26T21:17:53Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o#1",
@@ -129,20 +143,6 @@
       "description": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
       "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-26T07:43:48Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo#1",
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T09:27:44Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo#2",
-      "title": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
-      "description": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
-      "link": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T09:22:34Z"
     }
   ]
 }
