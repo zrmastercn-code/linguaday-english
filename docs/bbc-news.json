@@ -2,7 +2,7 @@
   "source": "BBC News",
   "sourceUrl": "https://www.bbc.com/news",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": "2026-11-27T23:28:49.039396Z",
+  "updatedAt": "2026-11-28T07:53:55.709645Z",
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo#0",
@@ -12,6 +12,27 @@
       "publishedAt": "2026-11-27T21:55:53Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo#0",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "description": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T04:13:45Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o#0",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "description": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T04:19:16Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo#0",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T00:56:55Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#0",
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
@@ -19,39 +40,11 @@
       "publishedAt": "2026-11-27T18:00:40Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o#0",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T18:42:50Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo#1",
       "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "description": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
       "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-27T20:06:31Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo#0",
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
-      "description": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T15:54:15Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo#0",
-      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-      "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T22:03:46Z"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo#0",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "description": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T20:34:45Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw074p95ye5do#1",
@@ -75,18 +68,18 @@
       "publishedAt": "2026-11-27T07:28:10Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo#1",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T13:38:07Z"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo#1",
       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
       "description": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
       "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-27T17:19:31Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo#1",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T13:38:07Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o#2",
@@ -124,6 +117,13 @@
       "publishedAt": "2026-11-26T19:26:16Z"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o#3",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T18:42:50Z"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o#3",
       "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
       "description": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
@@ -131,18 +131,18 @@
       "publishedAt": "2026-11-27T23:02:35Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo#3",
-      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-      "description": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T06:04:51Z"
+      "id": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno#3",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "description": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T00:05:17Z"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx30g71rev23o#3",
-      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-      "description": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T00:47:43Z"
+      "id": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o#3",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "description": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+      "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T00:50:11Z"
     }
   ]
 }
